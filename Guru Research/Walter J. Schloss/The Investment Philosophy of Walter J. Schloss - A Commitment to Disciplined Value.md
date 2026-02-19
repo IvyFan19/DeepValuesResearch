@@ -10,7 +10,7 @@ The entire investment process is built upon a small set of foundational principl
 
 ##### 1.1 The Primacy of Capital Preservation
 
-The first and most important rule of investing is to not lose money. This simple, yet profound, belief is the starting point for the entire strategy. This aversion to permanent capital loss is the primary directive that governs every subsequent step of the process, from initial stock screening to portfolio construction and the ultimate sell decision.This principle is captured in the simple declaration:  **"I don't like to lose money."**  This is not a casual preference but the central governor of the investment engine, demanding a defensive posture and a relentless focus on downside protection above all else.
+The first and most important rule of investing is to not lose money. This simple, yet profound, belief is the starting point for the entire strategy. This aversion to permanent capital loss is the primary directive that governs every subsequent step of the process, from initial stock screening to portfolio construction and the ultimate sell decision.This principle is captured in the simple declaration: **"I don't like to lose money."** This is not a casual preference but the central governor of the investment engine, demanding a defensive posture and a relentless focus on downside protection above all else.
 
 ##### 1.2 The Bedrock of "Margin of Safety"
 
@@ -20,9 +20,11 @@ Inherited directly from Benjamin Graham, the principle of "Margin of Safety" is 
 
 The single most important trait for a successful value investor is the ability to control one's emotions. The stock market is often a field of emotional reactions, where fear and greed drive prices away from rational valuations. Success, therefore, is contingent upon a set of rational behaviors that insulate the investor from their own worst instincts:
 
-1. **Detach from the Narrative:**  Actively avoid meeting with company management. Executives can be charismatic and persuasive, creating an emotional bias that can cloud objective financial judgment. This is a critical defense mechanism that protects the quantitative purity of the entire selection process; the investment case must rest solely on verifiable figures, not on the personalities running the company.  
-2. **Act Against the Crowd:**  Understand that the market often overreacts to bad news. A company that is "in trouble" and surrounded by pessimism is frequently a source of opportunity. This fear creates the conditions where assets can be purchased cheaply, providing the desired margin of safety.  
-3. **Invest Based on Facts, Not Forecasts:**  Make purchasing decisions based on the company's current, verifiable financial reality, not on speculation. The focus is on "present facts," such as the strength of the balance sheet, rather than "future possibilities," like the potential success of a new product or shifts in economic trends.These philosophical tenets provide the unwavering foundation upon which the practical, day-to-day investment process is built.
+1.  **Detach from the Narrative:** Actively avoid meeting with company management. Executives can be charismatic and persuasive, creating an emotional bias that can cloud objective financial judgment. This is a critical defense mechanism that protects the quantitative purity of the entire selection process; the investment case must rest solely on verifiable figures, not on the personalities running the company.
+
+2.  **Act Against the Crowd:** Understand that the market often overreacts to bad news. A company that is "in trouble" and surrounded by pessimism is frequently a source of opportunity. This fear creates the conditions where assets can be purchased cheaply, providing the desired margin of safety.
+
+3.  **Invest Based on Facts, Not Forecasts:** Make purchasing decisions based on the company's current, verifiable financial reality, not on speculation. The focus is on "present facts," such as the strength of the balance sheet, rather than "future possibilities," like the potential success of a new product or shifts in economic trends.These philosophical tenets provide the unwavering foundation upon which the practical, day-to-day investment process is built.
 
 #### 2.0 The Investment Selection Process: A Quantitative and Contrarian Approach
 
@@ -36,14 +38,18 @@ The primary hunting ground for potential investments is the list of stocks makin
 
 Once a potential opportunity is identified, it is subjected to a rigorous evaluation based on a short list of non-negotiable financial metrics. Each criterion is a precondition for investment, designed to ensure a buffer of safety and align interests.
 
-* **Low Debt:**  This is the most critical factor. Debt introduces significant risk, magnifies problems, and can ultimately lead to bankruptcy. This criterion works in direct concert with the sourcing strategy of seeking companies at new lows. A low-debt company facing "trouble" is a qualitatively superior opportunity; its clean balance sheet provides the resilience to withstand the very pressures that created the attractive price, turning a potential value trap into a high-potential value investment.  
-* **Price Below Book Value:**  This is the primary method for establishing a quantifiable margin of safety. By purchasing shares for less than the company's net asset value as stated on its balance sheet, the investment is backed by tangible assets.  
-* **Management's Skin in the Game:**  It is essential to confirm that the company's directors and senior management own a significant amount of stock. This is verified by reviewing annual reports and proxy statements. When management's personal wealth is tied to the company's shares, their interests are more closely aligned with those of outside shareholders.  
-* **Long-Term Operating History:**  A company's history is reviewed over a 15- to 20-year period, often using resources like Value Line. This provides crucial insight into how the business has performed through various market cycles, revealing its underlying resilience and earning power absent the noise of short-term events.
+-   **Low Debt:** This is the most critical factor. Debt introduces significant risk, magnifies problems, and can ultimately lead to bankruptcy. This criterion works in direct concert with the sourcing strategy of seeking companies at new lows. A low-debt company facing "trouble" is a qualitatively superior opportunity; its clean balance sheet provides the resilience to withstand the very pressures that created the attractive price, turning a potential value trap into a high-potential value investment.
+
+-   **Price Below Book Value:** This is the primary method for establishing a quantifiable margin of safety. By purchasing shares for less than the company's net asset value as stated on its balance sheet, the investment is backed by tangible assets.
+
+-   **Management's Skin in the Game:** It is essential to confirm that the company's directors and senior management own a significant amount of stock. This is verified by reviewing annual reports and proxy statements. When management's personal wealth is tied to the company's shares, their interests are more closely aligned with those of outside shareholders.
+
+-   **Long-Term Operating History:** A company's history is reviewed over a 15- to 20-year period, often using resources like Value Line. This provides crucial insight into how the business has performed through various market cycles, revealing its underlying resilience and earning power absent the noise of short-term events.
 
 ##### 2.3 What to Deliberately Ignore
 
-Just as important as what is analyzed is what is intentionally disregarded. The research process is defined by a clear distinction between objective data and subjective narrative.| Focus On (The Numbers) | Avoid (The Narrative) || \------ | \------ || Annual Reports & Proxy Statements | Meetings with Company Management || Balance Sheet (esp. Debt) | Short-Term Economic Trends or Market Predictions || Historical Financial Performance | Speculative Future Growth Stories (e.g., new tech) || Price vs. Book Value | Industries I Do Not Understand (e.g., computers) |  
+Just as important as what is analyzed is what is intentionally disregarded. The research process is defined by a clear distinction between objective data and subjective narrative.\| Focus On (The Numbers) \| Avoid (The Narrative) \|\| ------ \| ------ \|\| Annual Reports & Proxy Statements \| Meetings with Company Management \|\| Balance Sheet (esp. Debt) \| Short-Term Economic Trends or Market Predictions \|\| Historical Financial Performance \| Speculative Future Growth Stories (e.g., new tech) \|\| Price vs. Book Value \| Industries I Do Not Understand (e.g., computers) \|
+
 This quantitative and contrarian selection process ensures that each stock entering the portfolio has first cleared a high bar for safety and value, forming the building blocks of a resilient collection of assets.
 
 #### 3.0 Portfolio Construction and Risk Management
@@ -52,7 +58,7 @@ The Schloss philosophy dictates that risk management transcends individual secur
 
 ##### 3.1 Principle of Radical Diversification
 
-The core risk management strategy is to hold a large and diverse portfolio of securities. The fund is typically comprised of  **over 100 different stocks** . This wide diversification is an explicit acknowledgment that mistakes and unforeseen problems are a part of investing. It builds a structure robust enough to withstand them without catastrophic loss.
+The core risk management strategy is to hold a large and diverse portfolio of securities. The fund is typically comprised of **over 100 different stocks** . This wide diversification is an explicit acknowledgment that mistakes and unforeseen problems are a part of investing. It builds a structure robust enough to withstand them without catastrophic loss.
 
 ##### 3.2 Prudent Position Sizing
 
@@ -82,8 +88,9 @@ Successful long-term investing is as much a matter of character and trust as it 
 
 There is a profound sense of responsibility that comes with managing capital for others. This duty informs a key operational policy: the portfolio's specific holdings are not disclosed to limited partners. This policy serves two critical functions:
 
-1. It prevents partners from buying the same stocks, which would create unnecessary competition for shares.  
-2. It insulates the investment process from the partners' own emotional reactions, preventing them from making calls about specific positions they may dislike.This approach preserves the fund's operational independence and its commitment to an unemotional, data-driven strategy. Consequently, it requires partners who place their fundamental trust not in individual stock picks, but in the manager and the integrity of the investment process itself.
+1.  It prevents partners from buying the same stocks, which would create unnecessary competition for shares.
+
+2.  It insulates the investment process from the partners' own emotional reactions, preventing them from making calls about specific positions they may dislike.This approach preserves the fund's operational independence and its commitment to an unemotional, data-driven strategy. Consequently, it requires partners who place their fundamental trust not in individual stock picks, but in the manager and the integrity of the investment process itself.
 
 ##### 5.2 The Non-Negotiable Importance of Integrity
 
@@ -91,4 +98,4 @@ Over a 50-year career, the single most important lesson learned is the paramount
 
 #### Conclusion: The Enduring Power of Simplicity, Patience, and Discipline
 
-The extraordinary long-term results of this investment philosophy were not achieved through complexity, esoteric financial models, insider information, or an ability to time the market. Success was the direct result of the unwavering and disciplined application of a few simple, powerful principles: buy undervalued companies with low debt, build in a margin of safety, control your emotions and act rationally when others are fearful, remain patient, and, above all, always act with integrity. This approach stands as enduring proof that in the complex arena of investing, unwavering commitment to a few simple, powerful truths—the hard-won distillation of market wisdom—is the most certain path to extraordinary, long-term success.  
+The extraordinary long-term results of this investment philosophy were not achieved through complexity, esoteric financial models, insider information, or an ability to time the market. Success was the direct result of the unwavering and disciplined application of a few simple, powerful principles: buy undervalued companies with low debt, build in a margin of safety, control your emotions and act rationally when others are fearful, remain patient, and, above all, always act with integrity. This approach stands as enduring proof that in the complex arena of investing, unwavering commitment to a few simple, powerful truths—the hard-won distillation of market wisdom—is the most certain path to extraordinary, long-term success.
