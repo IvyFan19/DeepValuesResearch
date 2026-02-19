@@ -3,7 +3,7 @@
 An open-source research library for deep value investing, fundamental analysis, and contrarian market thinking.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Snapshot Date](https://img.shields.io/badge/Snapshot-February%2016%2C%202026-blue)
+![Snapshot Date](https://img.shields.io/badge/Snapshot-February%2019%2C%202026-blue)
 
 ## Overview
 
@@ -11,13 +11,13 @@ This repository is a content-first knowledge base. It combines company-level dee
 
 **Disclaimer**: Content is for educational and informational purposes only and is not investment advice.
 
-## Repository Snapshot (as of February 16, 2026)
+## Repository Snapshot (as of February 19, 2026)
 
 - Top-level research collections: 5
-- Markdown research documents across those collections: 202
-- `Business Research`: 133 docs across 28 active company folders (+1 placeholder folder)
+- Research documents across those collections: 273
+- `Business Research`: 175 docs across 57 active company folders (+9 placeholder folders)
 - `Guru Research`: 27 docs across 14 covered thinkers (+1 placeholder folder)
-- `Market Research`: 13 macro/market memos
+- `Market Research`: 14 macro/market memos
 - `Value Investing Principles`: 28 framework and concept docs
 - `Warren Buffett Archive`: 14 original partnership letters (1957-1970), 14 Chinese translations, 1 summary note
 
@@ -36,13 +36,21 @@ This repository is a content-first knowledge base. It combines company-level dee
 
 ## Business Research Coverage
 
-### Companies with published research (28)
+### Companies with published research (57)
 
-`AAPL`, `AMD`, `AMZN`, `APP`, `BIDU`, `CHAR`, `COIN`, `DIS`, `GOOGL`, `HOOD`, `INTC`, `INTU`, `JRVR`, `LULU`, `MA`, `META`, `MSFT`, `NFLX`, `NKE`, `NVDA`, `PLTR`, `PYPL`, `QQQ`, `RBLX`, `SPY`, `TSLA`, `UNH`, `VOO`
+`AAPL`, `ABBV`, `AMAT`, `AMD`, `AMZN`, `APP`, `AVGO`, `BAC`, `BIDU`, `C`, `CAT`, `CHAR`, `COIN`, `COST`, `CVX`, `DIS`, `GE`, `GEV`, `GOOG`, `GOOGL`, `HD`, `HOOD`, `IBM`, `INTC`, `INTU`, `JNJ`, `JPM`, `JRVR`, `KO`, `LIN`, `LLY`, `LULU`, `MA`, `MCD`, `META`, `MS`, `MSFT`, `MU`, `NFLX`, `NKE`, `NVDA`, `PEP`, `PG`, `PLTR`, `PYPL`, `QQQ`, `RBLX`, `SPY`, `T`, `TSLA`, `TXN`, `UNH`, `V`, `VOO`, `VZ`, `WMT`, `XOM`
 
 ### Placeholder / in-progress folders
 
+- `CSCO (Cisco Systems)`
 - `DOCU (Docusign)`
+- `GS (Goldman Sachs Group)`
+- `LRCX (Lam Research)`
+- `MRK (Merck & Company)`
+- `ORCL (Oracle)`
+- `PM (Philip Morris International)`
+- `RTX (RTX)`
+- `WFC (Wells Fargo & Company)`
 
 ### Common folder patterns
 
