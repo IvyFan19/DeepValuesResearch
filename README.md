@@ -17,7 +17,7 @@ This repository is a content-first knowledge base. It combines company-level dee
 - Research documents across those collections: 273
 - `Business Research`: 175 docs across 57 active company folders (+9 placeholder folders)
 - `Guru Attention`: 27 docs across 14 covered thinkers (+1 placeholder folder)
-- `Market Research`: 14 macro/market memos
+- `Market Vibes`: 14 macro/market memos
 - `Value Investing Principles`: 28 framework and concept docs
 - `Warren Buffett Archive`: 14 original partnership letters (1957-1970), 14 Chinese translations, 1 summary note
 
@@ -27,7 +27,7 @@ This repository is a content-first knowledge base. It combines company-level dee
   Company-level analysis, quarterly reviews, and date-partitioned deep value intelligence bundles.
 - [`Guru Attention/`](Guru%20Attention/)  
   Research on investor frameworks, portfolio moves, and decision philosophies.
-- [`Market Research/`](Market%20Research/)  
+- [`Market Vibes/`](Market%20Vibes/)  
   Macro analysis, valuation environment updates, and thematic risk memos.
 - [`Value Investing Principles/`](Value%20Investing%20Principles/)  
   Educational content on valuation, accounting interpretation, capital allocation, and risk.
@@ -82,7 +82,7 @@ Typical bundle components include:
 ## How to Use This Repository
 
 - Start with `Business Research/` for company-specific investment theses and financial deep dives.
-- Use `Market Research/` to add macro context before forming a position.
+- Use `Market Vibes/` to add macro context before forming a position.
 - Read `Guru Attention/` for framework calibration and decision-quality improvements.
 - Use `Value Investing Principles/` as a method reference when reviewing assumptions and valuation inputs.
 - Use `Warren Buffett Archive/` for historical primary-source context.

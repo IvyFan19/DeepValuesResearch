@@ -15,7 +15,7 @@ This is a **research and knowledge base repository** focused on deep value inves
 Deep-Value-Research/
 ├── Business Research/           # Company-specific financial analyses (AAPL, AMZN, NVDA, etc.)
 ├── Guru Attention/              # Analysis of investor strategies (Munger, Buffett, Druckenmiller)
-├── Market Research/             # Macro trends, market conditions, economic analysis
+├── Market Vibes/                # Macro trends, market conditions, economic analysis
 ├── Value Investing Principles/  # Educational content on fundamental analysis
 └── Warren Buffett Archive/      # Historical partnership letters (1956-1970)
 ```
