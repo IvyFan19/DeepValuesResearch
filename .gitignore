@@ -16,3 +16,7 @@
 .DocumentRevisions-V100
 .TemporaryItems
 .apdisk
+
+# Project generated outputs / tooling
+Books/
+scripts/

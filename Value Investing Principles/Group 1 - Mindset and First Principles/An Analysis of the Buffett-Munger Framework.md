@@ -1,4 +1,4 @@
-# **The Buffett Formula: Business Valuation and Investment Lessons**
+ # **The Buffett Formula: Business Valuation and Investment Lessons**
 
 ###
 

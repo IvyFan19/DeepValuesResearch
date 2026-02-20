@@ -8,7 +8,6 @@ In reality, Berkshire Hathaway is not a fund. It is better understood as a busin
 
 This article will break down this powerful system. We will explore its core engine (insurance float), examine its two primary functions (buying stocks and buying entire companies), and reveal the strategic linchpin that makes the entire model so difficult to replicate.
 
-\--------------------------------------------------------------------------------
 
 ## **1\. The Core Engine: How Insurance Creates "Nearly Free" Money**
 
@@ -37,7 +36,6 @@ While a typical business might have to take a bank loan and pay 5% or 7% in inte
 
 With this enormous pool of low-cost capital, the next logical question is: what does Buffett do with it?
 
-\--------------------------------------------------------------------------------
 
 ## **2\. Capital Allocation: Buffett's Two Critical Choices**
 
@@ -50,7 +48,6 @@ When a typical fund manager receives new cash, they have only one choice: buy mo
 
 Owning these cash-generating companies is only half the story; the real magic lies in how they are connected to form a single, powerful system.
 
-\--------------------------------------------------------------------------------
 
 ## **3\. The Berkshire System: A Powerful Money-Moving Ecosystem**
 
@@ -64,7 +61,6 @@ This internal, frictionless capital transport allows Berkshire to operate with a
 
 If this model is so perfect, why doesn't everyone copy it?
 
-\--------------------------------------------------------------------------------
 
 ## **4\. The System's Achilles' Heel: Why The Berkshire Model is So Hard to Copy**
 
@@ -76,8 +72,6 @@ To measure this, the insurance industry uses a key metric called the **Combined 
 * **If the Combined Ratio is over 100:** The insurance business is losing money. For every $100 in premiums, you might be paying out $105. The "free money" engine has now reversed. The float is no longer an asset but a liability—a loan with an interest rate potentially even higher than a high-interest loan.
 
 Buffett's genius, therefore, is not just in picking stocks. It is rooted in his strict, unwavering discipline. He would rather refuse business than sign an unprofitable insurance policy, because he understands that this underwriting discipline *is the true economic moat* of his entire empire, even more so than his legendary stock-picking.
-
-\--------------------------------------------------------------------------------
 
 ## **Conclusion: Buying a System, Not Just a Stock Portfolio**
 
