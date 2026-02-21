@@ -40,7 +40,7 @@ This syllabus organizes the full `Value Investing Principles` library from simpl
 20. `[EPS] Understanding Earnings Per Share.md`
 21. `[Gross Profit] S&P 500 Gross Profit Analysis.md`
 22. `[Shareholder Equity] Analysis and Summary.md`
-23. `[Financial Statements] S&P 500.md`
+23. `[Financial Statement] S&P 500.md`
 24. `[Cash Flow] Analyzing S&P 500 Trends.md`
 
 ### 3) Business Quality and Compounding
