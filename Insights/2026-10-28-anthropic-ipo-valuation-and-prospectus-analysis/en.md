@@ -18,6 +18,9 @@ youtube:
     lang: "en"
     publish_at: "2026-11-14T14:00:00Z"
 podcast:
+  - title: "Anthropic IPO：內在價值1.48兆美元，市場卻要價2兆"
+    url: "https://open.spotify.com/episode/6IXExBDfRu9R1exlSVDLMH"
+    lang: "zh"
   - title: "Anthropic IPO: $1.48T Value vs a $2T Price Tag"
     url: "https://open.spotify.com/episode/1kKdyjqC04rHEATpiC5chO"
     lang: "en"
