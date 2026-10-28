@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "a005ee02-1dfc-447d-b2db-f570c43d7b82"
 source_urls:
   - title: "FOMC Rate Pause"
-youtube: []
-podcast: []
+youtube:
+  - title: "Fed Pauses at 4%, But Two Governors Wanted More Hikes"
+    url: "https://youtu.be/y8XriOffd3o"
+    lang: "en"
+    publish_at: "2026-11-13T14:00:00Z"
+podcast:
+  - title: "Fed Pauses at 4%, But Two Governors Wanted More Hikes"
+    url: "https://open.spotify.com/episode/3NgjrjWfashFI9lMUnCULW"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

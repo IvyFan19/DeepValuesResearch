@@ -8,8 +8,19 @@ notebook_id: "94d009e0-e78e-4c7d-8ca5-64c244bdfeee"
 source_urls:
   - title: "The Prospectus is here: My (but not the) Anthropic IPO Valuation!"
     url: "https://www.youtube.com/watch?v=cd1xrO2q9HU"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic IPO：內在價值1.48兆美元，市場卻要價2兆"
+    url: "https://youtu.be/UMNXf1IufgY"
+    lang: "zh"
+    publish_at: "2026-11-14T12:00:00Z"
+  - title: "Anthropic IPO: $1.48T Value vs a $2T Price Tag"
+    url: "https://youtu.be/AzVSBLSnnyQ"
+    lang: "en"
+    publish_at: "2026-11-14T14:00:00Z"
+podcast:
+  - title: "Anthropic IPO: $1.48T Value vs a $2T Price Tag"
+    url: "https://open.spotify.com/episode/1kKdyjqC04rHEATpiC5chO"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
