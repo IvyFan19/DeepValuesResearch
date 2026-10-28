@@ -8,8 +8,22 @@ notebook_id: "e7dfbd8b-535c-4d4e-aef6-583324ff6ac4"
 source_urls:
   - title: "Alphabet Deep Value"
   - title: "GOOGL Post-Earnings Deep Research"
-youtube: []
-podcast: []
+youtube:
+  - title: "Alphabet's $205B Bet Turns Google Into an AI Utility"
+    url: "https://youtu.be/oeGBkg8iZLM"
+    lang: "en"
+    publish_at: "2026-11-15T14:00:00Z"
+  - title: "Alphabet砸2050億美元賭AI:Google變AI公用事業"
+    url: "https://youtu.be/8RcZON1roAk"
+    lang: "zh"
+    publish_at: "2026-11-16T12:00:00Z"
+podcast:
+  - title: "Alphabet (GOOGL) — Neutral? Alphabet's $205B Bet Turns Google Into an AI Utility"
+    url: "https://open.spotify.com/episode/44gUCXDegFc8hJi0vcNFXv"
+    lang: "en"
+  - title: "Alphabet（GOOGL）中性？Alphabet砸2050億美元賭AI:Google變AI公用…"
+    url: "https://open.spotify.com/episode/7CuRxWkQ4t4MwRxhTV7z4J"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
