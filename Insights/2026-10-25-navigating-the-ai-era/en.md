@@ -8,8 +8,22 @@ notebook_id: "2e9c26f4-f265-4a0d-af39-1c9cbee70756"
 source_urls:
   - title: "Ilya Sutskever, U of T honorary degree recipient, June 6, 2025"
     url: "https://www.youtube.com/watch?v=zuZ2zaotrJs"
-youtube: []
-podcast: []
+youtube:
+  - title: "Ilya Sutskever: AI Will Do Everything You Can in 3-10 Years"
+    url: "https://youtu.be/cP5A-izQqaE"
+    lang: "en"
+    publish_at: "2026-10-26T13:00:00Z"
+  - title: "Ilya Sutskever：大腦是生物電腦，AI將在3到10年內學會你會的一切"
+    url: "https://youtu.be/O3Vs92Viykg"
+    lang: "zh"
+    publish_at: "2026-10-27T12:00:00Z"
+podcast:
+  - title: "Ilya Sutskever: AI Will Do Everything You Can in 3-10 Years"
+    url: "https://open.spotify.com/episode/7fFAO3qWhCcHiMch3ufq3t"
+    lang: "en"
+  - title: "Ilya Sutskever：大腦是生物電腦，AI將在3到10年內學會你會的一切"
+    url: "https://open.spotify.com/episode/2nTAqRJqNb6mtJMRhMSrTu"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

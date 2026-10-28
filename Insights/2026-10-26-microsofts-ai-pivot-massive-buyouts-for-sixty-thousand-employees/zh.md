@@ -7,8 +7,22 @@ tickers: []
 notebook_id: "d6f3f0a2-d0d1-43db-b16c-36d22b1b2747"
 source_urls:
   - title: "Microsoft AI Buyouts"
-youtube: []
-podcast: []
+youtube:
+  - title: "Microsoft Offers 60,000 Buyouts to Fund $190B of AI Capex"
+    url: "https://youtu.be/U7Y0cSrOtLk"
+    lang: "en"
+    publish_at: "2026-11-07T14:00:00Z"
+  - title: "微軟6萬人優退換1900億美元AI資本支出：利潤率保衛戰"
+    url: "https://youtu.be/j4feyYGD7uI"
+    lang: "zh"
+    publish_at: "2026-11-08T12:00:00Z"
+podcast:
+  - title: "Microsoft (MSFT) — Microsoft Offers 60,000 Buyouts to Fund $190B of AI Capex"
+    url: "https://open.spotify.com/episode/7mIoXclOFpZUqFye1hkqDL"
+    lang: "en"
+  - title: "Microsoft（MSFT）微軟6萬人優退換1900億美元AI資本支出：利潤率保衛戰"
+    url: "https://open.spotify.com/episode/7hiYJdGXVCvULmwqFLweLQ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

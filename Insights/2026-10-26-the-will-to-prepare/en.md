@@ -8,8 +8,22 @@ notebook_id: "1c0f31e0-8bff-4f2c-91b8-a56701773adb"
 source_urls:
   - title: "Mark Cuban: The Brutal Truth About The Next Market Crash!"
     url: "https://www.youtube.com/watch?v=6VTSAs4Rsck"
-youtube: []
-podcast: []
+youtube:
+  - title: "Mark Cuban's AI Debt Warning: What If Rates Hit 10%?"
+    url: "https://youtu.be/bWArqXmClOs"
+    lang: "en"
+    publish_at: "2026-11-03T14:00:00Z"
+  - title: "馬克庫班警告AI債務泡沫：利率升到10%會怎樣？"
+    url: "https://youtu.be/RYv193LB3K0"
+    lang: "zh"
+    publish_at: "2026-11-04T12:00:00Z"
+podcast:
+  - title: "Mark Cuban's AI Debt Warning: What If Rates Hit 10%?"
+    url: "https://open.spotify.com/episode/6ibBJyJSKW24KLNlrxqInk"
+    lang: "en"
+  - title: "馬克庫班警告AI債務泡沫：利率升到10%會怎樣？"
+    url: "https://open.spotify.com/episode/67L1ZkSQlXfcQwHA8Hxvmj"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

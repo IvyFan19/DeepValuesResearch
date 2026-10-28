@@ -7,8 +7,22 @@ tickers: ["PYPL"]
 notebook_id: "64cbc139-883c-4a28-ae32-7c5553128e6f"
 source_urls:
   - title: "PayPal Valuation Analysis"
-youtube: []
-podcast: []
+youtube:
+  - title: "PayPal本益比僅9.3倍：價值陷阱還是現金提款機？"
+    url: "https://youtu.be/MjYPXmW4VAo"
+    lang: "zh"
+    publish_at: "2026-11-09T12:00:00Z"
+  - title: "PayPal at 9.3x Earnings: Value Trap or Cash Machine?"
+    url: "https://youtu.be/bWHBTi95iKw"
+    lang: "en"
+    publish_at: "2026-11-08T14:00:00Z"
+podcast:
+  - title: "PayPal（PYPL）看多？PayPal本益比僅9.3倍：價值陷阱還是現金提款機？"
+    url: "https://open.spotify.com/episode/59ptWTiffFREQekoz6Rpeg"
+    lang: "zh"
+  - title: "PayPal (PYPL) — Bullish? PayPal at 9.3x Earnings: Value Trap or Cash Machine?"
+    url: "https://open.spotify.com/episode/0ajohEtmMqrS9NqcE6jdPj"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

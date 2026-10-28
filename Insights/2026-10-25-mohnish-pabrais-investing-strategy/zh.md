@@ -8,8 +8,22 @@ notebook_id: "cc58e14c-67db-4d3c-bc87-de12195696e2"
 source_urls:
   - title: "Buffett's 7-Step Investing Strategy that Made Mohnish Pabrai Rich."
     url: "https://www.youtube.com/watch?v=ugwLvcyRPKc"
-youtube: []
-podcast: []
+youtube:
+  - title: "Mohnish Pabrai's 30-Minute Test to Kill Any Stock Idea"
+    url: "https://youtu.be/27mUf1sMLGM"
+    lang: "en"
+    publish_at: "2026-11-02T14:00:00Z"
+  - title: "Mohnish Pabrai 30分鐘淘汰法：兩年回本的百倍股怎麼找"
+    url: "https://youtu.be/3GXeG7rHTC8"
+    lang: "zh"
+    publish_at: "2026-11-03T12:00:00Z"
+podcast:
+  - title: "Mohnish Pabrai's 30-Minute Test to Kill Any Stock Idea | Investor Playbook"
+    url: "https://open.spotify.com/episode/216OX3mLEJU283XX0H3kFH"
+    lang: "en"
+  - title: "Mohnish Pabrai 30分鐘淘汰法：兩年回本的百倍股怎麼找｜投資大師心法"
+    url: "https://open.spotify.com/episode/3GLwapUoj67xhmwrgDu5HQ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

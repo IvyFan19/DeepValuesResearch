@@ -8,8 +8,22 @@ notebook_id: "dad4c859-bf2d-4357-8e9c-0a62cf644354"
 source_urls:
   - title: "Buffett’s Strange Confession About the Google Position…"
     url: "https://www.youtube.com/watch?v=2cmpef012o4"
-youtube: []
-podcast: []
+youtube:
+  - title: "Buffett's $28B Google Bet: Not Even a Top-5 Favorite"
+    url: "https://youtu.be/q0ztsYhVRv0"
+    lang: "en"
+    publish_at: "2026-11-01T14:00:00Z"
+  - title: "巴菲特親手砸280億美元押Google：竟然不是他前五愛的公司"
+    url: "https://youtu.be/m-v7hYbGpqQ"
+    lang: "zh"
+    publish_at: "2026-11-02T12:00:00Z"
+podcast:
+  - title: "Buffett's $28B Google Bet: Not Even a Top-5 Favorite"
+    url: "https://open.spotify.com/episode/5PkB5dqc6StVIWahnUK6x0"
+    lang: "en"
+  - title: "巴菲特親手砸280億美元押Google：竟然不是他前五愛的公司"
+    url: "https://open.spotify.com/episode/7n3diUGUNoGCDVBuHhMny1"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -8,8 +8,22 @@ notebook_id: "6bc70bb4-10a5-4b75-8056-7f7a12b5bdf2"
 source_urls:
   - title: "F.K. Tang Speaker Series Inaugural Event: Li Lu"
     url: "https://www.youtube.com/watch?v=hRTg9Lqgxmo"
-youtube: []
-podcast: []
+youtube:
+  - title: "Li Lu: 50% of Top AI Researchers Are of Chinese Descent"
+    url: "https://youtu.be/ukkOjYjv2Ss"
+    lang: "en"
+    publish_at: "2026-11-04T14:00:00Z"
+  - title: "李錄：全球頂尖AI研究員超過50%是華裔，美國護城河在哪"
+    url: "https://youtu.be/80uZZcUM9ys"
+    lang: "zh"
+    publish_at: "2026-11-05T12:00:00Z"
+podcast:
+  - title: "Li Lu: 50% of Top AI Researchers Are of Chinese Descent | Investor Playbook"
+    url: "https://open.spotify.com/episode/7o1UpFR2oC0AqJ4m6JeXHU"
+    lang: "en"
+  - title: "李錄：全球頂尖AI研究員超過50%是華裔，美國護城河在哪｜投資大師心法"
+    url: "https://open.spotify.com/episode/076f2QpYz4H8RxWFkSpxqC"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

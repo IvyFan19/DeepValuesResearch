@@ -8,8 +8,22 @@ notebook_id: "9aef38fb-4ad3-424f-82a1-2d31fe9372b5"
 source_urls:
   - title: "Robinhood Post-Earnings Equity Research"
   - title: "Robinhood Value Report"
-youtube: []
-podcast: []
+youtube:
+  - title: "Robinhood Made $2.25B in Cash. Why Is It Still Overvalued?"
+    url: "https://youtu.be/5CJFy8zPwuc"
+    lang: "en"
+    publish_at: "2026-11-11T14:00:00Z"
+  - title: "Robinhood 一年賺進22.5億美元現金，為何估值仍然過高？"
+    url: "https://youtu.be/gVCE5OqYAWA"
+    lang: "zh"
+    publish_at: "2026-11-12T12:00:00Z"
+podcast:
+  - title: "Robinhood Markets (HOOD) — Bearish? Robinhood Made $2.25B in Cash. Why Is It Still Overvalued?"
+    url: "https://open.spotify.com/episode/2In1AAmgUK3DuoBDJj95vX"
+    lang: "en"
+  - title: "Robinhood Markets（HOOD）看空？Robinhood 一年賺進22.5億美元現金…"
+    url: "https://open.spotify.com/episode/74f0yiE67o65stZekacZwN"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

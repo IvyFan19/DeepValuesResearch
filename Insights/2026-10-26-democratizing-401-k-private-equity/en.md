@@ -8,8 +8,22 @@ notebook_id: "1d22bd7e-c4a0-46c7-8284-1b2593fd3769"
 source_urls:
   - title: "The Truth Behind Trump's Massive 401(k) Changes..."
     url: "https://www.youtube.com/watch?v=qGY6m2AnfKg"
-youtube: []
-podcast: []
+youtube:
+  - title: "$14T in 401(k)s Meets Private Equity's Exit Trap vs ASML"
+    url: "https://youtu.be/Fi2rsSEn8e8"
+    lang: "en"
+    publish_at: "2026-11-05T14:00:00Z"
+  - title: "14兆美元401(k）遇上私募退場陷阱：對比ASML收費站"
+    url: "https://youtu.be/djnBCfhs4MI"
+    lang: "zh"
+    publish_at: "2026-11-06T12:00:00Z"
+podcast:
+  - title: "$14T in 401(k)s Meets Private Equity's Exit Trap vs ASML | Stock Market"
+    url: "https://open.spotify.com/episode/2xGDzXFJfbmJKg88ueXlDb"
+    lang: "en"
+  - title: "14兆美元401(k）遇上私募退場陷阱：對比ASML收費站｜美股市場"
+    url: "https://open.spotify.com/episode/3gsb3aeUWFUwPeyGKpGqtH"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

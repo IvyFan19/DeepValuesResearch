@@ -11,8 +11,22 @@ source_urls:
   - title: "Anthropic S-1 Filing Analysis"
   - title: "Anthropic set to make stock market debut as questions swirl about safety of AI - CNN"
   - title: "Anthropic, PBC - S-1 (Q2) - SEC.gov"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic估值1.5兆美元？807億虧損與4310億算力豪賭"
+    url: "https://youtu.be/7YQOZd5-INQ"
+    lang: "zh"
+    publish_at: "2026-11-07T12:00:00Z"
+  - title: "Anthropic at $1.5T? An $80B Loss and a $431B Bet"
+    url: "https://youtu.be/CbJrxHV9j18"
+    lang: "en"
+    publish_at: "2026-11-06T14:00:00Z"
+podcast:
+  - title: "Anthropic估值1.5兆美元？807億虧損與4310億算力豪賭"
+    url: "https://open.spotify.com/episode/3XnvqooKivZpqjT6EtH4XJ"
+    lang: "zh"
+  - title: "Anthropic (ANT) — Bearish? Anthropic at $1.5T? An $80B Loss and a $431B Bet"
+    url: "https://open.spotify.com/episode/6lU8mqqXtKKzUWcDPbmn7V"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

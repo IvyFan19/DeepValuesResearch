@@ -8,8 +8,22 @@ notebook_id: "ba919679-3bb4-47f0-b610-82e79f68dd21"
 source_urls:
   - title: "#408  李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目"
     url: "https://www.youtube.com/watch?v=IbwtOF0_BZ0"
-youtube: []
-podcast: []
+youtube:
+  - title: "Alibaba's 7x Growth Target Had a Hidden Human Cost"
+    url: "https://youtu.be/jzKvxzQB-qE"
+    lang: "en"
+    publish_at: "2026-11-09T14:00:00Z"
+  - title: "阿里巴巴業績直接乘以7倍，高成長背後藏著看不見的人力代價"
+    url: "https://youtu.be/xkDsYf2VfrE"
+    lang: "zh"
+    publish_at: "2026-11-10T12:00:00Z"
+podcast:
+  - title: "Alibaba's 7x Growth Target Had a Hidden Human Cost | Money & Retirement"
+    url: "https://open.spotify.com/episode/1FxnZvXY14gdAwnzQE7OrP"
+    lang: "en"
+  - title: "阿里巴巴業績直接乘以7倍，高成長背後藏著看不見的人力代價｜理財與退休"
+    url: "https://open.spotify.com/episode/2krXLcBzSwxQMZaPPMufdU"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
