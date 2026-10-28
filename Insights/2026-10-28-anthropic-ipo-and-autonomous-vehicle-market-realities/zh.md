@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/C_YY9sp3yjM"
     lang: "en"
     publish_at: "2026-11-12T14:00:00Z"
+  - title: "Anthropic 2兆美元IPO紅旗，自駕車價值藏在哪"
+    url: "https://youtu.be/tpVHmecvSl8"
+    lang: "zh"
+    publish_at: "2026-11-13T12:00:00Z"
 podcast:
   - title: "Anthropic's $2T IPO Red Flags, and Where AV Value Hides | Stock Market"
     url: "https://open.spotify.com/episode/5GCArfptPAXsJ7C4Smby9U"
     lang: "en"
+  - title: "Anthropic 2兆美元IPO紅旗，自駕車價值藏在哪｜美股市場"
+    url: "https://open.spotify.com/episode/1oC8MdTPLz0AyifS7cwoXh"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
