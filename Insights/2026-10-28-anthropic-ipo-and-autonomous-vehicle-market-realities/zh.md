@@ -8,8 +8,15 @@ notebook_id: "cf458933-90d9-41e8-9309-2b67d09293fc"
 source_urls:
   - title: "Why Steve Eisman Isn't Buying Anthropic's IPO"
     url: "https://www.youtube.com/watch?v=8uoSVG3P6z0"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $2T IPO Red Flags, and Where AV Value Hides"
+    url: "https://youtu.be/C_YY9sp3yjM"
+    lang: "en"
+    publish_at: "2026-11-12T14:00:00Z"
+podcast:
+  - title: "Anthropic's $2T IPO Red Flags, and Where AV Value Hides | Stock Market"
+    url: "https://open.spotify.com/episode/5GCArfptPAXsJ7C4Smby9U"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
