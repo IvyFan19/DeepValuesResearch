@@ -8,8 +8,22 @@ notebook_id: "90ca4d47-9549-43da-89cd-2bbdca87f81f"
 source_urls:
   - title: "Microsoft Deep Value Analysis"
   - title: "Microsoft Deep Value Equity Research"
-youtube: []
-podcast: []
+youtube:
+  - title: "Microsoft's AI Capex Just Cut Free Cash Flow 70%"
+    url: "https://youtu.be/zg5geFyTS2c"
+    lang: "en"
+    publish_at: "2026-11-16T14:00:00Z"
+  - title: "微軟AI資本支出狂燒，自由現金流暴跌70%"
+    url: "https://youtu.be/tW7rgLi_bW0"
+    lang: "zh"
+    publish_at: "2026-11-17T12:00:00Z"
+podcast:
+  - title: "Microsoft (MSFT) — Neutral? Microsoft's AI Capex Just Cut Free Cash Flow 70%"
+    url: "https://open.spotify.com/episode/0fsj9KUH7k3VYaCF9oCiyL"
+    lang: "en"
+  - title: "Microsoft（MSFT）中性？微軟AI資本支出狂燒，自由現金流暴跌70%"
+    url: "https://open.spotify.com/episode/3Pyl5JTwFUxkhZwH8FjNrl"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
