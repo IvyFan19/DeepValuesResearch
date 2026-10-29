@@ -15,7 +15,17 @@ youtube:
     url: "https://youtu.be/eGmfX1xyzDU"
     lang: "en"
     publish_at: "2026-11-17T14:00:00Z"
-podcast: []
+  - title: "Alphabet單季營業現金流423億美元，為何自由現金流仍是-91億"
+    url: "https://youtu.be/79LnS0eFAo0"
+    lang: "zh"
+    publish_at: "2026-11-18T12:00:00Z"
+podcast:
+  - title: "Alphabet (GOOGL) — Neutral? Alphabet Made $42B in Cash and Still Burned $9.1B"
+    url: "https://open.spotify.com/episode/70LvTN30Bw3j8hYYLhxqB9"
+    lang: "en"
+  - title: "Alphabet（GOOGL）中性？Alphabet單季營業現金流423億美元…"
+    url: "https://open.spotify.com/episode/1hOpf1IjAUjXeEhkVi1i1g"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
