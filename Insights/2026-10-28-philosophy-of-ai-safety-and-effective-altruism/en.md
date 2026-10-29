@@ -8,11 +8,18 @@ notebook_id: "23104daa-4532-4dd9-8bcb-425ec6f77232"
 source_urls:
   - title: "E257｜对话Vitalik：AI安全背后的哲学思想，有效利… - 硅谷101 - Apple Podcasts"
 youtube:
+  - title: "Meme Coin Millions Funded AI Doomsday. Who Audits It?"
+    url: "https://youtu.be/HQ_raMftJCA"
+    lang: "en"
+    publish_at: "2026-10-29T13:00:00Z"
   - title: "誰在決定AI的百億資本支出？矽谷哲學家與P(doom）的權力遊戲"
     url: "https://youtu.be/7_nx274C5VE"
     lang: "zh"
     publish_at: "2026-10-29T12:00:00Z"
 podcast:
+  - title: "Meme Coin Millions Funded AI Doomsday. Who Audits It?"
+    url: "https://open.spotify.com/episode/3LgJLvQTq2RQsUTg3amxs7"
+    lang: "en"
   - title: "誰在決定AI的百億資本支出？矽谷哲學家與P(doom）的權力遊戲"
     url: "https://open.spotify.com/episode/2xBMv5qQ7UQPPeKDDPl9Hl"
     lang: "zh"

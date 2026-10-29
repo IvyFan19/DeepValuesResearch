@@ -10,7 +10,11 @@ source_urls:
   - title: "Alphabet Q3 Earnings"
   - title: "Big Tech AI Spending"
   - title: "Big Tech Showdown"
-youtube: []
+youtube:
+  - title: "Alphabet Made $42B in Cash and Still Burned $9.1B"
+    url: "https://youtu.be/eGmfX1xyzDU"
+    lang: "en"
+    publish_at: "2026-11-17T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
