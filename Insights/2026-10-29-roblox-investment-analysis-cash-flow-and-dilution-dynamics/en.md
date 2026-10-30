@@ -7,8 +7,15 @@ tickers: ["RBLX"]
 notebook_id: "ebdc3b3f-4317-434c-891a-dbcc451e27d8"
 source_urls:
   - title: "Roblox Investment Analysis"
-youtube: []
-podcast: []
+youtube:
+  - title: "Roblox現金流幻象：帳面13.5億美元自由現金流"
+    url: "https://youtu.be/-zSjeOUEEC0"
+    lang: "zh"
+    publish_at: "2026-11-19T12:00:00Z"
+podcast:
+  - title: "Roblox（RBLX）中性？Roblox現金流幻象：帳面13.5億美元自由現金流"
+    url: "https://open.spotify.com/episode/4ypnkHm35Vlg8BUXGURwd1"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

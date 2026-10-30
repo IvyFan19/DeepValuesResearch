@@ -8,8 +8,15 @@ notebook_id: "3a4dd8d8-29e4-4898-a520-a2bd466e9de4"
 source_urls:
   - title: "Intel Deep Value"
   - title: "SNDK Deep Value Analysis"
-youtube: []
-podcast: []
+youtube:
+  - title: "Intel股價95美元、基礎價值僅20美元？SNDK賺翻卻沒安全邊際"
+    url: "https://youtu.be/vmqzcQJSafM"
+    lang: "zh"
+    publish_at: "2026-11-20T12:00:00Z"
+podcast:
+  - title: "Intel（INTC）看空？Intel股價95美元、基礎價值僅20美元？SNDK賺翻卻沒安全邊際"
+    url: "https://open.spotify.com/episode/7vEpT25UoQizNQvtocD0Eo"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
