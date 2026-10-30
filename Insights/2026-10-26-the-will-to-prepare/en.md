@@ -12,11 +12,11 @@ youtube:
   - title: "Mark Cuban's AI Debt Warning: What If Rates Hit 10%?"
     url: "https://youtu.be/bWArqXmClOs"
     lang: "en"
-    publish_at: "2026-11-03T14:00:00Z"
+    publish_at: "2026-10-30T21:00:00Z"
   - title: "馬克庫班警告AI債務泡沫：利率升到10%會怎樣？"
     url: "https://youtu.be/RYv193LB3K0"
     lang: "zh"
-    publish_at: "2026-11-04T12:00:00Z"
+    publish_at: "2026-10-31T12:00:00Z"
 podcast:
   - title: "Mark Cuban's AI Debt Warning: What If Rates Hit 10%?"
     url: "https://open.spotify.com/episode/6ibBJyJSKW24KLNlrxqInk"

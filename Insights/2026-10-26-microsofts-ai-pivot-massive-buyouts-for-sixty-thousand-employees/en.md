@@ -11,11 +11,11 @@ youtube:
   - title: "Microsoft Offers 60,000 Buyouts to Fund $190B of AI Capex"
     url: "https://youtu.be/U7Y0cSrOtLk"
     lang: "en"
-    publish_at: "2026-11-07T14:00:00Z"
+    publish_at: "2026-10-31T21:00:00Z"
   - title: "微軟6萬人優退換1900億美元AI資本支出：利潤率保衛戰"
     url: "https://youtu.be/j4feyYGD7uI"
     lang: "zh"
-    publish_at: "2026-11-08T12:00:00Z"
+    publish_at: "2026-11-01T12:00:00Z"
 podcast:
   - title: "Microsoft (MSFT) — Microsoft Offers 60,000 Buyouts to Fund $190B of AI Capex"
     url: "https://open.spotify.com/episode/7mIoXclOFpZUqFye1hkqDL"

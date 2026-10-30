@@ -11,11 +11,11 @@ youtube:
   - title: "PayPal本益比僅9.3倍：價值陷阱還是現金提款機？"
     url: "https://youtu.be/MjYPXmW4VAo"
     lang: "zh"
-    publish_at: "2026-11-09T12:00:00Z"
+    publish_at: "2026-11-02T00:00:00Z"
   - title: "PayPal at 9.3x Earnings: Value Trap or Cash Machine?"
     url: "https://youtu.be/bWHBTi95iKw"
     lang: "en"
-    publish_at: "2026-11-08T14:00:00Z"
+    publish_at: "2026-11-01T14:00:00Z"
 podcast:
   - title: "PayPal（PYPL）看多？PayPal本益比僅9.3倍：價值陷阱還是現金提款機？"
     url: "https://open.spotify.com/episode/59ptWTiffFREQekoz6Rpeg"

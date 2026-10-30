@@ -12,11 +12,11 @@ youtube:
   - title: "Robinhood Made $2.25B in Cash. Why Is It Still Overvalued?"
     url: "https://youtu.be/5CJFy8zPwuc"
     lang: "en"
-    publish_at: "2026-11-11T14:00:00Z"
+    publish_at: "2026-11-02T14:00:00Z"
   - title: "Robinhood 一年賺進22.5億美元現金，為何估值仍然過高？"
     url: "https://youtu.be/gVCE5OqYAWA"
     lang: "zh"
-    publish_at: "2026-11-12T12:00:00Z"
+    publish_at: "2026-11-03T00:00:00Z"
 podcast:
   - title: "Robinhood Markets (HOOD) — Bearish? Robinhood Made $2.25B in Cash. Why Is It Still Overvalued?"
     url: "https://open.spotify.com/episode/2In1AAmgUK3DuoBDJj95vX"

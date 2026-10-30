@@ -12,11 +12,11 @@ youtube:
   - title: "$14T in 401(k)s Meets Private Equity's Exit Trap vs ASML"
     url: "https://youtu.be/Fi2rsSEn8e8"
     lang: "en"
-    publish_at: "2026-11-05T14:00:00Z"
+    publish_at: "2026-10-31T17:00:00Z"
   - title: "14兆美元401(k）遇上私募退場陷阱：對比ASML收費站"
     url: "https://youtu.be/djnBCfhs4MI"
     lang: "zh"
-    publish_at: "2026-11-06T12:00:00Z"
+    publish_at: "2026-11-01T04:30:00Z"
 podcast:
   - title: "$14T in 401(k)s Meets Private Equity's Exit Trap vs ASML | Stock Market"
     url: "https://open.spotify.com/episode/2xGDzXFJfbmJKg88ueXlDb"

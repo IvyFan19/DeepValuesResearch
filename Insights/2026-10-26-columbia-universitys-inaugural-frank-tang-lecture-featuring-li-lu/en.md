@@ -12,11 +12,11 @@ youtube:
   - title: "Li Lu: 50% of Top AI Researchers Are of Chinese Descent"
     url: "https://youtu.be/ukkOjYjv2Ss"
     lang: "en"
-    publish_at: "2026-11-04T14:00:00Z"
+    publish_at: "2026-10-31T13:00:00Z"
   - title: "李錄：全球頂尖AI研究員超過50%是華裔，美國護城河在哪"
     url: "https://youtu.be/80uZZcUM9ys"
     lang: "zh"
-    publish_at: "2026-11-05T12:00:00Z"
+    publish_at: "2026-11-01T00:00:00Z"
 podcast:
   - title: "Li Lu: 50% of Top AI Researchers Are of Chinese Descent | Investor Playbook"
     url: "https://open.spotify.com/episode/7o1UpFR2oC0AqJ4m6JeXHU"

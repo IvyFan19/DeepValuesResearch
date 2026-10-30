@@ -11,11 +11,11 @@ youtube:
   - title: "Fed Pauses at 4%, But Two Governors Wanted More Hikes"
     url: "https://youtu.be/y8XriOffd3o"
     lang: "en"
-    publish_at: "2026-11-13T14:00:00Z"
+    publish_at: "2026-11-02T22:00:00Z"
   - title: "聯準會暫停升息停在4%，為何兩位理事投票要求再升息？"
     url: "https://youtu.be/KY4eLggZPTk"
     lang: "zh"
-    publish_at: "2026-11-15T12:00:00Z"
+    publish_at: "2026-11-04T00:00:00Z"
 podcast:
   - title: "Fed Pauses at 4%, But Two Governors Wanted More Hikes"
     url: "https://open.spotify.com/episode/3NgjrjWfashFI9lMUnCULW"

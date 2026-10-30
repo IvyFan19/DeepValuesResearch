@@ -13,11 +13,11 @@ youtube:
   - title: "Anthropic S-1:85%毛利、6000億美元算力承諾是炸彈嗎？"
     url: "https://youtu.be/XUpzuPZzhDM"
     lang: "zh"
-    publish_at: "2026-11-11T12:00:00Z"
+    publish_at: "2026-11-02T12:00:00Z"
   - title: "Anthropic S-1: 85% Margins, $600B in Commitments"
     url: "https://youtu.be/7fTu_W5Dk1w"
     lang: "en"
-    publish_at: "2026-11-10T14:00:00Z"
+    publish_at: "2026-11-01T22:00:00Z"
 podcast:
   - title: "Anthropic S-1:85%毛利、6000億美元算力承諾是炸彈嗎？"
     url: "https://open.spotify.com/episode/1FhPx1FNGwK1GTPSyt7jmi"

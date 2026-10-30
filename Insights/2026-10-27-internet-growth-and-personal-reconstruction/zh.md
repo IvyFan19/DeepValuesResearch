@@ -12,11 +12,11 @@ youtube:
   - title: "Alibaba's 7x Growth Target Had a Hidden Human Cost"
     url: "https://youtu.be/jzKvxzQB-qE"
     lang: "en"
-    publish_at: "2026-11-09T14:00:00Z"
+    publish_at: "2026-11-01T18:00:00Z"
   - title: "阿里巴巴業績直接乘以7倍，高成長背後藏著看不見的人力代價"
     url: "https://youtu.be/xkDsYf2VfrE"
     lang: "zh"
-    publish_at: "2026-11-10T12:00:00Z"
+    publish_at: "2026-11-02T04:30:00Z"
 podcast:
   - title: "Alibaba's 7x Growth Target Had a Hidden Human Cost | Money & Retirement"
     url: "https://open.spotify.com/episode/1FxnZvXY14gdAwnzQE7OrP"
