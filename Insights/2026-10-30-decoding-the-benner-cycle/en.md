@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "3956a2dd-c3f9-40bf-ab40-cac9e2a21d87"
 source_urls:
   - title: "Benner Cycle Analysis"
-youtube: []
-podcast: []
+youtube:
+  - title: "Benner Cycle Says Sell in 2026: Is 1875 Pig-Iron Math Right?"
+    url: "https://youtu.be/iMOTfUI-Ulc"
+    lang: "en"
+    publish_at: "2026-11-03T18:00:00Z"
+podcast:
+  - title: "Benner Cycle Says Sell in 2026: Is 1875 Pig-Iron Math Right? | Stock Market"
+    url: "https://open.spotify.com/episode/2J9aPQ25QUr3Jq68mFUEgO"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
