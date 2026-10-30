@@ -7,8 +7,15 @@ tickers: ["AMZN"]
 notebook_id: "f50b3b13-01ee-4f64-a385-7fa397b505c0"
 source_urls:
   - title: "Amazon Deep Value"
-youtube: []
-podcast: []
+youtube:
+  - title: "Amazon Worth $25 or $200? The $220B Capex Paradox"
+    url: "https://youtu.be/v2Z6JXxOn2I"
+    lang: "en"
+    publish_at: "2026-11-18T14:00:00Z"
+podcast:
+  - title: "Amazon (company) (AMZN) — Neutral? Amazon Worth $25 or $200? The $220B Capex Paradox"
+    url: "https://open.spotify.com/episode/036ickq1Magz9gTYm4gqBW"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
