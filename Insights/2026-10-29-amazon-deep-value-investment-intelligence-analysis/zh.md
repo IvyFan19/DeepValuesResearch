@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/v2Z6JXxOn2I"
     lang: "en"
     publish_at: "2026-11-18T14:00:00Z"
+  - title: "亞馬遜值25還是200美元？2,200億美元資本支出的估值悖論"
+    url: "https://youtu.be/G-Ed4Xm611Y"
+    lang: "zh"
+    publish_at: "2026-11-21T12:00:00Z"
 podcast:
   - title: "Amazon (company) (AMZN) — Neutral? Amazon Worth $25 or $200? The $220B Capex Paradox"
     url: "https://open.spotify.com/episode/036ickq1Magz9gTYm4gqBW"
     lang: "en"
+  - title: "Amazon (company)（AMZN）中性？亞馬遜值25還是200美元？2…"
+    url: "https://open.spotify.com/episode/5I4iyjFdtvWYOjb2KkGcV8"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
