@@ -9,11 +9,18 @@ source_urls:
   - title: "Intel Deep Value"
   - title: "SNDK Deep Value Analysis"
 youtube:
+  - title: "Intel at $95, Base Value $20? SanDisk Has No Safety Margin"
+    url: "https://youtu.be/i1iDG2oUfEo"
+    lang: "en"
+    publish_at: "2026-11-20T14:00:00Z"
   - title: "Intel股價95美元、基礎價值僅20美元？SNDK賺翻卻沒安全邊際"
     url: "https://youtu.be/vmqzcQJSafM"
     lang: "zh"
     publish_at: "2026-11-20T12:00:00Z"
 podcast:
+  - title: "Intel (INTC) — Bearish? Intel at $95, Base Value $20? SanDisk Has No Safety Margin"
+    url: "https://open.spotify.com/episode/6ovpPFeM9Dp13XZ7XT698e"
+    lang: "en"
   - title: "Intel（INTC）看空？Intel股價95美元、基礎價值僅20美元？SNDK賺翻卻沒安全邊際"
     url: "https://open.spotify.com/episode/7vEpT25UoQizNQvtocD0Eo"
     lang: "zh"

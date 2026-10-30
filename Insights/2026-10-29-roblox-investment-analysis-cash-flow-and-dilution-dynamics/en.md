@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/-zSjeOUEEC0"
     lang: "zh"
     publish_at: "2026-11-19T12:00:00Z"
+  - title: "Roblox's $1.35B Free Cash Flow Illusion: 83% Goes to SBC"
+    url: "https://youtu.be/oHdYFr4Mtf0"
+    lang: "en"
+    publish_at: "2026-11-19T14:00:00Z"
 podcast:
   - title: "Roblox（RBLX）中性？Roblox現金流幻象：帳面13.5億美元自由現金流"
     url: "https://open.spotify.com/episode/4ypnkHm35Vlg8BUXGURwd1"
     lang: "zh"
+  - title: "Roblox (RBLX) — Neutral? Roblox's $1.35B Free Cash Flow Illusion: 83% Goes to SBC"
+    url: "https://open.spotify.com/episode/4j8P4q6DdkXNSgzkeCnXwb"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
