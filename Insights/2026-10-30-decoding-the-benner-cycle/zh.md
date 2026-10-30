@@ -8,11 +8,18 @@ notebook_id: "3956a2dd-c3f9-40bf-ab40-cac9e2a21d87"
 source_urls:
   - title: "Benner Cycle Analysis"
 youtube:
+  - title: "Benner百年週期圖喊2026賣出：神準預言，還是Excel下拉公式？"
+    url: "https://youtu.be/BhXSOou9b6E"
+    lang: "zh"
+    publish_at: "2026-11-04T04:30:00Z"
   - title: "Benner Cycle Says Sell in 2026: Is 1875 Pig-Iron Math Right?"
     url: "https://youtu.be/iMOTfUI-Ulc"
     lang: "en"
     publish_at: "2026-11-03T18:00:00Z"
 podcast:
+  - title: "Benner百年週期圖喊2026賣出：神準預言，還是Excel下拉公式？｜美股市場"
+    url: "https://open.spotify.com/episode/6qkCOKqXmQmbQlOj0Kgj9E"
+    lang: "zh"
   - title: "Benner Cycle Says Sell in 2026: Is 1875 Pig-Iron Math Right? | Stock Market"
     url: "https://open.spotify.com/episode/2J9aPQ25QUr3Jq68mFUEgO"
     lang: "en"
