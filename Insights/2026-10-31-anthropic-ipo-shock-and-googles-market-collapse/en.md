@@ -7,8 +7,22 @@ tickers: []
 notebook_id: "2f309ae4-6e21-45e9-ada9-c7bbf2bfe91b"
 source_urls:
   - title: "Anthropic S-1 Shocker, Greates… - All-In with Chamath, Jason, Sacks & Friedberg - Apple Podcasts"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $80B Six-Month Loss vs Google's $500B Wipeout"
+    url: "https://youtu.be/4-u7-5ZrDoc"
+    lang: "en"
+    publish_at: "2026-11-03T22:00:00Z"
+  - title: "Anthropic半年虧800億美元仍被捧上天"
+    url: "https://youtu.be/Rhlz4YyQEDA"
+    lang: "zh"
+    publish_at: "2026-11-04T12:00:00Z"
+podcast:
+  - title: "Anthropic's $80B Six-Month Loss vs Google's $500B Wipeout | Stock Market"
+    url: "https://open.spotify.com/episode/0KnVuGH4lHrdyq7B79I6Tf"
+    lang: "en"
+  - title: "Anthropic半年虧800億美元仍被捧上天｜美股市場"
+    url: "https://open.spotify.com/episode/21MyJhHG5jqn6M5wBWnDub"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
