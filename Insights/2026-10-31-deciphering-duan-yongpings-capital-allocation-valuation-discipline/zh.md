@@ -9,8 +9,19 @@ source_urls:
   - title: "Apple Google 交易"
   - title: "商业模式分级"
   - title: "段永平投资洞察"
-youtube: []
-podcast: []
+youtube:
+  - title: "Apple's 12.6% Problem: Why Money Is Moving to Google and PDD"
+    url: "https://youtu.be/JzZkcvHuNnQ"
+    lang: "en"
+    publish_at: "2026-11-04T14:00:00Z"
+  - title: "蘋果利潤要年增12.6%才贏美債，段永平為何轉向暴跌的Google?"
+    url: "https://youtu.be/H8ieDexiSyk"
+    lang: "zh"
+    publish_at: "2026-11-05T00:00:00Z"
+podcast:
+  - title: "Apple (AAPL) — Bearish? Apple's 12.6% Problem: Why Money Is Moving to Google and PDD"
+    url: "https://open.spotify.com/episode/6m3oUaHmyuAfn5HZxUJPKo"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
