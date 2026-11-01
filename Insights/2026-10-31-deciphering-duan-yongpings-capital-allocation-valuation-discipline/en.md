@@ -22,6 +22,9 @@ podcast:
   - title: "Apple (AAPL) — Bearish? Apple's 12.6% Problem: Why Money Is Moving to Google and PDD"
     url: "https://open.spotify.com/episode/6m3oUaHmyuAfn5HZxUJPKo"
     lang: "en"
+  - title: "Apple（AAPL）看空？蘋果利潤要年增12.6%才贏美債，段永平為何轉向暴跌的Google?"
+    url: "https://open.spotify.com/episode/5nb6lqXbAP5E6TyWDJe7eD"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
