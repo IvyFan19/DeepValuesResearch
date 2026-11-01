@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/BKcaHkh64O8"
     lang: "en"
     publish_at: "2026-11-04T18:00:00Z"
+  - title: "93歲奶奶的後悔：打工買衣服完全不值得，年輕人最錯估的是時間"
+    url: "https://youtu.be/5aPrQIkDK30"
+    lang: "zh"
+    publish_at: "2026-11-05T04:30:00Z"
 podcast:
   - title: "Don't Live to 93: The Asset 90-Year-Olds Say You Misprice | Value Investing"
     url: "https://open.spotify.com/episode/6iPQ2lgSfBzYvGZ2WWQyOC"
     lang: "en"
+  - title: "93歲奶奶的後悔：打工買衣服完全不值得，年輕人最錯估的是時間｜價值投資"
+    url: "https://open.spotify.com/episode/4Ypr6qLPpuB6LqO1TSuVwt"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
