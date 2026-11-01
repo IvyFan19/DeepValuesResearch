@@ -8,8 +8,15 @@ notebook_id: "7b2b7ca3-8b81-4df0-b3b3-74b3da0c3275"
 source_urls:
   - title: "Asking 90 Year Old Canadians About Their Biggest Regrets in Life"
     url: "https://www.youtube.com/watch?v=73jXA6ZYhkY"
-youtube: []
-podcast: []
+youtube:
+  - title: "Don't Live to 93: The Asset 90-Year-Olds Say You Misprice"
+    url: "https://youtu.be/BKcaHkh64O8"
+    lang: "en"
+    publish_at: "2026-11-04T18:00:00Z"
+podcast:
+  - title: "Don't Live to 93: The Asset 90-Year-Olds Say You Misprice | Value Investing"
+    url: "https://open.spotify.com/episode/6iPQ2lgSfBzYvGZ2WWQyOC"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
