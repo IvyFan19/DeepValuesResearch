@@ -10,8 +10,22 @@ source_urls:
   - title: "AI Power Scarcity"
   - title: "image_picker_04FE859C-4AE8-4E66-8284-747071F0589E-41159-00001C42362D7DE7.png"
   - title: "Powering the AI Boom"
-youtube: []
-podcast: []
+youtube:
+  - title: "Utilities vs Nvidia: Why $5B of AI Chips Can Sit Unplugged"
+    url: "https://youtu.be/gxdd_87oWiM"
+    lang: "en"
+    publish_at: "2026-11-04T22:00:00Z"
+  - title: "輝達GPU買滿50億美元，為何最快破產？"
+    url: "https://youtu.be/cgtIYJ8NcRY"
+    lang: "zh"
+    publish_at: "2026-11-05T12:00:00Z"
+podcast:
+  - title: "Utilities vs Nvidia: Why $5B of AI Chips Can Sit Unplugged | Stock Market"
+    url: "https://open.spotify.com/episode/4y5DDKpQoPduxdWuRwwyj6"
+    lang: "en"
+  - title: "輝達GPU買滿50億美元，為何最快破產？｜美股市場"
+    url: "https://open.spotify.com/episode/294nZcKn5R8GXxSoi7PvXp"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
