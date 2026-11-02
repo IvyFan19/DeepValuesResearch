@@ -11,10 +11,16 @@ youtube:
   - title: "Supabase Says 70% of Its New Users Aren't Human"
     url: "https://youtu.be/rCLaElikewU"
     lang: "en"
+  - title: "Supabase每週增百萬資料庫，七成活動不是人類"
+    url: "https://youtu.be/DV3KWdZrRN8"
+    lang: "zh"
 podcast:
   - title: "Supabase Says 70% of Its New Users Aren't Human | AI Explained"
     url: "https://open.spotify.com/episode/6yBIrb4KMTIb4QTQOOvhsX"
     lang: "en"
+  - title: "Supabase每週增百萬資料庫，七成活動不是人類｜AI 前沿"
+    url: "https://open.spotify.com/episode/4UWjrPpFM3rbj3aCCJrpPY"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
