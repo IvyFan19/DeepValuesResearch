@@ -8,8 +8,15 @@ notebook_id: "e24f1dac-2de4-4625-ac94-1ec335decc69"
 source_urls:
   - title: "Why United’s CEO thinks air traffic control is the problem"
     url: "https://www.youtube.com/watch?v=3Lc0xfW4r9Q"
-youtube: []
-podcast: []
+youtube:
+  - title: "United Airlines' $80B Plane Bet With No Passengers in Sight"
+    url: "https://youtu.be/GIeQyBI18d0"
+    lang: "en"
+    publish_at: "2026-11-05T18:00:00Z"
+podcast:
+  - title: "United Airlines (UAL) — United Airlines' $80B Plane Bet With No Passengers in Sight"
+    url: "https://open.spotify.com/episode/6evrl8ib4OMJ1j1FVQjR3N"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/VK8oksXh_tM"
     lang: "en"
     publish_at: "2026-11-05T14:00:00Z"
+  - title: "馬斯克72小時自打臉：AI推論成本暴跌280倍，Grok為何仍燒不起？"
+    url: "https://youtu.be/bKx2ysh5i7I"
+    lang: "zh"
+    publish_at: "2026-11-06T00:00:00Z"
 podcast:
   - title: "Musk: Saving Is Pointless. 72 Hours Later, Grok Bleeds Cash | Stock Market"
     url: "https://open.spotify.com/episode/0srpIgDZCIDCc0LmyB729m"
     lang: "en"
+  - title: "馬斯克72小時自打臉：AI推論成本暴跌280倍，Grok為何仍燒不起？｜美股市場"
+    url: "https://open.spotify.com/episode/5dYcCPSTGUVTlvzDi5Ppng"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
