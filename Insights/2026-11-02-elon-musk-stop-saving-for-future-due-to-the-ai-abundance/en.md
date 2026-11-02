@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "4f8bc6dc-031c-4a59-9d2e-e4c05c6d1bdc"
 source_urls:
   - title: "The AI Abundance Paradox"
-youtube: []
-podcast: []
+youtube:
+  - title: "Musk: Saving Is Pointless. 72 Hours Later, Grok Bleeds Cash"
+    url: "https://youtu.be/VK8oksXh_tM"
+    lang: "en"
+    publish_at: "2026-11-05T14:00:00Z"
+podcast:
+  - title: "Musk: Saving Is Pointless. 72 Hours Later, Grok Bleeds Cash | Stock Market"
+    url: "https://open.spotify.com/episode/0srpIgDZCIDCc0LmyB729m"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
