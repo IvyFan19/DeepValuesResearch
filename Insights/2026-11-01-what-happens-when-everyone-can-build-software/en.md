@@ -7,8 +7,14 @@ tickers: []
 notebook_id: "5b779302-892a-48af-a422-a933cd6a8571"
 source_urls:
   - title: "What Happens When Everyone Can… - Y Combinator Startup Podcast - Apple Podcasts"
-youtube: []
-podcast: []
+youtube:
+  - title: "Supabase Says 70% of Its New Users Aren't Human"
+    url: "https://youtu.be/rCLaElikewU"
+    lang: "en"
+podcast:
+  - title: "Supabase Says 70% of Its New Users Aren't Human | AI Explained"
+    url: "https://open.spotify.com/episode/6yBIrb4KMTIb4QTQOOvhsX"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
