@@ -13,7 +13,10 @@ youtube:
     url: "https://youtu.be/XW8SVllB9Bk"
     lang: "en"
     publish_at: "2026-11-05T22:00:00Z"
-podcast: []
+podcast:
+  - title: "Shanghai vs Dow: How a Flat 3,000 Hid 9% Real Annual Returns | Stock Market"
+    url: "https://open.spotify.com/episode/5W4VGmqOVWtYQ4siXNuYu0"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
