@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/GIeQyBI18d0"
     lang: "en"
     publish_at: "2026-11-05T18:00:00Z"
+  - title: "聯合航空逆勢豪賭：同業退役時狂訂200架廣體客機"
+    url: "https://youtu.be/a2GWLRwScss"
+    lang: "zh"
+    publish_at: "2026-11-06T04:30:00Z"
 podcast:
   - title: "United Airlines (UAL) — United Airlines' $80B Plane Bet With No Passengers in Sight"
     url: "https://open.spotify.com/episode/6evrl8ib4OMJ1j1FVQjR3N"
     lang: "en"
+  - title: "United Airlines（UAL）聯合航空逆勢豪賭：同業退役時狂訂200架廣體客機"
+    url: "https://open.spotify.com/episode/57tRMC2197qgo3Jy734UBu"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
