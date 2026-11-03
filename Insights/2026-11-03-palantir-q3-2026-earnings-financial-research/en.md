@@ -14,8 +14,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000011/pltr-20251231.htm"
   - title: "pltr-20260630"
     url: "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000041/pltr-20260630.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Palantir at $428.6B: The Risks Hidden in Footnotes"
+    url: "https://youtu.be/I-zpg3zP0Ho"
+    lang: "en"
+podcast:
+  - title: "Palantir Technologies (PLTR) — Bearish? Palantir at $428.6B: The Risks Hidden in Footnotes"
+    url: "https://open.spotify.com/episode/4aVJ0Ey7i5RoKtl46BWcUL"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
