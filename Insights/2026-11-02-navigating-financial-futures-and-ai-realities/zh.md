@@ -21,6 +21,9 @@ podcast:
   - title: "The S&P 500 Is a Hidden 65% AI Bet, Warns Steve Eisman"
     url: "https://open.spotify.com/episode/3UKJZCW20AvU3qKTOirSnj"
     lang: "en"
+  - title: "大賣空原型Eisman警告：標普500竟65%綁AI｜美股市場"
+    url: "https://open.spotify.com/episode/6w2jQy586SF1tzCy0PAVZE"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

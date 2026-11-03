@@ -20,6 +20,9 @@ podcast:
   - title: "Alphabet (GOOG) — Bullish? Google's $300K-a-Month Clue: Duan Yongping Ignores AI Fears"
     url: "https://open.spotify.com/episode/6vUwDE6IL9fq68ZAN1YFkh"
     lang: "en"
+  - title: "Alphabet（GOOGL）看多？段永平想賣蘋果換Google?AI恐慌下廣告仍雙位數成長"
+    url: "https://open.spotify.com/episode/52lIH1rEeW1uihBAMto78I"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
