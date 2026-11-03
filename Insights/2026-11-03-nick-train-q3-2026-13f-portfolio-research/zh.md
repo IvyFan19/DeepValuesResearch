@@ -15,7 +15,10 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1484150/000117266126004793/0001172661-26-004793-index.htm"
   - title: "Nick Train Portfolio — Q3 2026 13F Holdings · DeepValues.AI"
     url: "https://app.deepvalues.ai/gurus/nick-train"
-youtube: []
+youtube:
+  - title: "Nick Train Cut Thermo Fisher 24%: Priced Too High?"
+    url: "https://youtu.be/FjiLCOk5mD8"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
