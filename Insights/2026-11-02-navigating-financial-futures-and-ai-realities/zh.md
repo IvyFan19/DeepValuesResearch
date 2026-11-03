@@ -8,8 +8,19 @@ notebook_id: "9fc4eabe-a43f-4528-9a37-f32d90fe362a"
 source_urls:
   - title: "Why Young Americans Feel Locked Out with the Lemonade Stand Podcast | The Real Eisman Playbook Ep 82"
     url: "https://www.youtube.com/watch?v=pTFWpojm1dU"
-youtube: []
-podcast: []
+youtube:
+  - title: "The S&P 500 Is a Hidden 65% AI Bet, Warns Steve Eisman"
+    url: "https://youtu.be/_Po0lYUdIFI"
+    lang: "en"
+    publish_at: "2026-11-06T18:00:00Z"
+  - title: "大賣空原型Eisman警告：標普500竟65%綁AI"
+    url: "https://youtu.be/DYsWe9w32VY"
+    lang: "zh"
+    publish_at: "2026-11-07T00:00:00Z"
+podcast:
+  - title: "The S&P 500 Is a Hidden 65% AI Bet, Warns Steve Eisman"
+    url: "https://open.spotify.com/episode/3UKJZCW20AvU3qKTOirSnj"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

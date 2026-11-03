@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/XW8SVllB9Bk"
     lang: "en"
     publish_at: "2026-11-05T22:00:00Z"
+  - title: "道瓊破5萬、上證卡三千：年化9%為何散戶仍虧錢？"
+    url: "https://youtu.be/j2jKwXQOJKQ"
+    lang: "zh"
+    publish_at: "2026-11-06T12:00:00Z"
 podcast:
   - title: "Shanghai vs Dow: How a Flat 3,000 Hid 9% Real Annual Returns | Stock Market"
     url: "https://open.spotify.com/episode/5W4VGmqOVWtYQ4siXNuYu0"
     lang: "en"
+  - title: "道瓊破5萬、上證卡三千：年化9%為何散戶仍虧錢？｜美股市場"
+    url: "https://open.spotify.com/episode/1PtRYIuA6VNDHBPNx9LWIw"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

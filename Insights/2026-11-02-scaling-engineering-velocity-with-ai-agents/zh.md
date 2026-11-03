@@ -20,6 +20,9 @@ podcast:
   - title: "Cursor工程師讓AI一個月自動合併1000個PR，關鍵不是更聰明"
     url: "https://open.spotify.com/episode/4zd36X5aJZaVenfToy1SfN"
     lang: "zh"
+  - title: "Cursor Engineer Ships 1,000 PRs a Month. Who Checks Them? | AI Explained"
+    url: "https://open.spotify.com/episode/6tYF9eTfgxdEalrDA3tTfj"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
