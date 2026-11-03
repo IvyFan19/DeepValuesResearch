@@ -17,10 +17,16 @@ youtube:
   - title: "Apple at $4.94T: Great Business, Zero Margin of Safety"
     url: "https://youtu.be/VKYNH6ec5qY"
     lang: "en"
+  - title: "蘋果4.94兆美元市值，真實股東盈餘竟比淨利少近百億"
+    url: "https://youtu.be/cW-VSLm9YYw"
+    lang: "zh"
 podcast:
   - title: "Apple (AAPL) — Bearish? Apple at $4.94T: Great Business, Zero Margin of Safety"
     url: "https://open.spotify.com/episode/1uY0QXuilLHfAq20O0TCax"
     lang: "en"
+  - title: "Apple（AAPL）看空？蘋果4.94兆美元市值，真實股東盈餘竟比淨利少近百億"
+    url: "https://open.spotify.com/episode/1pgkIwkd68VyWXd45nB7Ba"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

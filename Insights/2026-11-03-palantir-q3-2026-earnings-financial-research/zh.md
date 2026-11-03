@@ -18,10 +18,16 @@ youtube:
   - title: "Palantir at $428.6B: The Risks Hidden in Footnotes"
     url: "https://youtu.be/I-zpg3zP0Ho"
     lang: "en"
+  - title: "Palantir本益比近百倍：營收暴增96%，為何安全邊際是零"
+    url: "https://youtu.be/b2U-kPxEZBM"
+    lang: "zh"
 podcast:
   - title: "Palantir Technologies (PLTR) — Bearish? Palantir at $428.6B: The Risks Hidden in Footnotes"
     url: "https://open.spotify.com/episode/4aVJ0Ey7i5RoKtl46BWcUL"
     lang: "en"
+  - title: "Palantir Technologies（PLTR）看空？Palantir本益比近百倍…"
+    url: "https://open.spotify.com/episode/73kLcnJ8B8RJVonqYyxPlS"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
