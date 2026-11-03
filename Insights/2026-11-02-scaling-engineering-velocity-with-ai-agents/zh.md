@@ -8,8 +8,18 @@ notebook_id: "fcf35175-bccd-4e7d-a6ed-401bc694b087"
 source_urls:
   - title: "Lauren Tan - SpaceXAI engineer"
     url: "https://www.youtube.com/watch?v=EWSUvEyFwjc"
-youtube: []
-podcast: []
+youtube:
+  - title: "Cursor工程師讓AI一個月自動合併1000個PR，關鍵不是更聰明"
+    url: "https://youtu.be/pbyLBOn7KxU"
+    lang: "zh"
+  - title: "Cursor Engineer Ships 1,000 PRs a Month. Who Checks Them?"
+    url: "https://youtu.be/tVFul_AwDV4"
+    lang: "en"
+    publish_at: "2026-11-03T14:00:00Z"
+podcast:
+  - title: "Cursor工程師讓AI一個月自動合併1000個PR，關鍵不是更聰明"
+    url: "https://open.spotify.com/episode/4zd36X5aJZaVenfToy1SfN"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
