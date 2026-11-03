@@ -17,8 +17,14 @@ source_urls:
     url: "https://app.deepvalues.ai/gurus/tom-gayner"
   - title: "Zoetis (ZTS) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/zts/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Markel's Tom Gayner Traded Just 0.6% of $12.8B"
+    url: "https://youtu.be/CQteUV6e-0w"
+    lang: "en"
+podcast:
+  - title: "Markel's Tom Gayner Traded Just 0.6% of $12.8B | Investor Playbook"
+    url: "https://open.spotify.com/episode/4pvCGDDzmKvHvvKzmCpa49"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
