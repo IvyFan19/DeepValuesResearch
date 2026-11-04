@@ -13,7 +13,17 @@ youtube:
     url: "https://youtu.be/OBhd3t-Ck7M"
     lang: "en"
     publish_at: "2026-11-08T14:00:00Z"
-podcast: []
+  - title: "巴菲特半句話拒絕98%：經營者愛錢還是愛生意"
+    url: "https://youtu.be/NlZLY2USkvk"
+    lang: "zh"
+    publish_at: "2026-11-09T04:30:00Z"
+podcast:
+  - title: "Buffett Ends 98% of Pitches Mid-Sentence: The People Filter"
+    url: "https://open.spotify.com/episode/1x14Wx0Txmba83S1ziSq75"
+    lang: "en"
+  - title: "巴菲特半句話拒絕98%：經營者愛錢還是愛生意"
+    url: "https://open.spotify.com/episode/0jH6nQwkseHXSqdsR7liJO"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
