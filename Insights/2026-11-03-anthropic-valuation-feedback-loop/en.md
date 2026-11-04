@@ -8,8 +8,15 @@ notebook_id: "ea059570-7a18-4b4c-a1a6-a5552c4b65f6"
 source_urls:
   - title: "Heeding the Feedback Loop: A follow-up to my Anthropic Valuation"
     url: "https://www.youtube.com/watch?v=W0JDfYSpjnM"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic估值1.5兆美元站得住嗎？3730億算力合約被算成負債"
+    url: "https://youtu.be/tB-7_8V-I_w"
+    lang: "zh"
+    publish_at: "2026-11-08T04:30:00Z"
+podcast:
+  - title: "Anthropic估值1.5兆美元站得住嗎？3730億算力合約被算成負債"
+    url: "https://open.spotify.com/episode/2UzgaPA0cN2FRKXGMg15nU"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

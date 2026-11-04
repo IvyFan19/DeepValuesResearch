@@ -13,7 +13,10 @@ youtube:
     url: "https://youtu.be/zKRW22G_juM"
     lang: "en"
     publish_at: "2026-11-07T18:00:00Z"
-podcast: []
+podcast:
+  - title: "Why Midterms Can't Save a Market at 40x Earnings"
+    url: "https://open.spotify.com/episode/1lDLK4EufHzyL8V2WrxRjp"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
