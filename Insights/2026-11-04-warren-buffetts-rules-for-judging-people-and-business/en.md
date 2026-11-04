@@ -8,7 +8,11 @@ notebook_id: "9b715d80-4ec7-465f-9a58-1b223c5915b0"
 source_urls:
   - title: "Warren Buffett: Why I Fire People Every Day"
     url: "https://www.youtube.com/watch?v=mkKtNY8oXBc"
-youtube: []
+youtube:
+  - title: "Buffett Ends 98% of Pitches Mid-Sentence: The People Filter"
+    url: "https://youtu.be/OBhd3t-Ck7M"
+    lang: "en"
+    publish_at: "2026-11-08T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
