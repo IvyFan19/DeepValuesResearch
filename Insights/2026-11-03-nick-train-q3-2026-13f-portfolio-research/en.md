@@ -19,7 +19,10 @@ youtube:
   - title: "Nick Train Cut Thermo Fisher 24%: Priced Too High?"
     url: "https://youtu.be/FjiLCOk5mD8"
     lang: "en"
-podcast: []
+podcast:
+  - title: "Nick Train砍TMO 24%、減碼Google與迪士尼：股價比價值貴130%｜投資大師心法"
+    url: "https://open.spotify.com/episode/1gZUsS4JO5da966dy70WSP"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
