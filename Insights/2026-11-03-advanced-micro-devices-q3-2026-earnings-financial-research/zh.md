@@ -17,7 +17,10 @@ source_urls:
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm"
 youtube: []
-podcast: []
+podcast:
+  - title: "Advanced Micro Devices (AMD) — AMD's 97% AI Surge Hides a $3B Inventory Pile"
+    url: "https://open.spotify.com/episode/5wqwHCw8CmPu9UIOACOoll"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
