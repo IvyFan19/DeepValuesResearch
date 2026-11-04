@@ -10,8 +10,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/732905/000073290526000001/0000732905-26-000001-index.htm"
   - title: "Tweedy, Browne - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Tweedy%2C_Browne"
-youtube: []
-podcast: []
+youtube:
+  - title: "Tweedy Browne's Q3 13F: Why 45% Sits in Just 10 Stocks"
+    url: "https://youtu.be/_u2whsBcNwA"
+    lang: "en"
+podcast:
+  - title: "Tweedy Browne's Q3 13F: Why 45% Sits in Just 10 Stocks | Investor Playbook"
+    url: "https://open.spotify.com/episode/3xQhe6bJYs1bhTuSiKuSzt"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
