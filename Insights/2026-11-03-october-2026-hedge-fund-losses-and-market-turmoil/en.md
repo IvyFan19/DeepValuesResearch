@@ -8,8 +8,15 @@ notebook_id: "7f5e6e23-27e6-422e-b300-36cf2132d7c7"
 source_urls:
   - title: "Modern Hedge Funds"
   - title: "October Hedge Fund Losses"
-youtube: []
-podcast: []
+youtube:
+  - title: "Millennium與Citadel為何翻車？跌7.5%就強制砍倉"
+    url: "https://youtu.be/fruEbUpO5L4"
+    lang: "zh"
+    publish_at: "2026-11-09T00:00:00Z"
+podcast:
+  - title: "Millennium與Citadel為何翻車？跌7.5%就強制砍倉｜美股市場"
+    url: "https://open.spotify.com/episode/7ESjwTwKk2teSSXkRMIYzI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

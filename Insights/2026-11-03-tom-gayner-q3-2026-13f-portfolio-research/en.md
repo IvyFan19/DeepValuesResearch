@@ -21,6 +21,9 @@ youtube:
   - title: "Markel's Tom Gayner Traded Just 0.6% of $12.8B"
     url: "https://youtu.be/CQteUV6e-0w"
     lang: "en"
+  - title: "湯姆蓋納減碼 Meta 卻加碼 Zoetis 542%：不動如山為何出手"
+    url: "https://youtu.be/wCbaSvddDJQ"
+    lang: "zh"
 podcast:
   - title: "Markel's Tom Gayner Traded Just 0.6% of $12.8B | Investor Playbook"
     url: "https://open.spotify.com/episode/4pvCGDDzmKvHvvKzmCpa49"

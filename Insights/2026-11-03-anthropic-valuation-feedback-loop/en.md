@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/tB-7_8V-I_w"
     lang: "zh"
     publish_at: "2026-11-08T04:30:00Z"
+  - title: "Anthropic's $2T IPO Needs $1T in Yearly Revenue"
+    url: "https://youtu.be/QL6XyPPWDfA"
+    lang: "en"
+    publish_at: "2026-11-07T22:00:00Z"
 podcast:
   - title: "Anthropic估值1.5兆美元站得住嗎？3730億算力合約被算成負債"
     url: "https://open.spotify.com/episode/2UzgaPA0cN2FRKXGMg15nU"
     lang: "zh"
+  - title: "Anthropic's $2T IPO Needs $1T in Yearly Revenue"
+    url: "https://open.spotify.com/episode/4BZ7AQ37zWCeC30gcPCQgW"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

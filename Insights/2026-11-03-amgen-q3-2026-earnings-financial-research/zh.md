@@ -17,6 +17,9 @@ youtube:
   - title: "Amgen: $54B Debt, Flat Owner Earnings, a MariTide Bet"
     url: "https://youtu.be/_X1mXxYIxZ4"
     lang: "en"
+  - title: "安進Q3獲利藏14.65億紙上富貴，舊藥營收腰斬誰來補"
+    url: "https://youtu.be/tm-sPrekAeU"
+    lang: "zh"
 podcast:
   - title: "Amgen (AMGN) — Bearish? Amgen: $54B Debt, Flat Owner Earnings, a MariTide Bet"
     url: "https://open.spotify.com/episode/1t3mG7QY1IkF8yX2zkBypD"
