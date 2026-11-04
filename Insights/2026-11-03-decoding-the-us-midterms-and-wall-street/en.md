@@ -8,7 +8,11 @@ notebook_id: "7170cb9d-dc5c-467a-89b9-a9390abbf8cb"
 source_urls:
   - title: "一次看懂美國期中選舉：它為何牽動華爾街神經？馬斯克砸下 4.45 億押什麼？三種結果推演｜言選解讀"
     url: "https://www.youtube.com/watch?v=arzcW7UPAfk"
-youtube: []
+youtube:
+  - title: "Why Midterms Can't Save a Market at 40x Earnings"
+    url: "https://youtu.be/zKRW22G_juM"
+    lang: "en"
+    publish_at: "2026-11-07T18:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
