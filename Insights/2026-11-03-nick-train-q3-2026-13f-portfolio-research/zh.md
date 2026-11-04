@@ -16,6 +16,9 @@ source_urls:
   - title: "Nick Train Portfolio — Q3 2026 13F Holdings · DeepValues.AI"
     url: "https://app.deepvalues.ai/gurus/nick-train"
 youtube:
+  - title: "Nick Train砍TMO 24%、減碼Google與迪士尼：股價比價值貴130%"
+    url: "https://youtu.be/3g72-mjd7xM"
+    lang: "zh"
   - title: "Nick Train Cut Thermo Fisher 24%: Priced Too High?"
     url: "https://youtu.be/FjiLCOk5mD8"
     lang: "en"

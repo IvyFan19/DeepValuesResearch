@@ -13,7 +13,10 @@ source_urls:
   - title: "DeepValues valuation worksheet: AMGN, prepared 20…"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/318154/000031815426000153/amgn-20260930earningsrelea.htm"
-youtube: []
+youtube:
+  - title: "Amgen: $54B Debt, Flat Owner Earnings, a MariTide Bet"
+    url: "https://youtu.be/_X1mXxYIxZ4"
+    lang: "en"
 podcast:
   - title: "Amgen (AMGN) — Bearish? Amgen: $54B Debt, Flat Owner Earnings, a MariTide Bet"
     url: "https://open.spotify.com/episode/1t3mG7QY1IkF8yX2zkBypD"

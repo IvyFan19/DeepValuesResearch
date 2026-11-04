@@ -16,7 +16,13 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/amdq32026earningsslidesf.htm"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm"
-youtube: []
+youtube:
+  - title: "AMD淨利35億美元，股東盈餘只剩3100萬美元：現金去哪了？"
+    url: "https://youtu.be/WptCB-2j2ho"
+    lang: "zh"
+  - title: "AMD's 97% AI Surge Hides a $3B Inventory Pile"
+    url: "https://youtu.be/iMhM7nAc24U"
+    lang: "en"
 podcast:
   - title: "Advanced Micro Devices（AMD）AMD淨利35億美元，股東盈餘只剩3100萬…"
     url: "https://open.spotify.com/episode/2lFGbfnPjEXaLolFbh3dlk"

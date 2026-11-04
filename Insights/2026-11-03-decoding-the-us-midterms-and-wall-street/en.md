@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/zKRW22G_juM"
     lang: "en"
     publish_at: "2026-11-07T18:00:00Z"
+  - title: "美銀喊跌10%、大摩說漲16%：期中選舉後誰說對了？"
+    url: "https://youtu.be/72eWATkZT6c"
+    lang: "zh"
+    publish_at: "2026-11-08T12:00:00Z"
 podcast:
   - title: "Why Midterms Can't Save a Market at 40x Earnings"
     url: "https://open.spotify.com/episode/1lDLK4EufHzyL8V2WrxRjp"
     lang: "en"
+  - title: "美銀喊跌10%、大摩說漲16%：期中選舉後誰說對了？｜美股市場"
+    url: "https://open.spotify.com/episode/7mUyzdHWT6OqWgKWPV2ZHd"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
