@@ -13,8 +13,14 @@ source_urls:
   - title: "DEEPVALUES 13F WORKSHEET: Dan Bin (Oriental Harbo…"
   - title: "EDGAR Filing Documents for 0002046333-26-000004"
     url: "https://www.sec.gov/Archives/edgar/data/2046333/000204633326000004/0002046333-26-000004-index.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Dan Bin Cuts AMD 64%, Bets $91M on Apple"
+    url: "https://youtu.be/REWwX1SQ-Bk"
+    lang: "en"
+podcast:
+  - title: "Dan Bin Cuts AMD 64%, Bets $91M on Apple | Investor Playbook"
+    url: "https://open.spotify.com/episode/0KCuiJb8eqVGFglF0rT9tQ"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

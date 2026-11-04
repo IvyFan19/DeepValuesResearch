@@ -14,10 +14,16 @@ youtube:
   - title: "Tweedy Browne's Q3 13F: Why 45% Sits in Just 10 Stocks"
     url: "https://youtu.be/_u2whsBcNwA"
     lang: "en"
+  - title: "Tweedy Browne加碼Aptiv、減碼Vertex：隱含成長0%對15%"
+    url: "https://youtu.be/J9HvaOhNavI"
+    lang: "zh"
 podcast:
   - title: "Tweedy Browne's Q3 13F: Why 45% Sits in Just 10 Stocks | Investor Playbook"
     url: "https://open.spotify.com/episode/3xQhe6bJYs1bhTuSiKuSzt"
     lang: "en"
+  - title: "Tweedy Browne加碼Aptiv、減碼Vertex：隱含成長0%對15%｜投資大師心法"
+    url: "https://open.spotify.com/episode/2XheECn8ZD8XJ678IVjaA0"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
