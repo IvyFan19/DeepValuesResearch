@@ -17,6 +17,9 @@ youtube:
     lang: "zh"
     publish_at: "2026-11-08T00:00:00Z"
 podcast:
+  - title: "Binance Lost $6.3B to a Fake Zoom Call and 50 Lines of Code"
+    url: "https://open.spotify.com/episode/4F2CxElfzVU6xJHhKH42GC"
+    lang: "en"
   - title: "幣安63億美元失竊：沒偷私鑰，靠內部AI得手"
     url: "https://open.spotify.com/episode/2ftb0EuynAockbJEM4lJ7x"
     lang: "zh"

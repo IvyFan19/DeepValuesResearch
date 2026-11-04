@@ -18,6 +18,9 @@ podcast:
   - title: "Amgen (AMGN) — Bearish? Amgen: $54B Debt, Flat Owner Earnings, a MariTide Bet"
     url: "https://open.spotify.com/episode/1t3mG7QY1IkF8yX2zkBypD"
     lang: "en"
+  - title: "Amgen（AMGN）看空？安進Q3獲利藏14.65億紙上富貴，舊藥營收腰斬誰來補"
+    url: "https://open.spotify.com/episode/4sXlItpW1fzQQpjoBLRwR8"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
