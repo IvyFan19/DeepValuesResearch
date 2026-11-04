@@ -18,6 +18,9 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/2488/000000248826000188/q32026991.htm"
 youtube: []
 podcast:
+  - title: "Advanced Micro Devices（AMD）AMD淨利35億美元，股東盈餘只剩3100萬…"
+    url: "https://open.spotify.com/episode/2lFGbfnPjEXaLolFbh3dlk"
+    lang: "zh"
   - title: "Advanced Micro Devices (AMD) — AMD's 97% AI Surge Hides a $3B Inventory Pile"
     url: "https://open.spotify.com/episode/5wqwHCw8CmPu9UIOACOoll"
     lang: "en"
