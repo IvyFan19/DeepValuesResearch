@@ -8,8 +8,22 @@ notebook_id: "0abad21d-6427-4b7f-8f89-e97b52b4cfe6"
 source_urls:
   - title: "The Sane Asylum - Colossus"
     url: "https://colossus.com/article/sane-asylum-turbopuffer/"
-youtube: []
-podcast: []
+youtube:
+  - title: "turbopuffer只有50人卻年收破億美元：不靠創投的AI收費站"
+    url: "https://youtu.be/COkZxLagzlE"
+    lang: "zh"
+    publish_at: "2026-11-09T12:00:00Z"
+  - title: "Turbopuffer: $100M ARR With 50 People While AI Burns Cash"
+    url: "https://youtu.be/b-FxtxdUa9c"
+    lang: "en"
+    publish_at: "2026-11-08T18:00:00Z"
+podcast:
+  - title: "turbopuffer只有50人卻年收破億美元：不靠創投的AI收費站"
+    url: "https://open.spotify.com/episode/77Kt14rhvDiuClFIhAqj0c"
+    lang: "zh"
+  - title: "Turbopuffer: $100M ARR With 50 People While AI Burns Cash"
+    url: "https://open.spotify.com/episode/5ZwkYt9bD5XbookGvSNX9Z"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
