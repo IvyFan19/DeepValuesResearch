@@ -9,11 +9,21 @@ source_urls:
   - title: "“只要敢借，就有人敢贷”：聊数据中心融资、电力、算力与泡沫｜硅谷101年度线下大会"
     url: "https://www.youtube.com/watch?v=xzc99JOBMlY"
 youtube:
+  - title: "AI算力卡在電力與融資：每月10億租金，千億美元延遲風險"
+    url: "https://youtu.be/6WuiXLgQmO4"
+    lang: "zh"
+    publish_at: "2026-11-10T04:30:00Z"
   - title: "AI Wants 1 Gigawatt Per Building. The Grid Can't Deliver"
     url: "https://youtu.be/kiuWfmg0dHw"
     lang: "en"
     publish_at: "2026-11-09T14:00:00Z"
-podcast: []
+podcast:
+  - title: "AI算力卡在電力與融資：每月10億租金，千億美元延遲風險｜美股市場"
+    url: "https://open.spotify.com/episode/3GaG9KqaratuOhgZjScOEH"
+    lang: "zh"
+  - title: "AI Wants 1 Gigawatt Per Building. The Grid Can't Deliver | Stock Market"
+    url: "https://open.spotify.com/episode/6MINLESiwezccujFUuS9zE"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
