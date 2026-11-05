@@ -20,7 +20,16 @@ youtube:
   - title: "McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
     url: "https://youtu.be/v5O1fdSojmM"
     lang: "en"
-podcast: []
+  - title: "麥當勞其實是房地產公司？背近400億美元債的收租王"
+    url: "https://youtu.be/WXFfBs5Z7wE"
+    lang: "zh"
+podcast:
+  - title: "McDonald's (MCD) — McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
+    url: "https://open.spotify.com/episode/3jyuATJMXTCASzImrZ6D36"
+    lang: "en"
+  - title: "McDonald's（MCD）麥當勞其實是房地產公司？背近400億美元債的收租王"
+    url: "https://open.spotify.com/episode/2uyHdHD7t3r6SjsjzegESw"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
