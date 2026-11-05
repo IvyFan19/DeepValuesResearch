@@ -8,8 +8,22 @@ notebook_id: "e74fd807-77d6-46b6-b0fb-3d587468bead"
 source_urls:
   - title: "Gemini 4 Carbon：谷歌两周一更抢回第一，但你现在还用不上​ | Gemini 4 Argon | Artificial Analysis | 网络安全 | 长程任务 | AI智能体"
     url: "https://www.youtube.com/watch?v=w6gKhB8VO2Y"
-youtube: []
-podcast: []
+youtube:
+  - title: "Alphabet's $200B AI Moat vs. Its Free Cash Flow"
+    url: "https://youtu.be/aDNmwVqy1hk"
+    lang: "en"
+    publish_at: "2026-11-08T22:00:00Z"
+  - title: "Google雲端翻倍、AI奪冠，自由現金流卻轉負90億美元"
+    url: "https://youtu.be/7kWZjb-LOH0"
+    lang: "zh"
+    publish_at: "2026-11-10T00:00:00Z"
+podcast:
+  - title: "Alphabet (GOOG) — Neutral? Alphabet's $200B AI Moat vs. Its Free Cash Flow"
+    url: "https://open.spotify.com/episode/1Z28TRZyPCKoIx8H6IKtCf"
+    lang: "en"
+  - title: "Alphabet（GOOGL）中性？Google雲端翻倍、AI奪冠，自由現金流卻轉負90億美元"
+    url: "https://open.spotify.com/episode/2f2ghgq0sayr5IOPOCE3lq"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
