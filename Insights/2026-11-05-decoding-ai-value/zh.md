@@ -8,11 +8,18 @@ notebook_id: "32288587-8c4e-48d6-9a2d-a4b7fc9b9288"
 source_urls:
   - title: "Decoding AI Value"
 youtube:
+  - title: "Chamath's AI Stack: Who Gets Paid From $700B Capex?"
+    url: "https://youtu.be/D0YOI1Ssow4"
+    lang: "en"
+    publish_at: "2026-11-09T22:00:00Z"
   - title: "輝達vs艾司摩爾：7000億美元AI資本支出"
     url: "https://youtu.be/2BEpn8-XpFM"
     lang: "zh"
     publish_at: "2026-11-10T12:00:00Z"
 podcast:
+  - title: "Chamath's AI Stack: Who Gets Paid From $700B Capex? | Stock Market"
+    url: "https://open.spotify.com/episode/1FQonylAeyz5T5jwgxdOVq"
+    lang: "en"
   - title: "輝達vs艾司摩爾：7000億美元AI資本支出｜美股市場"
     url: "https://open.spotify.com/episode/0ZZP5bRPQcvaUmRoHjbyrS"
     lang: "zh"
