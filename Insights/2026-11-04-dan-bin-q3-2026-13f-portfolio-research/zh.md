@@ -24,6 +24,9 @@ podcast:
   - title: "Dan Bin Cuts AMD 64%, Bets $91M on Apple | Investor Playbook"
     url: "https://open.spotify.com/episode/0KCuiJb8eqVGFglF0rT9tQ"
     lang: "en"
+  - title: "但斌砍AMD 64%、清倉Marvell，為何轉買蘋果？｜投資大師心法"
+    url: "https://open.spotify.com/episode/42BHLQQH6M0gnJPtl3oIKh"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
