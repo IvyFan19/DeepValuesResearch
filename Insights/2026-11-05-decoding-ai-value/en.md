@@ -7,8 +7,15 @@ tickers: ["UPS"]
 notebook_id: "32288587-8c4e-48d6-9a2d-a4b7fc9b9288"
 source_urls:
   - title: "Decoding AI Value"
-youtube: []
-podcast: []
+youtube:
+  - title: "輝達vs艾司摩爾：7000億美元AI資本支出"
+    url: "https://youtu.be/2BEpn8-XpFM"
+    lang: "zh"
+    publish_at: "2026-11-10T12:00:00Z"
+podcast:
+  - title: "輝達vs艾司摩爾：7000億美元AI資本支出｜美股市場"
+    url: "https://open.spotify.com/episode/0ZZP5bRPQcvaUmRoHjbyrS"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
