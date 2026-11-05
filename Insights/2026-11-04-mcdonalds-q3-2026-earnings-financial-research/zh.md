@@ -16,7 +16,10 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/63908/000006390826000073/mcd-20260630.htm"
   - title: "McDonald's Q3 2026 Earnings Call | Adjusted EPS Beats at $3.57 & Revenue Hits $7.16B"
     url: "https://www.youtube.com/watch?v=3zP2STt27PU"
-youtube: []
+youtube:
+  - title: "McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
+    url: "https://youtu.be/v5O1fdSojmM"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
