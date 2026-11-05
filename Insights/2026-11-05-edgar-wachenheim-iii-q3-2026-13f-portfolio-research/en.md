@@ -12,8 +12,20 @@ source_urls:
     url: "https://en.wikipedia.org/wiki/Edgar_Wachenheim_III"
   - title: "Lennar (LEN) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/len/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Lennar: Why a 19%-a-Year Investor Made It His Big Bet"
+    url: "https://youtu.be/iPCxjnr4l0s"
+    lang: "en"
+  - title: "華肯漢Q3逆向佈局Lennar：股價77美元，估值346美元"
+    url: "https://youtu.be/B9qGq8bsmUI"
+    lang: "zh"
+podcast:
+  - title: "Lennar: Why a 19%-a-Year Investor Made It His Big Bet"
+    url: "https://open.spotify.com/episode/5kO1wGhNDm0kUN6uhZSBKb"
+    lang: "en"
+  - title: "華肯漢Q3逆向佈局Lennar：股價77美元，估值346美元｜投資大師心法"
+    url: "https://open.spotify.com/episode/1nWWEWzgMXmgokpSIutAWS"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
