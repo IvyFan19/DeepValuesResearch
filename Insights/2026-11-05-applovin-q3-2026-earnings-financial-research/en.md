@@ -13,7 +13,10 @@ source_urls:
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/exhibit991-3q26earningspre.htm"
 youtube: []
-podcast: []
+podcast:
+  - title: "AppLovin (APP) — Neutral? AppLovin's 66% Margin: Real Profit or Accounting Trick?"
+    url: "https://open.spotify.com/episode/686mzr5sTVgH836etCZ20Z"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
