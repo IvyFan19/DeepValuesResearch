@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/y6glEZ4D20M"
     lang: "en"
     publish_at: "2026-11-10T18:00:00Z"
+  - title: "段永平賣Apple Call不賣股：懷念10倍本益比"
+    url: "https://youtu.be/KYSss4mjEBI"
+    lang: "zh"
+    publish_at: "2026-11-11T04:30:00Z"
 podcast:
   - title: "Apple and Pop Mart: Why Duan Sold Calls, Not Shares | Investor Playbook"
     url: "https://open.spotify.com/episode/5qxe9JUkKHrTOedy61cGEK"
     lang: "en"
+  - title: "段永平賣Apple Call不賣股：懷念10倍本益比｜投資大師心法"
+    url: "https://open.spotify.com/episode/15BommgUsHuiFRWBdp9zka"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
