@@ -7,8 +7,22 @@ tickers: []
 notebook_id: "b21ebed7-45cd-4923-8154-bf8c2b1a246a"
 source_urls:
   - title: "AI Market Shift"
-youtube: []
-podcast: []
+youtube:
+  - title: "OpenAI營收67億美元卻虧123億"
+    url: "https://youtu.be/vfGyUV6Rqf4"
+    lang: "zh"
+    publish_at: "2026-11-11T00:00:00Z"
+  - title: "OpenAI Sought $30B, Found $11B: Anthropic Pulls Ahead"
+    url: "https://youtu.be/mSsKRQ1ults"
+    lang: "en"
+    publish_at: "2026-11-10T14:00:00Z"
+podcast:
+  - title: "OpenAI營收67億美元卻虧123億｜美股市場"
+    url: "https://open.spotify.com/episode/7MOcRUofDTb4CZWaS6drqq"
+    lang: "zh"
+  - title: "OpenAI Sought $30B, Found $11B: Anthropic Pulls Ahead | Stock Market"
+    url: "https://open.spotify.com/episode/5XPGpNddjhYWRChZMoxxlA"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
