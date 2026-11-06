@@ -12,8 +12,17 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000069/app-20260930.htm"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/exhibit991-3q26earningspre.htm"
-youtube: []
+youtube:
+  - title: "AppLovin安裝量只增2%營收卻暴增55%"
+    url: "https://youtu.be/iFyDV76TqdM"
+    lang: "zh"
+  - title: "AppLovin's 66% Margin: Real Profit or Accounting Trick?"
+    url: "https://youtu.be/_h-OWejidJg"
+    lang: "en"
 podcast:
+  - title: "AppLovin（APP）中性？AppLovin安裝量只增2%營收卻暴增55%"
+    url: "https://open.spotify.com/episode/0RXi5lqIj6i8hqQpdEjBA3"
+    lang: "zh"
   - title: "AppLovin (APP) — Neutral? AppLovin's 66% Margin: Real Profit or Accounting Trick?"
     url: "https://open.spotify.com/episode/686mzr5sTVgH836etCZ20Z"
     lang: "en"
