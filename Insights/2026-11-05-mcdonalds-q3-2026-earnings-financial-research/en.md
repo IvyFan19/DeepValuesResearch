@@ -34,6 +34,9 @@ podcast:
   - title: "McDonald's（MCD）麥當勞其實是房地產公司？背近400億美元債的收租王"
     url: "https://open.spotify.com/episode/2uyHdHD7t3r6SjsjzegESw"
     lang: "zh"
+  - title: "McDonald's（MCD）麥當勞怕減肥藥？客流下滑，股價卻隱含7-8%永續成長"
+    url: "https://open.spotify.com/episode/11d0eZkwKezobBuvSQlJio"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
