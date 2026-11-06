@@ -27,6 +27,9 @@ youtube:
   - title: "麥當勞其實是房地產公司？背近400億美元債的收租王"
     url: "https://youtu.be/WXFfBs5Z7wE"
     lang: "zh"
+  - title: "麥當勞怕減肥藥？客流下滑，股價卻隱含7-8%永續成長"
+    url: "https://youtu.be/N3wb5qxV_iQ"
+    lang: "zh"
 podcast:
   - title: "McDonald's (MCD) — McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
     url: "https://open.spotify.com/episode/3jyuATJMXTCASzImrZ6D36"
