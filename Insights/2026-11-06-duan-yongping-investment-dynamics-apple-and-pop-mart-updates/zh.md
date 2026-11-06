@@ -7,8 +7,15 @@ tickers: ["AAPL"]
 notebook_id: "189dfb7c-ab04-4b01-8208-85b117d750e9"
 source_urls:
   - title: "段永平投资动态"
-youtube: []
-podcast: []
+youtube:
+  - title: "Apple and Pop Mart: Why Duan Sold Calls, Not Shares"
+    url: "https://youtu.be/y6glEZ4D20M"
+    lang: "en"
+    publish_at: "2026-11-10T18:00:00Z"
+podcast:
+  - title: "Apple and Pop Mart: Why Duan Sold Calls, Not Shares | Investor Playbook"
+    url: "https://open.spotify.com/episode/5qxe9JUkKHrTOedy61cGEK"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
