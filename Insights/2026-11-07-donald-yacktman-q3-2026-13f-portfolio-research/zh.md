@@ -9,7 +9,10 @@ source_urls:
   - title: "DEEPVALUES 13F WORKSHEET: Donald Yacktman (Yacktm…"
   - title: "EDGAR Filing Documents for 0000905567-26-000005"
     url: "https://www.sec.gov/Archives/edgar/data/905567/000090556726000005/0000905567-26-000005-index.htm"
-youtube: []
+youtube:
+  - title: "Yacktman at 84: $118.5M Sold, Only 1.5% Turnover"
+    url: "https://youtu.be/GAKjJfWBaBY"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
