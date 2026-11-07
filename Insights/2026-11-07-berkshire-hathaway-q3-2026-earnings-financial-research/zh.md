@@ -19,6 +19,9 @@ youtube:
   - title: "Berkshire Q3 2026: $22.1B Profit, Only $12.7B Is Real"
     url: "https://youtu.be/ETiJeXqo74Y"
     lang: "en"
+  - title: "波克夏抱3523億現金不出手，卻砸96億美元買回自家股票"
+    url: "https://youtu.be/pXVd7UI-enM"
+    lang: "zh"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
