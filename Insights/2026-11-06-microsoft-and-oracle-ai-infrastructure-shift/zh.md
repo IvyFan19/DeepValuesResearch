@@ -12,7 +12,10 @@ youtube:
     url: "https://youtu.be/R3Re5qrEL5k"
     lang: "en"
     publish_at: "2026-11-10T22:00:00Z"
-podcast: []
+podcast:
+  - title: "Microsoft (MSFT) — Microsoft Drops Oracle Cloud: The $80B Rent Problem"
+    url: "https://open.spotify.com/episode/7Jlfh9FS7j2ZZ6VzibhMVt"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
