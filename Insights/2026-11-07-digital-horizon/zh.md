@@ -9,8 +9,22 @@ source_urls:
   - title: "Digital Horizon"
   - title: "Jack Bogle: What Can Happen in an OVERVALUED Market - (John C. Bogle)"
     url: "https://www.youtube.com/watch?v=1SLb1QJvTvg"
-youtube: []
-podcast: []
+youtube:
+  - title: "Jack Bogle: From 12% Returns to a 4% Decade"
+    url: "https://youtu.be/5vpwGpfxTZs"
+    lang: "en"
+    publish_at: "2026-11-11T18:00:00Z"
+  - title: "柏格雙引擎模型：美股年化報酬從12%降到4%?"
+    url: "https://youtu.be/QPeb6HvVyWg"
+    lang: "zh"
+    publish_at: "2026-11-12T04:30:00Z"
+podcast:
+  - title: "Jack Bogle: From 12% Returns to a 4% Decade | Stock Market"
+    url: "https://open.spotify.com/episode/7e4IxFwogQYyt1a6KrFiE3"
+    lang: "en"
+  - title: "柏格雙引擎模型：美股年化報酬從12%降到4%?"
+    url: "https://open.spotify.com/episode/5skYJlZt7viKRhEF7QYUBI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
