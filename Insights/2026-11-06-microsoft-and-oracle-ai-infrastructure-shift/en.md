@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/R3Re5qrEL5k"
     lang: "en"
     publish_at: "2026-11-10T22:00:00Z"
+  - title: "微軟退租甲骨文AI算力：每季砸500億美元自建，甲骨文為何腰斬"
+    url: "https://youtu.be/sxoxVQOhNqg"
+    lang: "zh"
+    publish_at: "2026-11-11T12:00:00Z"
 podcast:
   - title: "Microsoft (MSFT) — Microsoft Drops Oracle Cloud: The $80B Rent Problem"
     url: "https://open.spotify.com/episode/7Jlfh9FS7j2ZZ6VzibhMVt"
     lang: "en"
+  - title: "Microsoft（MSFT）微軟退租甲骨文AI算力：每季砸500億美元自建，甲骨文為何腰斬"
+    url: "https://open.spotify.com/episode/6ZneBfVRWrl5bwKaqcD1tD"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
