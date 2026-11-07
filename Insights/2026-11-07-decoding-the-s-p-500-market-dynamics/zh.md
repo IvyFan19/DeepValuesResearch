@@ -8,8 +8,22 @@ notebook_id: "7e4c1383-8a0b-4487-ac0f-7d7c68d39ab9"
 source_urls:
   - title: "What's the S&P 500 Signaling Under the Surface | Market Snapshot, November 2026"
     url: "https://www.youtube.com/watch?v=gQzv83zHDDY"
-youtube: []
-podcast: []
+youtube:
+  - title: "S&P 500 Up 11% While Its Average Stock Fell 27%"
+    url: "https://youtu.be/gXWiSik87fc"
+    lang: "en"
+    publish_at: "2026-11-11T14:00:00Z"
+  - title: "標普500漲11%，平均成分股卻跌27%：大盤掩蓋的熊市"
+    url: "https://youtu.be/UeVjD1OdRa0"
+    lang: "zh"
+    publish_at: "2026-11-12T00:00:00Z"
+podcast:
+  - title: "S&P 500 Up 11% While Its Average Stock Fell 27%"
+    url: "https://open.spotify.com/episode/3koUaMfdyxTi3zfzrun9yC"
+    lang: "en"
+  - title: "標普500漲11%，平均成分股卻跌27%：大盤掩蓋的熊市｜美股市場"
+    url: "https://open.spotify.com/episode/7AvYCvAZhMFDqUtB3o4RRS"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
