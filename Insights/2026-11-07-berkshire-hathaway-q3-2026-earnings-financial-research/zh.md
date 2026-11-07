@@ -15,7 +15,10 @@ source_urls:
     url: "https://www.berkshirehathaway.com/news/nov0726.pdf"
   - title: "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf"
     url: "https://www.berkshirehathaway.com/qtrly/3rdqtr26.pdf"
-youtube: []
+youtube:
+  - title: "Berkshire Q3 2026: $22.1B Profit, Only $12.7B Is Real"
+    url: "https://youtu.be/ETiJeXqo74Y"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
