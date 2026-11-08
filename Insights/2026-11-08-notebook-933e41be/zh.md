@@ -20,6 +20,9 @@ podcast:
   - title: "Nvidia, Moutai, Micron: Duan on Why a 3x PE Can Be a Trap | Value Investing"
     url: "https://open.spotify.com/episode/4sj4YhmRpgcrdEjTzwRy77"
     lang: "en"
+  - title: "段永平看英偉達、茅台與SK海力士：不到3倍本益比是陷阱嗎？｜價值投資"
+    url: "https://open.spotify.com/episode/08vPo1Q9jBLC7RA1qEkAtE"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

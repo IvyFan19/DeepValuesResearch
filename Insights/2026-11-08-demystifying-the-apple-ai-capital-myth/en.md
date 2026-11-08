@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/bj6vUQ36F7s"
     lang: "en"
     publish_at: "2026-11-12T14:00:00Z"
+  - title: "蘋果只花90億、亞馬遜砸2200億：誰的AI設備會變廢鐵"
+    url: "https://youtu.be/jlh6srPdUXo"
+    lang: "zh"
+    publish_at: "2026-11-13T04:30:00Z"
 podcast:
   - title: "Amazon's $215B AI Bet vs Apple's $9B: Who Earns It Back? | Stock Market"
     url: "https://open.spotify.com/episode/4rkSG7jfDD9KHhjWgOzKor"
     lang: "en"
+  - title: "蘋果只花90億、亞馬遜砸2200億：誰的AI設備會變廢鐵｜美股市場"
+    url: "https://open.spotify.com/episode/18flTURIwojQKIsqvwfqfB"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
