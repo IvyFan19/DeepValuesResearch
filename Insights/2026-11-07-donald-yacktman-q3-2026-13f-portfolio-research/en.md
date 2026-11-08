@@ -20,6 +20,9 @@ podcast:
   - title: "可口可樂被砍45%:84歲價值老將為何不全賣？｜投資大師心法"
     url: "https://open.spotify.com/episode/5d3Dc1hte2gyI4qE5E1MsZ"
     lang: "zh"
+  - title: "Yacktman at 84: $118.5M Sold, Only 1.5% Turnover | Investor Playbook"
+    url: "https://open.spotify.com/episode/54B4S2bSHJwD9VRQOAP63j"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
