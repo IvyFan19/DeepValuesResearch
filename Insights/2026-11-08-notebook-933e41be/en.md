@@ -12,6 +12,10 @@ youtube:
     url: "https://youtu.be/ORsSFoPFx-k"
     lang: "en"
     publish_at: "2026-11-12T18:00:00Z"
+  - title: "段永平看英偉達、茅台與SK海力士：不到3倍本益比是陷阱嗎？"
+    url: "https://youtu.be/prYFYYrRxnQ"
+    lang: "zh"
+    publish_at: "2026-11-13T00:00:00Z"
 podcast:
   - title: "Nvidia, Moutai, Micron: Duan on Why a 3x PE Can Be a Trap | Value Investing"
     url: "https://open.spotify.com/episode/4sj4YhmRpgcrdEjTzwRy77"
