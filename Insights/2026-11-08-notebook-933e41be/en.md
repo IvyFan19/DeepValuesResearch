@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "933e41be-69b0-4acc-b69f-e192c9d77a1f"
 source_urls:
   - title: "段永平投资观察"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia, Moutai, Micron: Duan on Why a 3x PE Can Be a Trap"
+    url: "https://youtu.be/ORsSFoPFx-k"
+    lang: "en"
+    publish_at: "2026-11-12T18:00:00Z"
+podcast:
+  - title: "Nvidia, Moutai, Micron: Duan on Why a 3x PE Can Be a Trap | Value Investing"
+    url: "https://open.spotify.com/episode/4sj4YhmRpgcrdEjTzwRy77"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
