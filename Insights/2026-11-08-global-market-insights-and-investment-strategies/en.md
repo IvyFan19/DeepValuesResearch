@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/_xuPzZN8nOs"
     lang: "en"
     publish_at: "2026-11-11T22:00:00Z"
+  - title: "帕布萊一張AI都不買，卻把六成資金押在通膨失控的土耳其"
+    url: "https://youtu.be/kdAEIBHsLeY"
+    lang: "zh"
+    publish_at: "2026-11-12T12:00:00Z"
 podcast:
   - title: "Pabrai Put 60% in Turkey While Skipping the US AI Trade | Investor Playbook"
     url: "https://open.spotify.com/episode/70G4yoAbqPP5e3G0A3Cntr"
     lang: "en"
+  - title: "帕布萊一張AI都不買，卻把六成資金押在通膨失控的土耳其｜投資大師心法"
+    url: "https://open.spotify.com/episode/34v642C41xPAoHh8n7EOW7"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
