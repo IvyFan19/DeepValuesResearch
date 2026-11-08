@@ -10,10 +10,16 @@ source_urls:
   - title: "EDGAR Filing Documents for 0000905567-26-000005"
     url: "https://www.sec.gov/Archives/edgar/data/905567/000090556726000005/0000905567-26-000005-index.htm"
 youtube:
+  - title: "可口可樂被砍45%:84歲價值老將為何不全賣？"
+    url: "https://youtu.be/oL7PsrkomEQ"
+    lang: "zh"
   - title: "Yacktman at 84: $118.5M Sold, Only 1.5% Turnover"
     url: "https://youtu.be/GAKjJfWBaBY"
     lang: "en"
-podcast: []
+podcast:
+  - title: "可口可樂被砍45%:84歲價值老將為何不全賣？｜投資大師心法"
+    url: "https://open.spotify.com/episode/5d3Dc1hte2gyI4qE5E1MsZ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

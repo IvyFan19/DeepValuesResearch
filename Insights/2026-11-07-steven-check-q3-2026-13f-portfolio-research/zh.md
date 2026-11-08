@@ -17,10 +17,16 @@ youtube:
   - title: "Steven Check Dumps $46.8M of Disney for Zoetis"
     url: "https://youtu.be/xly1ytF1lfU"
     lang: "en"
+  - title: "重押波克夏34%、清倉迪士尼99%:Steven Check在想什麼"
+    url: "https://youtu.be/x92H2nUqbMI"
+    lang: "zh"
 podcast:
   - title: "Steven Check Dumps $46.8M of Disney for Zoetis | Investor Playbook"
     url: "https://open.spotify.com/episode/6aBW4XI4YvRyHP2zr4MLCp"
     lang: "en"
+  - title: "重押波克夏34%、清倉迪士尼99%:Steven Check在想什麼｜投資大師心法"
+    url: "https://open.spotify.com/episode/3hcUis0eGaRydebDii60QI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

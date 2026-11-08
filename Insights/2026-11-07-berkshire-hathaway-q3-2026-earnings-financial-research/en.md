@@ -22,7 +22,10 @@ youtube:
   - title: "波克夏抱3523億現金不出手，卻砸96億美元買回自家股票"
     url: "https://youtu.be/pXVd7UI-enM"
     lang: "zh"
-podcast: []
+podcast:
+  - title: "Berkshire Hathaway（BRK.B）中性？波克夏抱3523億現金不出手…"
+    url: "https://open.spotify.com/episode/2M9NdGzxDSDo4AOZIDZ5Rt"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
