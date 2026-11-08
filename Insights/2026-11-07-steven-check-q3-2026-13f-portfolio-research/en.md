@@ -13,8 +13,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1032814/000103281426000009/0001032814-26-000009-index.htm"
   - title: "Zoetis (ZTS) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/zts/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Steven Check Dumps $46.8M of Disney for Zoetis"
+    url: "https://youtu.be/xly1ytF1lfU"
+    lang: "en"
+podcast:
+  - title: "Steven Check Dumps $46.8M of Disney for Zoetis | Investor Playbook"
+    url: "https://open.spotify.com/episode/6aBW4XI4YvRyHP2zr4MLCp"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
