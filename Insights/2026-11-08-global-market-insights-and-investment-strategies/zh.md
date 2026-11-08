@@ -8,8 +8,15 @@ notebook_id: "f11f6648-bb62-4d58-99d5-d044b3c57d92"
 source_urls:
   - title: "Mohnish Pabrai's Interview with CNBC TV18 on October 22, 2026"
     url: "https://www.youtube.com/watch?v=U8EOCWWse6w"
-youtube: []
-podcast: []
+youtube:
+  - title: "Pabrai Put 60% in Turkey While Skipping the US AI Trade"
+    url: "https://youtu.be/_xuPzZN8nOs"
+    lang: "en"
+    publish_at: "2026-11-11T22:00:00Z"
+podcast:
+  - title: "Pabrai Put 60% in Turkey While Skipping the US AI Trade | Investor Playbook"
+    url: "https://open.spotify.com/episode/70G4yoAbqPP5e3G0A3Cntr"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
