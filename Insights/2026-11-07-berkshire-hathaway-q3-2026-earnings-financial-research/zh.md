@@ -23,6 +23,9 @@ youtube:
     url: "https://youtu.be/pXVd7UI-enM"
     lang: "zh"
 podcast:
+  - title: "Berkshire Hathaway (BRK.B) — Neutral? Berkshire Q3 2026: $22.1B Profit, Only $12.7B Is Real"
+    url: "https://open.spotify.com/episode/5QwSsW113mDkIRHJDKNht6"
+    lang: "en"
   - title: "Berkshire Hathaway（BRK.B）中性？波克夏抱3523億現金不出手…"
     url: "https://open.spotify.com/episode/2M9NdGzxDSDo4AOZIDZ5Rt"
     lang: "zh"
