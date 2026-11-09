@@ -16,10 +16,17 @@ youtube:
     url: "https://youtu.be/qGGaaLngutc"
     lang: "en"
     publish_at: "2026-11-13T14:00:00Z"
+  - title: "輝達黃仁勳緋聞不是八卦：選前5天精準洩密的華盛頓晶片戰"
+    url: "https://youtu.be/hm6LGWzYmm0"
+    lang: "zh"
+    publish_at: "2026-11-14T00:00:00Z"
 podcast:
   - title: "NVIDIA (NVDA) — Nvidia's CEO and the Intelligence Leak Aimed at a $2T Moat"
     url: "https://open.spotify.com/episode/2n3vIVQdk1OaQFHfQxbotj"
     lang: "en"
+  - title: "Nvidia（NVDA）輝達黃仁勳緋聞不是八卦：選前5天精準洩密的華盛頓晶片戰"
+    url: "https://open.spotify.com/episode/4n0yzfvWnJwfhvJUNP17PF"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
