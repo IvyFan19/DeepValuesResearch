@@ -11,8 +11,20 @@ source_urls:
   - title: "Data Centers Lost Nearly Every Local Vote on Election Day"
     url: "https://research.socialcapital.com/p/data-centers-election-day"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Data Centers Lost 40 of 41 Votes. Why Microsoft Rose"
+    url: "https://youtu.be/uWq9PJVGHWI"
+    lang: "en"
+  - title: "資料中心41場投票輸40場，微軟反漲6.7%：許可成新護城河"
+    url: "https://youtu.be/gwBhFKes2os"
+    lang: "zh"
+podcast:
+  - title: "Data Centers Lost 40 of 41 Votes. Why Microsoft Rose | Investor Playbook"
+    url: "https://open.spotify.com/episode/30oVK6pIyQNURtUoEjiEiB"
+    lang: "en"
+  - title: "資料中心41場投票輸40場，微軟反漲6.7%：許可成新護城河｜投資大師心法"
+    url: "https://open.spotify.com/episode/5o81jVtjNHKUmRYFGhNm8i"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
