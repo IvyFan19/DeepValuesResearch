@@ -8,7 +8,11 @@ notebook_id: "27c5063d-5bb3-48be-a27c-833d05e74e5d"
 source_urls:
   - title: "Deconstructing the AI Trade: Market Meltdown, Correction or Clean up?"
     url: "https://www.youtube.com/watch?v=gyMFGRFfaKw"
-youtube: []
+youtube:
+  - title: "Nvidia vs Microsoft: The Math of the $1.8T AI Meltdown"
+    url: "https://youtu.be/Nfcoiqy6nNA"
+    lang: "en"
+    publish_at: "2026-11-12T22:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
