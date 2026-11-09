@@ -11,8 +11,15 @@ source_urls:
   - title: "Tech Espionage Politics"
   - title: "The Intelligence Leak"
   - title: "华盛顿情报战"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia's CEO and the Intelligence Leak Aimed at a $2T Moat"
+    url: "https://youtu.be/qGGaaLngutc"
+    lang: "en"
+    publish_at: "2026-11-13T14:00:00Z"
+podcast:
+  - title: "NVIDIA (NVDA) — Nvidia's CEO and the Intelligence Leak Aimed at a $2T Moat"
+    url: "https://open.spotify.com/episode/2n3vIVQdk1OaQFHfQxbotj"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
