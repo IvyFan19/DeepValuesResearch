@@ -14,6 +14,9 @@ source_urls:
   - title: "EDGAR Filing Documents for 0001088875-26-000074"
     url: "https://www.sec.gov/Archives/edgar/data/1088875/000108887526000074/0001088875-26-000074-index.htm"
 youtube:
+  - title: "Baillie Gifford Made $29.5B on Tesla. Is It Overpaying Now?"
+    url: "https://youtu.be/PpyojQrjUQc"
+    lang: "en"
   - title: "柏基狂買柯林研發：股價高出內在價值67%還加碼？"
     url: "https://youtu.be/4n8vToZZk9E"
     lang: "zh"
