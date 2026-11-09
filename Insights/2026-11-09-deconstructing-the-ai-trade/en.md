@@ -9,11 +9,21 @@ source_urls:
   - title: "Deconstructing the AI Trade: Market Meltdown, Correction or Clean up?"
     url: "https://www.youtube.com/watch?v=gyMFGRFfaKw"
 youtube:
+  - title: "輝達賺翻、微軟燒錢：AI股單日蒸發1.8兆美元的真相"
+    url: "https://youtu.be/pXoZGWRrH_g"
+    lang: "zh"
+    publish_at: "2026-11-13T12:00:00Z"
   - title: "Nvidia vs Microsoft: The Math of the $1.8T AI Meltdown"
     url: "https://youtu.be/Nfcoiqy6nNA"
     lang: "en"
     publish_at: "2026-11-12T22:00:00Z"
-podcast: []
+podcast:
+  - title: "輝達賺翻、微軟燒錢：AI股單日蒸發1.8兆美元的真相｜美股市場"
+    url: "https://open.spotify.com/episode/6HVKydQhRvChq4gAwPPMiz"
+    lang: "zh"
+  - title: "Nvidia vs Microsoft: The Math of the $1.8T AI Meltdown | Stock Market"
+    url: "https://open.spotify.com/episode/3FaXzcAhMuxJVjOvuqLRNh"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
