@@ -13,8 +13,14 @@ source_urls:
   - title: "DEEPVALUES 13F WORKSHEET: Baillie Gifford (Bailli…"
   - title: "EDGAR Filing Documents for 0001088875-26-000074"
     url: "https://www.sec.gov/Archives/edgar/data/1088875/000108887526000074/0001088875-26-000074-index.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "柏基狂買柯林研發：股價高出內在價值67%還加碼？"
+    url: "https://youtu.be/4n8vToZZk9E"
+    lang: "zh"
+podcast:
+  - title: "柏基狂買柯林研發：股價高出內在價值67%還加碼？｜投資大師心法"
+    url: "https://open.spotify.com/episode/7m06t0Adc4asLh4EiCCNAC"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
