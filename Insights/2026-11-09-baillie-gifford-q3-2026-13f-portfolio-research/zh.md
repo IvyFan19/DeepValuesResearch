@@ -21,6 +21,9 @@ youtube:
     url: "https://youtu.be/4n8vToZZk9E"
     lang: "zh"
 podcast:
+  - title: "Baillie Gifford Made $29.5B on Tesla. Is It Overpaying Now? | Investor Playbook"
+    url: "https://open.spotify.com/episode/28GEGsACRl7rPAt38S2wcK"
+    lang: "en"
   - title: "柏基狂買柯林研發：股價高出內在價值67%還加碼？｜投資大師心法"
     url: "https://open.spotify.com/episode/7m06t0Adc4asLh4EiCCNAC"
     lang: "zh"
