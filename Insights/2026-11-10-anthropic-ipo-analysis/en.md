@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/qfJStP7l0WI"
     lang: "en"
     publish_at: "2026-11-13T22:00:00Z"
+  - title: "Anthropic估值1.4兆美元"
+    url: "https://youtu.be/vd4CAxEf-BM"
+    lang: "zh"
+    publish_at: "2026-11-14T12:00:00Z"
 podcast:
   - title: "Anthropic (ANT) — Bearish? Anthropic's $1.4T IPO: 1,206% Growth, No Margin of Safety"
     url: "https://open.spotify.com/episode/69md1kslH0RnJMCfvyrO9V"
     lang: "en"
+  - title: "Anthropic估值1.4兆美元"
+    url: "https://open.spotify.com/episode/5zvOYXD2oxrhPY154iJ8sb"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
