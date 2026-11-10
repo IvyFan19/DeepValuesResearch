@@ -8,8 +8,15 @@ notebook_id: "6cbff86e-3eaf-4f7e-b02a-73d68cc88fba"
 source_urls:
   - title: "My Brutally Honest Thoughts About the AI Bubble."
     url: "https://www.youtube.com/watch?v=w1dRDj1QRks"
-youtube: []
-podcast: []
+youtube:
+  - title: "Eisman's $850B AI Bubble: 65% of the S&P 500 Exposed"
+    url: "https://youtu.be/QbCGH9EztWw"
+    lang: "en"
+    publish_at: "2026-11-13T18:00:00Z"
+podcast:
+  - title: "Eisman's $850B AI Bubble: 65% of the S&P 500 Exposed"
+    url: "https://open.spotify.com/episode/2hlHdkxTATWzZkKf1x6pkC"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

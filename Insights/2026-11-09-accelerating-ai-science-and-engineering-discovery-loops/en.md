@@ -8,8 +8,14 @@ notebook_id: "a5a4f080-0bc1-46d3-9c11-34b41a95f23d"
 source_urls:
   - title: "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li"
     url: "https://www.youtube.com/watch?v=ooGKNwJWdb8"
-youtube: []
-podcast: []
+youtube:
+  - title: "Jeff Dean Left Google to Make Science 20x Faster"
+    url: "https://youtu.be/Cn0Cm4f0c1I"
+    lang: "en"
+podcast:
+  - title: "Jeff Dean Left Google to Make Science 20x Faster | AI Explained"
+    url: "https://open.spotify.com/episode/20wmMrZ09smH0QxvkCnVZk"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
