@@ -11,8 +11,17 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1404599/000195332426000004/0001953324-26-000004-index.htm"
   - title: "Guy Spier - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Guy_Spier"
-youtube: []
-podcast: []
+youtube:
+  - title: "Guy Spier把1.44億美元全壓七檔股票，整季零交易"
+    url: "https://youtu.be/sm5_-rOR9uY"
+    lang: "zh"
+  - title: "Guy Spier Made Zero Trades in Q3 With 49% in Berkshire"
+    url: "https://youtu.be/g7o_gaxw8I4"
+    lang: "en"
+podcast:
+  - title: "Guy Spier Made Zero Trades in Q3 With 49% in Berkshire | Investor Playbook"
+    url: "https://open.spotify.com/episode/3Ztxn6Jm3s29k7vgDZI2Va"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
