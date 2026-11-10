@@ -8,8 +8,15 @@ notebook_id: "7b1be1d6-7bbd-4a5c-9396-4212e7687d20"
 source_urls:
   - title: "Anthropic IPO Analysis"
   - title: "Anthropic IPO Analysis"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $1.4T IPO: 1,206% Growth, No Margin of Safety"
+    url: "https://youtu.be/qfJStP7l0WI"
+    lang: "en"
+    publish_at: "2026-11-13T22:00:00Z"
+podcast:
+  - title: "Anthropic (ANT) — Bearish? Anthropic's $1.4T IPO: 1,206% Growth, No Margin of Safety"
+    url: "https://open.spotify.com/episode/69md1kslH0RnJMCfvyrO9V"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
