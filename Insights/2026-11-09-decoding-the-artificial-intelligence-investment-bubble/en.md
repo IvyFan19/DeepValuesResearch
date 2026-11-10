@@ -9,11 +9,18 @@ source_urls:
   - title: "My Brutally Honest Thoughts About the AI Bubble."
     url: "https://www.youtube.com/watch?v=w1dRDj1QRks"
 youtube:
+  - title: "Meta把270億債移出帳外、甲骨文負債飆1550億：AI燒錢代價"
+    url: "https://youtu.be/n_0NwpiO7Qs"
+    lang: "zh"
+    publish_at: "2026-11-14T04:30:00Z"
   - title: "Eisman's $850B AI Bubble: 65% of the S&P 500 Exposed"
     url: "https://youtu.be/QbCGH9EztWw"
     lang: "en"
     publish_at: "2026-11-13T18:00:00Z"
 podcast:
+  - title: "Meta把270億債移出帳外、甲骨文負債飆1550億：AI燒錢代價"
+    url: "https://open.spotify.com/episode/3gQU2B2f9WXOsVR3m41zNN"
+    lang: "zh"
   - title: "Eisman's $850B AI Bubble: 65% of the S&P 500 Exposed"
     url: "https://open.spotify.com/episode/2hlHdkxTATWzZkKf1x6pkC"
     lang: "en"

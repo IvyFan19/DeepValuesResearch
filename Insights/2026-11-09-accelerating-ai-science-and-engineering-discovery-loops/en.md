@@ -12,10 +12,17 @@ youtube:
   - title: "Jeff Dean Left Google to Make Science 20x Faster"
     url: "https://youtu.be/Cn0Cm4f0c1I"
     lang: "en"
+  - title: "Google 27年老將Jeff Dean：物理法則否定AI無限進化"
+    url: "https://youtu.be/_pzKloQ1SZ0"
+    lang: "zh"
+    publish_at: "2026-11-10T04:30:00Z"
 podcast:
   - title: "Jeff Dean Left Google to Make Science 20x Faster | AI Explained"
     url: "https://open.spotify.com/episode/20wmMrZ09smH0QxvkCnVZk"
     lang: "en"
+  - title: "Google 27年老將Jeff Dean：物理法則否定AI無限進化"
+    url: "https://open.spotify.com/episode/7vEjxKEKYu0srCderqTMVn"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
