@@ -19,6 +19,9 @@ youtube:
     url: "https://youtu.be/g7o_gaxw8I4"
     lang: "en"
 podcast:
+  - title: "Guy Spier把1.44億美元全壓七檔股票，整季零交易｜投資大師心法"
+    url: "https://open.spotify.com/episode/4gkzYFGkzj3ezQNpqBhgfi"
+    lang: "zh"
   - title: "Guy Spier Made Zero Trades in Q3 With 49% in Berkshire | Investor Playbook"
     url: "https://open.spotify.com/episode/3Ztxn6Jm3s29k7vgDZI2Va"
     lang: "en"
