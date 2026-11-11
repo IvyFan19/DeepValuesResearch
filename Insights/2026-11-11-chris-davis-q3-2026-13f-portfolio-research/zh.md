@@ -15,8 +15,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/txn/"
   - title: "Zoetis (ZTS) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/zts/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Chris Davis Buys $249M of Zoetis"
+    url: "https://youtu.be/oI5Dmu7NzMs"
+    lang: "en"
+podcast:
+  - title: "Chris Davis Buys $249M of Zoetis | Investor Playbook"
+    url: "https://open.spotify.com/episode/4haaMM8G6JuarpxYQvRT0j"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
