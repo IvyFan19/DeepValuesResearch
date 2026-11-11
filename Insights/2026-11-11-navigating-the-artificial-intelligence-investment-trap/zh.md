@@ -8,8 +8,15 @@ notebook_id: "5b91c080-3adc-4012-9b09-6d28c1412538"
 source_urls:
   - title: "Nassim Taleb Calls Stocks a 'Trap,' Sees 'Naive' AI Investors"
     url: "https://www.youtube.com/watch?v=YNQO0Ods2h0"
-youtube: []
-podcast: []
+youtube:
+  - title: "Why Taleb Calls AI Stocks a Trap"
+    url: "https://youtu.be/MmNAltRpgD0"
+    lang: "en"
+    publish_at: "2026-11-14T22:00:00Z"
+podcast:
+  - title: "Why Taleb Calls AI Stocks a Trap"
+    url: "https://open.spotify.com/episode/6Tmfzd9X8Ww2l2OizY1Suy"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
