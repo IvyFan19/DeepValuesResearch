@@ -8,8 +8,15 @@ notebook_id: "c2e97d7c-c566-4c05-9cae-101e0adb1a9e"
 source_urls:
   - title: "Antifragille: Things That Gain from Disorder | Nassim Nicholas Taleb | Talks at Google"
     url: "https://www.youtube.com/watch?v=S3REdLZ8Xis"
-youtube: []
-podcast: []
+youtube:
+  - title: "Antifragility: The Math of Harm"
+    url: "https://youtu.be/42adNXJE7ao"
+    lang: "en"
+    publish_at: "2026-11-14T18:00:00Z"
+podcast:
+  - title: "Antifragility: The Math of Harm | Value Investing"
+    url: "https://open.spotify.com/episode/3XkwpwCynl21JQk7yNwvtE"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

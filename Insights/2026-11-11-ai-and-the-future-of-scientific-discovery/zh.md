@@ -8,8 +8,14 @@ notebook_id: "a6e31c98-06f0-4a5e-9867-ff90eee2b3cf"
 source_urls:
   - title: "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li"
     url: "https://www.youtube.com/watch?v=ooGKNwJWdb8"
-youtube: []
-podcast: []
+youtube:
+  - title: "Jeff Dean's AI Science Factory"
+    url: "https://youtu.be/2zlyaHsuqoQ"
+    lang: "en"
+podcast:
+  - title: "Jeff Dean's AI Science Factory"
+    url: "https://open.spotify.com/episode/3b7dgD1kH53JudhO0QAzRC"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
