@@ -8,8 +8,14 @@ notebook_id: "6d8f2e3d-1ef8-4b35-a56f-12853b2c3614"
 source_urls:
   - title: "The Future of AI Infrastructure"
     url: "https://www.youtube.com/watch?v=pabDkNR7jIs"
-youtube: []
-podcast: []
+youtube:
+  - title: "Google's TPU Rebuild: Why AI Agents Need 55x More Compute"
+    url: "https://youtu.be/8wO2pFKGxpU"
+    lang: "en"
+podcast:
+  - title: "Google's TPU Rebuild: Why AI Agents Need 55x More Compute"
+    url: "https://open.spotify.com/episode/6MBMF32OxXP4pA7k59tyA2"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
