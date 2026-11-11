@@ -9,10 +9,17 @@ source_urls:
   - title: "Confronting Our AI Future: Closing Keynote \"Discovery Loop\" with Jeff Dean and Fei-Fei Li"
     url: "https://www.youtube.com/watch?v=ooGKNwJWdb8"
 youtube:
+  - title: "AI瓦解科技巨頭護城河"
+    url: "https://youtu.be/EY6tHlTb9d4"
+    lang: "zh"
+    publish_at: "2026-11-12T00:00:00Z"
   - title: "Jeff Dean's AI Science Factory"
     url: "https://youtu.be/2zlyaHsuqoQ"
     lang: "en"
 podcast:
+  - title: "AI瓦解科技巨頭護城河"
+    url: "https://open.spotify.com/episode/2ZWkit2dmnhYDQkgOuaZWs"
+    lang: "zh"
   - title: "Jeff Dean's AI Science Factory"
     url: "https://open.spotify.com/episode/3b7dgD1kH53JudhO0QAzRC"
     lang: "en"

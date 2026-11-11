@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/42adNXJE7ao"
     lang: "en"
     publish_at: "2026-11-14T18:00:00Z"
+  - title: "反脆弱：從混亂中獲益的投資哲學"
+    url: "https://youtu.be/14TeSm2Pb5I"
+    lang: "zh"
+    publish_at: "2026-11-15T04:30:00Z"
 podcast:
   - title: "Antifragility: The Math of Harm | Value Investing"
     url: "https://open.spotify.com/episode/3XkwpwCynl21JQk7yNwvtE"
     lang: "en"
+  - title: "反脆弱：從混亂中獲益的投資哲學｜價值投資"
+    url: "https://open.spotify.com/episode/2riZutIKFFlB28ZHOFKSK1"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
