@@ -12,10 +12,16 @@ youtube:
   - title: "Google's TPU Rebuild: Why AI Agents Need 55x More Compute"
     url: "https://youtu.be/8wO2pFKGxpU"
     lang: "en"
+  - title: "Google為何把AI晶片射上太空？算力需求將暴增55倍"
+    url: "https://youtu.be/dNSQ8HNafyI"
+    lang: "zh"
 podcast:
   - title: "Google's TPU Rebuild: Why AI Agents Need 55x More Compute"
     url: "https://open.spotify.com/episode/6MBMF32OxXP4pA7k59tyA2"
     lang: "en"
+  - title: "Google為何把AI晶片射上太空？算力需求將暴增55倍"
+    url: "https://open.spotify.com/episode/4WIQyRxPmQ0yhHg9shTTJi"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
