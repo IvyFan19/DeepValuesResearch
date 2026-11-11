@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/MmNAltRpgD0"
     lang: "en"
     publish_at: "2026-11-14T22:00:00Z"
+  - title: "塔勒布警告AI股市陷阱"
+    url: "https://youtu.be/tSMjOWbEYI8"
+    lang: "zh"
+    publish_at: "2026-11-15T12:00:00Z"
 podcast:
   - title: "Why Taleb Calls AI Stocks a Trap"
     url: "https://open.spotify.com/episode/6Tmfzd9X8Ww2l2OizY1Suy"
     lang: "en"
+  - title: "塔勒布警告AI股市陷阱"
+    url: "https://open.spotify.com/episode/0jXxX416qoo0kT7MNBAxpu"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
