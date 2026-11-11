@@ -19,10 +19,16 @@ youtube:
   - title: "Chris Davis Buys $249M of Zoetis"
     url: "https://youtu.be/oI5Dmu7NzMs"
     lang: "en"
+  - title: "Chris Davis 13F集中持股"
+    url: "https://youtu.be/EyQwo_YGyGY"
+    lang: "zh"
 podcast:
   - title: "Chris Davis Buys $249M of Zoetis | Investor Playbook"
     url: "https://open.spotify.com/episode/4haaMM8G6JuarpxYQvRT0j"
     lang: "en"
+  - title: "Chris Davis 13F集中持股｜投資大師心法"
+    url: "https://open.spotify.com/episode/1Iq7hEkbHdKpUmbWVoGol4"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
