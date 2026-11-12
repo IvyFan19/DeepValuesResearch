@@ -8,8 +8,15 @@ notebook_id: "3a012515-6973-4a3d-8ec9-d458858299a0"
 source_urls:
   - title: "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？【101视频播客】"
     url: "https://www.youtube.com/watch?v=goiVFy4jqPA"
-youtube: []
-podcast: []
+youtube:
+  - title: "AI Hardware Crash: Texas Vote Threatens $50B Data Centers"
+    url: "https://youtu.be/tiKEpVLG1t4"
+    lang: "en"
+    publish_at: "2026-11-16T18:00:00Z"
+podcast:
+  - title: "AI Hardware Crash: Texas Vote Threatens $50B Data Centers | Stock Market"
+    url: "https://open.spotify.com/episode/06Rs4fW8GJovnwCTXejjIx"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
