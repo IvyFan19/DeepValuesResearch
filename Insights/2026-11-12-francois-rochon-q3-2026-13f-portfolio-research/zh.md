@@ -14,10 +14,19 @@ source_urls:
   - title: "New York Times (NYT) Stock Analysis: Neutral | DeepValues"
     url: "https://research.deepvalues.ai/company/nyt/"
 youtube:
+  - title: "Rochon買高賣低：加碼高估70%的MSA，清倉低估67%的LULU"
+    url: "https://youtu.be/46-VcgjPgok"
+    lang: "zh"
   - title: "Rochon Dumped Lululemon at 67% Off for Pricier MSA Safety"
     url: "https://youtu.be/oYsrqvtiwOE"
     lang: "en"
-podcast: []
+podcast:
+  - title: "Rochon買高賣低：加碼高估70%的MSA，清倉低估67%的LULU｜投資大師心法"
+    url: "https://open.spotify.com/episode/3qILo6H5JGQNLOLofDMZbC"
+    lang: "zh"
+  - title: "Rochon Dumped Lululemon at 67% Off for Pricier MSA Safety | Investor Playbook"
+    url: "https://open.spotify.com/episode/6W62E4pwBEyOVfgsCqWcl6"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
