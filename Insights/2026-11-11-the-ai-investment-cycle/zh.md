@@ -8,8 +8,22 @@ notebook_id: "80235852-b766-4222-af6d-4a67d1d502de"
 source_urls:
   - title: "Why Nvidia Could Rally Even Without Jensen Huang: Dan Niles"
     url: "https://www.youtube.com/watch?v=zzFrk2kXaRI"
-youtube: []
-podcast: []
+youtube:
+  - title: "CoreWeave Borrows at 15%: Is the AI Boom Built on Debt?"
+    url: "https://youtu.be/JBpoF7qlIgY"
+    lang: "en"
+    publish_at: "2026-11-15T22:00:00Z"
+  - title: "輝達只剩11倍本益比？黃仁勳傳聞下，AI到底有沒有真獲利"
+    url: "https://youtu.be/xMSvxzU_zLo"
+    lang: "zh"
+    publish_at: "2026-11-16T04:30:00Z"
+podcast:
+  - title: "CoreWeave Borrows at 15%: Is the AI Boom Built on Debt? | Stock Market"
+    url: "https://open.spotify.com/episode/7h0JNT26hK0o5z88t29cCA"
+    lang: "en"
+  - title: "輝達只剩11倍本益比？黃仁勳傳聞下，AI到底有沒有真獲利｜美股市場"
+    url: "https://open.spotify.com/episode/5OTlcufWffsLLpQrGJrWbO"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
