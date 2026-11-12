@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/KkWYGTSgpfA"
     lang: "en"
     publish_at: "2026-11-15T18:00:00Z"
+  - title: "Anthropic IPO: 85%毛利率"
+    url: "https://youtu.be/tdk_ED_wOBo"
+    lang: "zh"
+    publish_at: "2026-11-16T00:00:00Z"
 podcast:
   - title: "Anthropic IPO: $17B Revenue"
     url: "https://open.spotify.com/episode/4MgSxT3QV2KYQp6wGwR2Vh"
     lang: "en"
+  - title: "Anthropic IPO: 85%毛利率"
+    url: "https://open.spotify.com/episode/1EoS70RYAhv5ciLNJWFXoy"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
