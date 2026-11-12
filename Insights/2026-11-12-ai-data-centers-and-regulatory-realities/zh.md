@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/tiKEpVLG1t4"
     lang: "en"
     publish_at: "2026-11-16T18:00:00Z"
+  - title: "AWS喊年增40%,AI硬體股卻創2020年來最大跌幅"
+    url: "https://youtu.be/HwOhju-5h7s"
+    lang: "zh"
+    publish_at: "2026-11-17T04:30:00Z"
 podcast:
   - title: "AI Hardware Crash: Texas Vote Threatens $50B Data Centers | Stock Market"
     url: "https://open.spotify.com/episode/06Rs4fW8GJovnwCTXejjIx"
     lang: "en"
+  - title: "AWS喊年增40%,AI硬體股卻創2020年來最大跌幅｜美股市場"
+    url: "https://open.spotify.com/episode/01PwYc4qQdkBKjhwjNd5BV"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
