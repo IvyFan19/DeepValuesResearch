@@ -8,7 +8,11 @@ notebook_id: "ac381b96-d164-4044-ae51-6ea086aa353d"
 source_urls:
   - title: "Alex Karp on Why AI Will Hurt the Middle Class: You Can’t Have Billionaires Becoming 100x Wealthier"
     url: "https://www.youtube.com/watch?v=m4mV4IClDlM"
-youtube: []
+youtube:
+  - title: "Palantir三年零營收，為何挖出AI最深護城河？"
+    url: "https://youtu.be/sCw-aXEXpZk"
+    lang: "zh"
+    publish_at: "2026-11-17T00:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
