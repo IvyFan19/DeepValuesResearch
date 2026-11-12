@@ -13,7 +13,17 @@ youtube:
     url: "https://youtu.be/sCw-aXEXpZk"
     lang: "zh"
     publish_at: "2026-11-17T00:00:00Z"
-podcast: []
+  - title: "Palantir Rejects the SaaS Playbook, Warns of a 100x AI Gap"
+    url: "https://youtu.be/AN3o2A_Z_0w"
+    lang: "en"
+    publish_at: "2026-11-16T14:00:00Z"
+podcast:
+  - title: "Palantir Technologies（PLTR）Palantir三年零營收…"
+    url: "https://open.spotify.com/episode/3WnRZ1vIY6EgwCLIA4f0Io"
+    lang: "zh"
+  - title: "Palantir Technologies (PLTR) — Palantir Rejects the SaaS Playbook, Warns of a 100x AI Gap"
+    url: "https://open.spotify.com/episode/5kFMSLT8EAtN9WkyAaR72B"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
