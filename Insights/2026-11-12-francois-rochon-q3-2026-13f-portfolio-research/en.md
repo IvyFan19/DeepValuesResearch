@@ -13,7 +13,10 @@ source_urls:
     url: "https://research.deepvalues.ai/company/lulu/"
   - title: "New York Times (NYT) Stock Analysis: Neutral | DeepValues"
     url: "https://research.deepvalues.ai/company/nyt/"
-youtube: []
+youtube:
+  - title: "Rochon Dumped Lululemon at 67% Off for Pricier MSA Safety"
+    url: "https://youtu.be/oYsrqvtiwOE"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
