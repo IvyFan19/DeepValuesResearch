@@ -8,8 +8,15 @@ notebook_id: "58c9c362-e3b3-4ef0-b0e8-2dcb23047160"
 source_urls:
   - title: "Anthropic IPO - Dario Amodei"
     url: "https://www.youtube.com/watch?v=eynv5VR9qos"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic IPO: $17B Revenue"
+    url: "https://youtu.be/KkWYGTSgpfA"
+    lang: "en"
+    publish_at: "2026-11-15T18:00:00Z"
+podcast:
+  - title: "Anthropic IPO: $17B Revenue"
+    url: "https://open.spotify.com/episode/4MgSxT3QV2KYQp6wGwR2Vh"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
