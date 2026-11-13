@@ -20,6 +20,9 @@ podcast:
   - title: "NXP Looks 73% Overvalued. Why Did Wellington Buy $88.5M? | Investor Playbook"
     url: "https://open.spotify.com/episode/6TrW4mqocxJMw96ZJU9WS0"
     lang: "en"
+  - title: "韋靈頓為何加碼恩智浦42%？股價高出內在價值72.7%｜投資大師心法"
+    url: "https://open.spotify.com/episode/1mBBzD2tENKsPILPhMqMgr"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
