@@ -17,10 +17,16 @@ youtube:
   - title: "Applied Materials Must Grow 23% a Year for Five Years"
     url: "https://youtu.be/F8pdqFC4dlI"
     lang: "en"
+  - title: "應用材料獲利暴增92%，為何真實股東盈餘只剩一半？"
+    url: "https://youtu.be/mYgtOuVSk_8"
+    lang: "zh"
 podcast:
   - title: "Applied Materials (AMAT) — Bullish? Applied Materials Must Grow 23% a Year for Five Years"
     url: "https://open.spotify.com/episode/4lWIAJ10Nz9FehdxldWTrT"
     lang: "en"
+  - title: "Applied Materials（AMAT）看多？應用材料獲利暴增92%，為何真實股東盈餘只剩一…"
+    url: "https://open.spotify.com/episode/3tYB9o1b8neTLPARji9PuN"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
