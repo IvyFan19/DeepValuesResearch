@@ -13,8 +13,14 @@ source_urls:
   - title: "DeepValues valuation worksheet: AMAT, prepared 20…"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/6951/000162828026073360/exhibit991q42026earningsre.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Applied Materials Must Grow 23% a Year for Five Years"
+    url: "https://youtu.be/F8pdqFC4dlI"
+    lang: "en"
+podcast:
+  - title: "Applied Materials (AMAT) — Bullish? Applied Materials Must Grow 23% a Year for Five Years"
+    url: "https://open.spotify.com/episode/4lWIAJ10Nz9FehdxldWTrT"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
