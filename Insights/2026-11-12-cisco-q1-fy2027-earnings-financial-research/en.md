@@ -17,8 +17,20 @@ source_urls:
   - title: "DeepValues valuation worksheet: CSCO, prepared 20…"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/exhibit991pressrelease-q1f.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Cisco's $1.40 EPS Shrinks to $0.74 for Owners"
+    url: "https://youtu.be/m10i1wlgQPk"
+    lang: "en"
+  - title: "思科營收暴增24%，股東盈餘卻十年零成長"
+    url: "https://youtu.be/Wjn7hAkF4LQ"
+    lang: "zh"
+podcast:
+  - title: "Cisco Systems (CSCO) — Bearish? Cisco's $1.40 EPS Shrinks to $0.74 for Owners"
+    url: "https://open.spotify.com/episode/0HS0vuomDz4eHou9zy7Vlp"
+    lang: "en"
+  - title: "Cisco Systems（CSCO）看空？思科營收暴增24%，股東盈餘卻十年零成長"
+    url: "https://open.spotify.com/episode/2SwudQWVKrxLSaZbSvIx3D"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
