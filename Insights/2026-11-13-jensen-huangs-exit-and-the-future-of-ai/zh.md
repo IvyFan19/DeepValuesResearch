@@ -9,6 +9,10 @@ source_urls:
   - title: "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel"
     url: "https://www.youtube.com/watch?v=z8_hlGA51ck"
 youtube:
+  - title: "Nvidia After Jensen Huang: Can a 60-70% Supply Lock Hold?"
+    url: "https://youtu.be/Q84-Pufp-0w"
+    lang: "en"
+    publish_at: "2026-11-17T18:00:00Z"
   - title: "沒有黃仁勳的輝達，還鎖得住60-70%晶圓產能嗎？"
     url: "https://youtu.be/OJ6FMm3aX_4"
     lang: "zh"

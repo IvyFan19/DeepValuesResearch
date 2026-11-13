@@ -8,8 +8,15 @@ notebook_id: "3cb24a68-95e7-4fd5-a41b-fda198088c91"
 source_urls:
   - title: "达利奥·阿莫代伊：从功利主义少年到Anthropic掌门人 | Dario Amodei | Anthropic | Claude | AI安全 | OpenAI | 奇点 | 末日论者 | 睾丸癌"
     url: "https://www.youtube.com/watch?v=88vhuI9i0V8"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's CEO Counts Chickens: Why It's Uninvestable"
+    url: "https://youtu.be/jRT0kFEtHJQ"
+    lang: "en"
+    publish_at: "2026-11-17T14:00:00Z"
+podcast:
+  - title: "Anthropic's CEO Counts Chickens: Why It's Uninvestable"
+    url: "https://open.spotify.com/episode/3CFy44Ye6CIRJVGhpGl7Ph"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
