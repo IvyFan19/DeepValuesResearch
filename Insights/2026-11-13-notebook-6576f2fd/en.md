@@ -6,7 +6,11 @@ category: "investing"
 tickers: ["NVDA", "AAPL", "GOOG", "MU"]
 notebook_id: "6576f2fd-fdcc-4d29-aedb-818a8b5e3b7c"
 source_urls: []
-youtube: []
+youtube:
+  - title: "Nvidia Lost 14%: Why Duan Yongping Sold Puts, Not Shares"
+    url: "https://youtu.be/TIGEpXlznhE"
+    lang: "en"
+    publish_at: "2026-11-17T22:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
