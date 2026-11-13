@@ -18,6 +18,9 @@ youtube:
     lang: "zh"
     publish_at: "2026-11-17T12:00:00Z"
 podcast:
+  - title: "NVIDIA (NVDA) — Nvidia After Jensen Huang: Can a 60-70% Supply Lock Hold?"
+    url: "https://open.spotify.com/episode/4xuzJABhFwMNFGKSub3Vhl"
+    lang: "en"
   - title: "NVIDIA（NVDA）沒有黃仁勳的輝達，還鎖得住60-70%晶圓產能嗎？"
     url: "https://open.spotify.com/episode/4CzsHb9i09Jfp7lxdSmnhN"
     lang: "zh"
