@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/LkADOovrTV4"
     lang: "en"
     publish_at: "2026-11-16T22:00:00Z"
+  - title: "騰訊自由現金流轉負138億：AI讓印鈔機變重資產"
+    url: "https://youtu.be/2ErSaH_VoQ0"
+    lang: "zh"
+    publish_at: "2026-11-18T00:00:00Z"
 podcast:
   - title: "Tencent (0700.HK) — Tencent's 176% Capex Jump: Is the Asset-Light Era Over?"
     url: "https://open.spotify.com/episode/1DP6S9p9HGHG1Qn4B2yG6j"
     lang: "en"
+  - title: "Tencent（0700.HK）騰訊自由現金流轉負138億：AI讓印鈔機變重資產"
+    url: "https://open.spotify.com/episode/6bpyB8hhzup1dzpgaBLFu7"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
