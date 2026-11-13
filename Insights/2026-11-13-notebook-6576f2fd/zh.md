@@ -11,7 +11,17 @@ youtube:
     url: "https://youtu.be/TIGEpXlznhE"
     lang: "en"
     publish_at: "2026-11-17T22:00:00Z"
-podcast: []
+  - title: "輝達暴跌14%，段永平反賣Put：蘋果賣Call、Google想多買"
+    url: "https://youtu.be/DUjkju5f9pA"
+    lang: "zh"
+    publish_at: "2026-11-18T04:30:00Z"
+podcast:
+  - title: "Nvidia Lost 14%: Why Duan Yongping Sold Puts, Not Shares | Investor Playbook"
+    url: "https://open.spotify.com/episode/7JegAOSpDAbCHzoPmqZUYm"
+    lang: "en"
+  - title: "輝達暴跌14%，段永平反賣Put：蘋果賣Call、Google想多買｜投資大師心法"
+    url: "https://open.spotify.com/episode/7I0BfWKyYrYUuMu2zodPNJ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
