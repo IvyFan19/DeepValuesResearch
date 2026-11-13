@@ -9,8 +9,17 @@ source_urls:
   - title: "DEEPVALUES 13F WORKSHEET: Andrew Wellington (Lyri…"
   - title: "EDGAR Filing Documents for 0001062993-26-005964"
     url: "https://www.sec.gov/Archives/edgar/data/1542302/000106299326005964/0001062993-26-005964-index.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "NXP Looks 73% Overvalued. Why Did Wellington Buy $88.5M?"
+    url: "https://youtu.be/k4D9uf3hiQ0"
+    lang: "en"
+  - title: "韋靈頓為何加碼恩智浦42%？股價高出內在價值72.7%"
+    url: "https://youtu.be/5T1yFUFEYfs"
+    lang: "zh"
+podcast:
+  - title: "NXP Looks 73% Overvalued. Why Did Wellington Buy $88.5M? | Investor Playbook"
+    url: "https://open.spotify.com/episode/6TrW4mqocxJMw96ZJU9WS0"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
