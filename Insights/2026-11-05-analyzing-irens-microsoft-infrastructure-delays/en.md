@@ -17,6 +17,9 @@ youtube:
     lang: "en"
     publish_at: "2026-11-09T18:00:00Z"
 podcast:
+  - title: "Iris Energy (IREN) — Bullish? Did Iris Energy Cause Microsoft's $5B Capex Miss?"
+    url: "https://open.spotify.com/episode/1wUbfh9tLmAdF2MXgrKuqf"
+    lang: "en"
   - title: "Iron Mountain (IREN) — Neutral? IREN's $9.7B Microsoft Deal: Delay or Thesis Break?"
     url: "https://open.spotify.com/episode/2vWn9QoGXkbn8dFQzCItMa"
     lang: "en"
