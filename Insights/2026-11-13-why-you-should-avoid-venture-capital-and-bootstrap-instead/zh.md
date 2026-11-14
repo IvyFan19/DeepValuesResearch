@@ -8,8 +8,14 @@ notebook_id: "da5963ec-db02-49e8-aa42-de71416b1ac7"
 source_urls:
   - title: "Don't Get VC Funding as a Startup. Do This Instead"
     url: "https://www.youtube.com/watch?v=kbJWBVYfw58"
-youtube: []
-podcast: []
+youtube:
+  - title: "Constant Contact以1500萬美元收購，創辦人卻只拿50萬"
+    url: "https://youtu.be/tzUasBhDJGo"
+    lang: "zh"
+podcast:
+  - title: "Constant Contact以1500萬美元收購，創辦人卻只拿50萬｜價值投資"
+    url: "https://open.spotify.com/episode/5EVjGP1DHISy6GYmAXC2iG"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

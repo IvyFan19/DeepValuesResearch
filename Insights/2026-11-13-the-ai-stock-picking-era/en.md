@@ -6,8 +6,21 @@ category: "investing"
 tickers: []
 notebook_id: "9e0b1687-11ab-4711-8bb7-6bb19a0d9f49"
 source_urls: []
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia to CoreWeave: Is $500B of AI Debt Freezing Housing?"
+    url: "https://youtu.be/apObtoqh7Nk"
+    lang: "en"
+    publish_at: "2026-11-18T14:00:00Z"
+  - title: "CoreWeave燒掉78億美元，思科獲利年增40%:AI進入選股時代"
+    url: "https://youtu.be/ogvzHAyOz1Q"
+    lang: "zh"
+podcast:
+  - title: "Nvidia to CoreWeave: Is $500B of AI Debt Freezing Housing? | Stock Market"
+    url: "https://open.spotify.com/episode/3YX0JbqChbL4X6UtcFDFCG"
+    lang: "en"
+  - title: "CoreWeave燒掉78億美元，思科獲利年增40%:AI進入選股時代｜美股市場"
+    url: "https://open.spotify.com/episode/0RreWI87Z8fw0UR4jpgybI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

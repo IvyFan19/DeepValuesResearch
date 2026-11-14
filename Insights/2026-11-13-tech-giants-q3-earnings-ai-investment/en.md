@@ -8,8 +8,15 @@ notebook_id: "b2bb589a-7739-438c-ac35-5a646a9ec736"
 source_urls:
   - title: "硅谷坐标 × 周默：深度拆解科技巨头 Q3 财报｜AI 投资进入验证期"
     url: "https://www.youtube.com/watch?v=MIUNgTlyjXw"
-youtube: []
-podcast: []
+youtube:
+  - title: "Microsoft, Google, Meta, Amazon: AI CapEx vs a 3-Month Moat"
+    url: "https://youtu.be/1hx3c4EJIAM"
+    lang: "en"
+    publish_at: "2026-11-18T18:00:00Z"
+podcast:
+  - title: "Microsoft, Google, Meta, Amazon: AI CapEx vs a 3-Month Moat | Stock Market"
+    url: "https://open.spotify.com/episode/0Y7Wj9QcXtv31IE7OMoMYZ"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
