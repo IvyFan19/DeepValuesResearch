@@ -12,10 +12,17 @@ youtube:
   - title: "Constant Contact以1500萬美元收購，創辦人卻只拿50萬"
     url: "https://youtu.be/tzUasBhDJGo"
     lang: "zh"
+  - title: "Bantam Live's $15M Exit: Each Founder Kept $500K"
+    url: "https://youtu.be/-gwQVGZWYPQ"
+    lang: "en"
+    publish_at: "2026-11-19T14:00:00Z"
 podcast:
   - title: "Constant Contact以1500萬美元收購，創辦人卻只拿50萬｜價值投資"
     url: "https://open.spotify.com/episode/5EVjGP1DHISy6GYmAXC2iG"
     lang: "zh"
+  - title: "Bantam Live's $15M Exit: Each Founder Kept $500K | Value Investing"
+    url: "https://open.spotify.com/episode/3ykSyuaXnjKdNvPi4ZXbpv"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

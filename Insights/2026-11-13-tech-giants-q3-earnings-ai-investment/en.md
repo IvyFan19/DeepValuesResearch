@@ -13,10 +13,16 @@ youtube:
     url: "https://youtu.be/1hx3c4EJIAM"
     lang: "en"
     publish_at: "2026-11-18T18:00:00Z"
+  - title: "微軟、Google、亞馬遜、Meta Q3：四巨頭僅一家自由現金流為正"
+    url: "https://youtu.be/FbOsVeghncE"
+    lang: "zh"
 podcast:
   - title: "Microsoft, Google, Meta, Amazon: AI CapEx vs a 3-Month Moat | Stock Market"
     url: "https://open.spotify.com/episode/0Y7Wj9QcXtv31IE7OMoMYZ"
     lang: "en"
+  - title: "微軟、Google、亞馬遜、Meta Q3：四巨頭僅一家自由現金流為正｜美股市場"
+    url: "https://open.spotify.com/episode/4C1AAxGE4kO4bnV7wtKNdJ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

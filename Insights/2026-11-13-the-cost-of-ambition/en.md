@@ -8,8 +8,21 @@ notebook_id: "78e0a3f5-a21a-4c33-ab22-5e407010ea83"
 source_urls:
   - title: "Being An Expert on a Life You Don't Actually Want"
     url: "https://www.youtube.com/watch?v=CGDD2bvSrnc"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia's Jensen Huang: $200B and He Wouldn't Do It Again"
+    url: "https://youtu.be/92t_OmDe48w"
+    lang: "en"
+    publish_at: "2026-11-18T22:00:00Z"
+  - title: "黃仁勳坦言重來不會創輝達：近2000億美元身價的隱藏負債"
+    url: "https://youtu.be/ZRy_HSpWeDw"
+    lang: "zh"
+podcast:
+  - title: "NVIDIA (NVDA) — Nvidia's Jensen Huang: $200B and He Wouldn't Do It Again"
+    url: "https://open.spotify.com/episode/0BUqZRT9bDxg7MvRghreTK"
+    lang: "en"
+  - title: "Nvidia（NVDA）黃仁勳坦言重來不會創輝達：近2000億美元身價的隱藏負債"
+    url: "https://open.spotify.com/episode/1lAeUSA5tVCSXOeHTGt1vg"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
