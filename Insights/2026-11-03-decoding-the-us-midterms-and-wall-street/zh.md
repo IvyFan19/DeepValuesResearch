@@ -9,7 +9,7 @@ source_urls:
   - title: "一次看懂美國期中選舉：它為何牽動華爾街神經？馬斯克砸下 4.45 億押什麼？三種結果推演｜言選解讀"
     url: "https://www.youtube.com/watch?v=arzcW7UPAfk"
 youtube:
-  - title: "Why Midterms Can't Save a Market at 40x Earnings"
+  - title: "Why Midterms Can't Save a Market at 40x Shiller PE"
     url: "https://youtu.be/zKRW22G_juM"
     lang: "en"
     publish_at: "2026-11-07T18:00:00Z"

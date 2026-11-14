@@ -13,7 +13,7 @@ youtube:
     url: "https://youtu.be/JBpoF7qlIgY"
     lang: "en"
     publish_at: "2026-11-15T22:00:00Z"
-  - title: "輝達只剩11倍本益比？黃仁勳傳聞下，AI到底有沒有真獲利"
+  - title: "輝達只剩11倍預估本益比？黃仁勳傳聞下，AI到底有沒有真獲利"
     url: "https://youtu.be/xMSvxzU_zLo"
     lang: "zh"
     publish_at: "2026-11-16T04:30:00Z"

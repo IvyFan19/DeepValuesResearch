@@ -8,6 +8,10 @@ notebook_id: "1cfb1eb0-c357-4aea-8149-9991a98507b9"
 source_urls:
   - title: "IREN Microsoft Infrastructure Delay"
 youtube:
+  - title: "Did Iris Energy Cause Microsoft's $5B Capex Miss?"
+    url: "https://youtu.be/y2ePGyR9oZc"
+    lang: "en"
+    publish_at: "2026-11-19T18:00:00Z"
   - title: "IREN's $9.7B Microsoft Deal: Delay or Thesis Break?"
     url: "https://youtu.be/T9vYEVVTJ3U"
     lang: "en"
