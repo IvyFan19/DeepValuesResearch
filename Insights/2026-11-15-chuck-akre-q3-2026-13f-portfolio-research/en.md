@@ -17,7 +17,10 @@ source_urls:
     url: "https://research.deepvalues.ai/company/mco/"
   - title: "Visa (V) Stock Analysis & Intrinsic Value: Neutral 3.67/5"
     url: "https://research.deepvalues.ai/company/v/"
-youtube: []
+youtube:
+  - title: "Akre Trims Mastercard and Visa: Visa Margin of Safety -93.7%"
+    url: "https://youtu.be/mOJ8p1QLNdc"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
