@@ -21,7 +21,16 @@ youtube:
   - title: "Akre Trims Mastercard and Visa: Visa Margin of Safety -93.7%"
     url: "https://youtu.be/mOJ8p1QLNdc"
     lang: "en"
-podcast: []
+  - title: "艾克瑞減碼萬事達卡與Visa:Visa安全邊際負93.7%"
+    url: "https://youtu.be/GNSudXOmOII"
+    lang: "zh"
+podcast:
+  - title: "Akre Trims Mastercard and Visa: Visa Margin of Safety -93.7% | Investor Playbook"
+    url: "https://open.spotify.com/episode/2aVH42NqmtkuJnVEeJlZsl"
+    lang: "en"
+  - title: "艾克瑞減碼萬事達卡與Visa:Visa安全邊際負93.7%｜投資大師心法"
+    url: "https://open.spotify.com/episode/0ljmmL8E2aTIhn4q7aRokR"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
