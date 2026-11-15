@@ -13,8 +13,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1061768/000106176826000015/0001061768-26-000015-index.htm"
   - title: "Seth Klarman - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Seth_Klarman"
-youtube: []
-podcast: []
+youtube:
+  - title: "Klarman Dumps Teleflex, Buys $175.4M of Honeywell"
+    url: "https://youtu.be/noLbWI1RLjI"
+    lang: "en"
+podcast:
+  - title: "Klarman Dumps Teleflex, Buys $175.4M of Honeywell | Investor Playbook"
+    url: "https://open.spotify.com/episode/5qJ6wT7aa8B8Cg4m4gjrrt"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -19,10 +19,16 @@ youtube:
   - title: "Pabrai's $42.3M Transocean Bet: Price 385.8% Above Value"
     url: "https://youtu.be/YJ4k4PDvsmY"
     lang: "en"
+  - title: "帕布萊重壓HCC與RIG:86%資金押在股價遠高於價值的煤炭與鑽井"
+    url: "https://youtu.be/Q1R_hFb5gHQ"
+    lang: "zh"
 podcast:
   - title: "Pabrai's $42.3M Transocean Bet: Price 385.8% Above Value | Investor Playbook"
     url: "https://open.spotify.com/episode/4zkk8LwvYnXeN2K1h3igSi"
     lang: "en"
+  - title: "帕布萊重壓HCC與RIG:86%資金押在股價遠高於價值的煤炭與鑽井｜投資大師心法"
+    url: "https://open.spotify.com/episode/7mVaS23OEvLOW6acEKjUYH"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
