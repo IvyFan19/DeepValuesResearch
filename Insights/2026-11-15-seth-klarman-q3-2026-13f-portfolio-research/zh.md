@@ -17,10 +17,16 @@ youtube:
   - title: "Klarman Dumps Teleflex, Buys $175.4M of Honeywell"
     url: "https://youtu.be/noLbWI1RLjI"
     lang: "en"
+  - title: "克拉曼清倉Teleflex：股價155美元，內在價值僅35美元"
+    url: "https://youtu.be/ibG6YHz382I"
+    lang: "zh"
 podcast:
   - title: "Klarman Dumps Teleflex, Buys $175.4M of Honeywell | Investor Playbook"
     url: "https://open.spotify.com/episode/5qJ6wT7aa8B8Cg4m4gjrrt"
     lang: "en"
+  - title: "克拉曼清倉Teleflex：股價155美元，內在價值僅35美元｜投資大師心法"
+    url: "https://open.spotify.com/episode/4XHjXFNrCGV8J8bFRVg6xL"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
