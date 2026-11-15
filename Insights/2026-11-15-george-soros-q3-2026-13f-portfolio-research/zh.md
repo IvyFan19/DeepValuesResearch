@@ -21,10 +21,16 @@ youtube:
   - title: "Soros Piles Into Intel at a -769% Margin of Safety"
     url: "https://youtu.be/IQMgoA2tQkY"
     lang: "en"
+  - title: "索羅斯豪賭英特爾：安全邊際負769%,Meta卻是正25%"
+    url: "https://youtu.be/gyli0toBms8"
+    lang: "zh"
 podcast:
   - title: "Soros Piles Into Intel at a -769% Margin of Safety | Investor Playbook"
     url: "https://open.spotify.com/episode/1c7k4jFnG5S6SPRoYlwizv"
     lang: "en"
+  - title: "索羅斯豪賭英特爾：安全邊際負769%,Meta卻是正25%｜投資大師心法"
+    url: "https://open.spotify.com/episode/676f7RSjEkshptwtMMy4lg"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
