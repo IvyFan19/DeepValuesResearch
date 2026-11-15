@@ -18,6 +18,9 @@ source_urls:
   - title: "Tesla (TSLA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/tsla/"
 youtube:
+  - title: "ARKはなぜAMDを52%減らしNVIDIAを85%買い増したのか"
+    url: "https://youtu.be/7J5WQMOuqM0"
+    lang: "ja"
   - title: "Cathie Wood frente a Buffett: Tesla a $390, ¿vale $69?"
     url: "https://youtu.be/pEcWq-55iWA"
     lang: "es"
@@ -30,7 +33,13 @@ youtube:
   - title: "特斯拉股價高出價值近五倍，伍德為何還加碼"
     url: "https://youtu.be/9WGgFwthgVA"
     lang: "zh"
+  - title: "캐시 우드, AMD 지분 52% 팔고 엔비디아 85% 늘린 이유"
+    url: "https://youtu.be/zihdF-TY4MM"
+    lang: "ko"
 podcast:
+  - title: "ARKはなぜAMDを52%減らしNVIDIAを85%買い増したのか"
+    url: "https://open.spotify.com/episode/6AHwf3EbS3i9EUcq2im0r1"
+    lang: "ja"
   - title: "Cathie Wood frente a Buffett: Tesla a $390, ¿vale $69?"
     url: "https://open.spotify.com/episode/5P8hBvJXSnrlzC7D7dT3Kn"
     lang: "es"
@@ -43,6 +52,9 @@ podcast:
   - title: "特斯拉股價高出價值近五倍，伍德為何還加碼｜投資大師心法"
     url: "https://open.spotify.com/episode/4iQMPz99gHrl32tRD8BaxI"
     lang: "zh"
+  - title: "캐시 우드, AMD 지분 52% 팔고 엔비디아 85% 늘린 이유"
+    url: "https://open.spotify.com/episode/2kfV5O9lYHbrrxHyxY9UrA"
+    lang: "ko"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
