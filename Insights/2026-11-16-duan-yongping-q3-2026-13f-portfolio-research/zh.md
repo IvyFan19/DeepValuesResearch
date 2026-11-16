@@ -17,8 +17,20 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1759760/000175976026000008/0001759760-26-000008-index.htm"
   - title: "Nvidia (NVDA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/nvda/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Duan Yongping Sold $1.96B of Apple: $352 Price, $171 Value"
+    url: "https://youtu.be/aUuunboBBIs"
+    lang: "en"
+  - title: "段永平砍輝達63%、蘋果22%，為何好公司也要賣？"
+    url: "https://youtu.be/_4uLjB5b10U"
+    lang: "zh"
+podcast:
+  - title: "Duan Yongping Sold $1.96B of Apple: $352 Price, $171 Value | Investor Playbook"
+    url: "https://open.spotify.com/episode/5WRYv5UUezBMg2LFCKwdJh"
+    lang: "en"
+  - title: "段永平砍輝達63%、蘋果22%，為何好公司也要賣？｜投資大師心法"
+    url: "https://open.spotify.com/episode/7l9pz1Lj8sT8R7nHMXpLqm"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

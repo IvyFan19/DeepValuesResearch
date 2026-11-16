@@ -20,6 +20,9 @@ podcast:
   - title: "Fed's AI Shift: Higher Rates and $3 Trillion Off the Books"
     url: "https://open.spotify.com/episode/0ujuCliSQQk7F2Tv5KqiyJ"
     lang: "en"
+  - title: "聯準會示警AI債務：發行量三年暴增5倍、破6800億美元"
+    url: "https://open.spotify.com/episode/2pWk0cUcvQCQFyrVWkuBpk"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
