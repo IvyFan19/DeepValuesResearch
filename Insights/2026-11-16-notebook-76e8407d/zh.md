@@ -8,8 +8,21 @@ notebook_id: "76e8407d-ef5a-4754-9495-35d49c0ad1e8"
 source_urls:
   - title: "AI的终极赢家，未必是造智能的人​ | AI泡沫 | 制高点 | The Commanding Heights | Will Manidis | 智能体 | AI资本开支 | 推理成本 | 主权AI"
     url: "https://www.youtube.com/watch?v=h3Df6UpXxQk"
-youtube: []
-podcast: []
+youtube:
+  - title: "AI Prices Fell 13x as CapEx Nears $800B: Who Owns the Moat?"
+    url: "https://youtu.be/vC44LWcybmI"
+    lang: "en"
+    publish_at: "2026-11-20T18:00:00Z"
+  - title: "AI智慧單價一年暴跌13倍巴菲特指標，收過路費的竟是穩定幣"
+    url: "https://youtu.be/ojk7Utif8_Q"
+    lang: "zh"
+podcast:
+  - title: "AI Prices Fell 13x as CapEx Nears $800B: Who Owns the Moat? | Stock Market"
+    url: "https://open.spotify.com/episode/5QCxznDX56zHbdx3GDmyYd"
+    lang: "en"
+  - title: "AI智慧單價一年暴跌13倍巴菲特指標，收過路費的竟是穩定幣｜美股市場"
+    url: "https://open.spotify.com/episode/44OoatKlI7q4bEtrdCjiBc"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
