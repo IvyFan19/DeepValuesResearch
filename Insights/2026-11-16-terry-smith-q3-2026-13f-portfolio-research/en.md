@@ -6,8 +6,14 @@ category: "investing"
 tickers: ["TSM", "TXN", "ADP", "NFLX", "MSFT"]
 notebook_id: "c2895cd3-495c-4c24-a535-4a78885faed5"
 source_urls: []
-youtube: []
-podcast: []
+youtube:
+  - title: "Terry Smith Cut Microsoft by 51%: Why Sell at Fair Value?"
+    url: "https://youtu.be/tBDRc1uEV_g"
+    lang: "en"
+podcast:
+  - title: "Terry Smith Cut Microsoft by 51%: Why Sell at Fair Value? | Investor Playbook"
+    url: "https://open.spotify.com/episode/2SHIG5fUgQJBdNYCw2MF9z"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
