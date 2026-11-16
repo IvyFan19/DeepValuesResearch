@@ -8,8 +8,21 @@ notebook_id: "15d02d4c-41f6-4416-a400-4ebda6a275e7"
 source_urls:
   - title: "期权波动率一次讲清！VIX、IV、HV 分别是什么？"
     url: "https://www.youtube.com/watch?v=5ULswGsVL8I"
-youtube: []
-podcast: []
+youtube:
+  - title: "NVIDIA Rose 3%, Yet an Options Trader Lost 40%: IV Crush"
+    url: "https://youtu.be/qw5_JdKICv4"
+    lang: "en"
+    publish_at: "2026-11-20T14:00:00Z"
+  - title: "看對輝達漲3%，為何反賠40%?IV崩塌真相"
+    url: "https://youtu.be/qtsTqG9le1c"
+    lang: "zh"
+podcast:
+  - title: "NVIDIA Rose 3%, Yet an Options Trader Lost 40%: IV Crush | Value Investing"
+    url: "https://open.spotify.com/episode/6zOhzEp4AJw7jLJnACU8tb"
+    lang: "en"
+  - title: "看對輝達漲3%，為何反賠40%?IV崩塌真相｜價值投資"
+    url: "https://open.spotify.com/episode/1ueAP8jSY9J1w7ZVrcbzjy"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
