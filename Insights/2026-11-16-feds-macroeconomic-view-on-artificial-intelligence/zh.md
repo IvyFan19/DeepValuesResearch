@@ -7,8 +7,19 @@ tickers: []
 notebook_id: "4d39b51f-b708-4652-9e0d-48dd147c081a"
 source_urls:
   - title: "Fed's AI Macro View"
-youtube: []
-podcast: []
+youtube:
+  - title: "Fed's AI Shift: Higher Rates and $3 Trillion Off the Books"
+    url: "https://youtu.be/feNFFYMaT7Q"
+    lang: "en"
+    publish_at: "2026-11-20T22:00:00Z"
+  - title: "聯準會示警AI債務：發行量三年暴增5倍、破6800億美元"
+    url: "https://youtu.be/bz4q39U0L3k"
+    lang: "zh"
+    publish_at: "2026-11-17T00:00:00Z"
+podcast:
+  - title: "Fed's AI Shift: Higher Rates and $3 Trillion Off the Books"
+    url: "https://open.spotify.com/episode/0ujuCliSQQk7F2Tv5KqiyJ"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
