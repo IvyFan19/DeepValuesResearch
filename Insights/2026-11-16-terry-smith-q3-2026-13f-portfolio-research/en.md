@@ -10,10 +10,16 @@ youtube:
   - title: "Terry Smith Cut Microsoft by 51%: Why Sell at Fair Value?"
     url: "https://youtu.be/tBDRc1uEV_g"
     lang: "en"
+  - title: "百勝加碼648%、微軟砍半51%:Terry Smith看到什麼？"
+    url: "https://youtu.be/NjX6vLgxm9o"
+    lang: "zh"
 podcast:
   - title: "Terry Smith Cut Microsoft by 51%: Why Sell at Fair Value? | Investor Playbook"
     url: "https://open.spotify.com/episode/2SHIG5fUgQJBdNYCw2MF9z"
     lang: "en"
+  - title: "百勝加碼648%、微軟砍半51%:Terry Smith看到什麼？｜投資大師心法"
+    url: "https://open.spotify.com/episode/29qhwdMzebpBKBFU9F7mcG"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

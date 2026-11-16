@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "d92bb4d0-8084-4b01-9be8-891cbef67797"
 source_urls:
   - title: "image_picker_0BE602DC-2103-4839-9DB0-F8711DCEBD5D-44533-000007D507262548.png"
-youtube: []
-podcast: []
+youtube:
+  - title: "A 100% Blank Page: Why Zero Data Means No Margin of Safety"
+    url: "https://youtu.be/K0xdKFnt_fY"
+    lang: "en"
+    publish_at: "2026-11-21T14:00:00Z"
+podcast:
+  - title: "A 100% Blank Page: Why Zero Data Means No Margin of Safety"
+    url: "https://open.spotify.com/episode/4B6FN8gmzScxuJn5WfiVkn"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
