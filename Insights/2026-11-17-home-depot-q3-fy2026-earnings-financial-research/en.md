@@ -19,10 +19,16 @@ youtube:
   - title: "Home Depot Cut Buybacks From $8B to Zero. Why?"
     url: "https://youtu.be/MI-Mph2Hq0k"
     lang: "en"
+  - title: "家得寶股價隱含12.4%成長，但過去十年僅5.2%"
+    url: "https://youtu.be/OCGiMXlwZEQ"
+    lang: "zh"
 podcast:
   - title: "Home Depot (HD) — Bearish? Home Depot Cut Buybacks From $8B to Zero. Why?"
     url: "https://open.spotify.com/episode/0ZywqbKzt6NZaT1WDZKKop"
     lang: "en"
+  - title: "Home Depot（HD）看空？家得寶股價隱含12.4%成長，但過去十年僅5.2%"
+    url: "https://open.spotify.com/episode/3LYojJ1ZJ9Zxcu5fkGzzvv"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
