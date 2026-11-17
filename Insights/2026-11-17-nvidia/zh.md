@@ -21,6 +21,9 @@ podcast:
   - title: "NVIDIA (NVDA) — Nvidia Without Huang: The Case for a 25% Discount"
     url: "https://open.spotify.com/episode/0BscsOHLk3z1ibZ4oPjjW5"
     lang: "en"
+  - title: "NVIDIA（NVDA）輝達失去黃仁勳：估值至少打25%折扣？護城河還撐得住嗎"
+    url: "https://open.spotify.com/episode/0SSguIs7yUy2QtAzOcjSWH"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
