@@ -8,8 +8,19 @@ notebook_id: "5bc7662a-0655-47b5-87e4-e4c737deb027"
 source_urls:
   - title: "“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数"
     url: "https://www.youtube.com/watch?v=xJUWVxZfNVI"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia Without Huang: The Case for a 25% Discount"
+    url: "https://youtu.be/pBV1lc2jpw8"
+    lang: "en"
+    publish_at: "2026-11-21T18:00:00Z"
+  - title: "輝達失去黃仁勳：估值至少打25%折扣？護城河還撐得住嗎"
+    url: "https://youtu.be/bdymtmWNYJk"
+    lang: "zh"
+    publish_at: "2026-11-18T00:00:00Z"
+podcast:
+  - title: "NVIDIA (NVDA) — Nvidia Without Huang: The Case for a 25% Discount"
+    url: "https://open.spotify.com/episode/0BscsOHLk3z1ibZ4oPjjW5"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
