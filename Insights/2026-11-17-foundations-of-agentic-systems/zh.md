@@ -12,10 +12,17 @@ youtube:
   - title: "Why AI Agents Fail 87% of the Time When Distracted"
     url: "https://youtu.be/WEuwQQIjg4U"
     lang: "en"
+  - title: "史丹佛AI代理課：一個彈出視窗，失敗率竟達87%"
+    url: "https://youtu.be/k8v33U16DhI"
+    lang: "zh"
+    publish_at: "2026-11-17T12:00:00Z"
 podcast:
   - title: "Why AI Agents Fail 87% of the Time When Distracted"
     url: "https://open.spotify.com/episode/1uOTy6c9nwIV4cRSBdYCgP"
     lang: "en"
+  - title: "史丹佛AI代理課：一個彈出視窗，失敗率竟達87%"
+    url: "https://open.spotify.com/episode/57oHPUbG4UD4OLxKO1d2EJ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
