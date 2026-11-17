@@ -13,8 +13,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/dis-20261003.htm"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Disney at $117 Bakes In 9.4% Growth, Above Its Track Record"
+    url: "https://youtu.be/seaWt_iaV70"
+    lang: "en"
+podcast:
+  - title: "Walt Disney Company (DIS) — Bearish? Disney at $117 Bakes In 9.4% Growth, Above Its Track Record"
+    url: "https://open.spotify.com/episode/03HBgYCmfgnuIiBL43mowV"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

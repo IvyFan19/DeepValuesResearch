@@ -15,8 +15,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm"
   - title: "hd-20260802"
     url: "https://www.sec.gov/Archives/edgar/data/354950/000162828026058715/hd-20260802.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Home Depot Cut Buybacks From $8B to Zero. Why?"
+    url: "https://youtu.be/MI-Mph2Hq0k"
+    lang: "en"
+podcast:
+  - title: "Home Depot (HD) — Bearish? Home Depot Cut Buybacks From $8B to Zero. Why?"
+    url: "https://open.spotify.com/episode/0ZywqbKzt6NZaT1WDZKKop"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
