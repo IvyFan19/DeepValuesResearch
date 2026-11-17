@@ -15,10 +15,16 @@ youtube:
   - title: "Anthropic's $895B Compute Bet and the 1% Who Pay"
     url: "https://youtu.be/R8yr1UVS52s"
     lang: "en"
+  - title: "Anthropic年化營收衝810億美元，8950億承諾藏危機"
+    url: "https://youtu.be/VbehHBGStgw"
+    lang: "zh"
 podcast:
   - title: "Anthropic's $895B Compute Bet and the 1% Who Pay | Investor Playbook"
     url: "https://open.spotify.com/episode/3YOcGTmIrXUxR4ZvpSklVU"
     lang: "en"
+  - title: "Anthropic年化營收衝810億美元，8950億承諾藏危機｜投資大師心法"
+    url: "https://open.spotify.com/episode/2HZmkeOTa1sAjsjeHtE2Bl"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
