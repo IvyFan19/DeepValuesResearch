@@ -9,8 +9,14 @@ source_urls:
   - title: "“后黄仁勋时代”：英伟达的护城河、资本棋局与AI产业变数"
     url: "https://www.youtube.com/watch?v=xJUWVxZfNVI"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia Without Jensen Huang: The 25% Key-Person Discount"
+    url: "https://youtu.be/zjZRprewpDg"
+    lang: "en"
+podcast:
+  - title: "Nvidia Without Jensen Huang: The 25% Key-Person Discount | Investor Playbook"
+    url: "https://open.spotify.com/episode/76K4Bkt2uts3J5BiJPD6GY"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
