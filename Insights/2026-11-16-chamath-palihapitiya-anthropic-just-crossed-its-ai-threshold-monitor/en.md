@@ -11,8 +11,14 @@ source_urls:
   - title: "Chamath Palihapitiya - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Chamath_Palihapitiya"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $895B Compute Bet and the 1% Who Pay"
+    url: "https://youtu.be/R8yr1UVS52s"
+    lang: "en"
+podcast:
+  - title: "Anthropic's $895B Compute Bet and the 1% Who Pay | Investor Playbook"
+    url: "https://open.spotify.com/episode/3YOcGTmIrXUxR4ZvpSklVU"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
