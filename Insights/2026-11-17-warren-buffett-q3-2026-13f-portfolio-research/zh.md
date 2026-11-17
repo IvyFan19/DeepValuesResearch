@@ -6,8 +6,14 @@ category: "investing"
 tickers: ["LEN"]
 notebook_id: "4a5d0f0d-ea91-448c-a88f-45323f310de4"
 source_urls: []
-youtube: []
-podcast: []
+youtube:
+  - title: "Lennar: Why Buffett Bought 237% Above Cash Flow Value"
+    url: "https://youtu.be/kT8qN3GfxiY"
+    lang: "en"
+podcast:
+  - title: "Lennar: Why Buffett Bought 237% Above Cash Flow Value"
+    url: "https://open.spotify.com/episode/1JSfWTfG7052ENG30Cghn1"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

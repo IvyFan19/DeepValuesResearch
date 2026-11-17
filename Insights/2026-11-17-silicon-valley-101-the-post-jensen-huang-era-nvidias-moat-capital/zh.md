@@ -13,10 +13,16 @@ youtube:
   - title: "Nvidia Without Jensen Huang: The 25% Key-Person Discount"
     url: "https://youtu.be/zjZRprewpDg"
     lang: "en"
+  - title: "輝達沒有黃仁勳：25%關鍵人物折價，護城河還在嗎？"
+    url: "https://youtu.be/LocZ5ZjmwT0"
+    lang: "zh"
 podcast:
   - title: "Nvidia Without Jensen Huang: The 25% Key-Person Discount | Investor Playbook"
     url: "https://open.spotify.com/episode/76K4Bkt2uts3J5BiJPD6GY"
     lang: "en"
+  - title: "輝達沒有黃仁勳：25%關鍵人物折價，護城河還在嗎？｜投資大師心法"
+    url: "https://open.spotify.com/episode/0KaTM3hLInURKcREOI2WIs"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
