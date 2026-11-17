@@ -11,8 +11,20 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1709323/000204358526000030/0002043585-26-000030-index.htm"
   - title: "Li Lu - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Li_Lu"
-youtube: []
-podcast: []
+youtube:
+  - title: "Li Lu Adds $143M to PDD and Tencent Music, Sells Nothing"
+    url: "https://youtu.be/rlzE8hThubU"
+    lang: "en"
+  - title: "李錄37.8億美元只押8檔股票：本季只買不賣，加碼拼多多與騰訊音樂"
+    url: "https://youtu.be/lB7wGqIfr7M"
+    lang: "zh"
+podcast:
+  - title: "Li Lu Adds $143M to PDD and Tencent Music, Sells Nothing | Investor Playbook"
+    url: "https://open.spotify.com/episode/6Fa6WqFrxwezJVyMBEhpMN"
+    lang: "en"
+  - title: "李錄37.8億美元只押8檔股票：本季只買不賣，加碼拼多多與騰訊音樂｜投資大師心法"
+    url: "https://open.spotify.com/episode/6v2LKORxnpBhxtLUQWgo6A"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
