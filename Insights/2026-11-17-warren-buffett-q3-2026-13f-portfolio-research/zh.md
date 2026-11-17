@@ -10,10 +10,16 @@ youtube:
   - title: "Lennar: Why Buffett Bought 237% Above Cash Flow Value"
     url: "https://youtu.be/kT8qN3GfxiY"
     lang: "en"
+  - title: "照抄波克夏持股十年年化13.1%，為何仍輸給標普500"
+    url: "https://youtu.be/v4LjVcbxReo"
+    lang: "zh"
 podcast:
   - title: "Lennar: Why Buffett Bought 237% Above Cash Flow Value"
     url: "https://open.spotify.com/episode/1JSfWTfG7052ENG30Cghn1"
     lang: "en"
+  - title: "照抄波克夏持股十年年化13.1%，為何仍輸給標普500｜投資大師心法"
+    url: "https://open.spotify.com/episode/4IXdrqY2jai2CdhrujYkzM"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
