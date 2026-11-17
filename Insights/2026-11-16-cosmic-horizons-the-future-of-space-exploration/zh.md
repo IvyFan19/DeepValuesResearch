@@ -12,10 +12,17 @@ youtube:
     url: "https://youtu.be/K0xdKFnt_fY"
     lang: "en"
     publish_at: "2026-11-21T14:00:00Z"
+  - title: "空白財報藏負債：30倍股價營收比為何該放進太難籃子"
+    url: "https://youtu.be/4_Of698MC4c"
+    lang: "zh"
+    publish_at: "2026-11-17T04:30:00Z"
 podcast:
   - title: "A 100% Blank Page: Why Zero Data Means No Margin of Safety"
     url: "https://open.spotify.com/episode/4B6FN8gmzScxuJn5WfiVkn"
     lang: "en"
+  - title: "空白財報藏負債：30倍股價營收比為何該放進太難籃子｜價值投資"
+    url: "https://open.spotify.com/episode/3iJXODVn6gD6kvIyZeyylt"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
