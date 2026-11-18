@@ -17,8 +17,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/60667/000006066726000029/low-20260130.htm"
   - title: "low-20260731"
     url: "https://www.sec.gov/Archives/edgar/data/60667/000006066726000117/low-20260731.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Lowe's Adjusted EPS of $3.10 Keeps a $250M Tariff Refund"
+    url: "https://youtu.be/tWmfsbflKaE"
+    lang: "en"
+podcast:
+  - title: "Lowe's Companies (LOW) — Neutral? Lowe's Adjusted EPS of $3.10 Keeps a $250M Tariff Refund"
+    url: "https://open.spotify.com/episode/53ss6ngiXI4taAm2MPPQV3"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

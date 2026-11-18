@@ -13,8 +13,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/tjx-20260131.htm"
   - title: "tjx-20260801"
     url: "https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/tjx-20260801.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "TJX's $132M Tariff Refund Hides a Margin Squeeze"
+    url: "https://youtu.be/js1B0v9bd6M"
+    lang: "en"
+podcast:
+  - title: "TJX Companies (TJX) — TJX's $132M Tariff Refund Hides a Margin Squeeze"
+    url: "https://open.spotify.com/episode/058GzYYC3IXcntXnApKRlv"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
