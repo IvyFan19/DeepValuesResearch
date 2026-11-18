@@ -13,10 +13,16 @@ youtube:
   - title: "Nvidia Ousts Jensen Huang: $4.5T and No Succession Plan"
     url: "https://youtu.be/Sw3vmOwgxds"
     lang: "en"
+  - title: "輝達黃仁勳遭罷免：4.5兆美元巨頭5天跌15%，護城河還在嗎"
+    url: "https://youtu.be/k86AXQxipgI"
+    lang: "zh"
 podcast:
   - title: "Nvidia Ousts Jensen Huang: $4.5T and No Succession Plan | Investor Playbook"
     url: "https://open.spotify.com/episode/5c35WlOTW7dUNKEjK0PXJM"
     lang: "en"
+  - title: "輝達黃仁勳遭罷免：4.5兆美元巨頭5天跌15%，護城河還在嗎｜投資大師心法"
+    url: "https://open.spotify.com/episode/0yYupONo41cQDUK2ggO8WC"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
