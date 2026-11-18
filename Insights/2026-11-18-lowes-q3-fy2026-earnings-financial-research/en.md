@@ -21,10 +21,16 @@ youtube:
   - title: "Lowe's Adjusted EPS of $3.10 Keeps a $250M Tariff Refund"
     url: "https://youtu.be/tWmfsbflKaE"
     lang: "en"
+  - title: "Lowe's股東權益為負，九個月卻印出近70億美元現金"
+    url: "https://youtu.be/mHYqaGVzTkw"
+    lang: "zh"
 podcast:
   - title: "Lowe's Companies (LOW) — Neutral? Lowe's Adjusted EPS of $3.10 Keeps a $250M Tariff Refund"
     url: "https://open.spotify.com/episode/53ss6ngiXI4taAm2MPPQV3"
     lang: "en"
+  - title: "Lowe's Companies（LOW）中性？Lowe's股東權益為負，九個月卻印出近70億美元…"
+    url: "https://open.spotify.com/episode/3SBYvmvM4Cb7CdazBeqH0Z"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
