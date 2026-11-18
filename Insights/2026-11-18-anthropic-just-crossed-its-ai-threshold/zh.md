@@ -14,10 +14,16 @@ youtube:
     url: "https://youtu.be/ZgD_OLQtZRg"
     lang: "en"
     publish_at: "2026-11-21T22:00:00Z"
+  - title: "Anthropic將IPO：年營收810億，算力承諾卻達8950億"
+    url: "https://youtu.be/GgWdyNXSHqg"
+    lang: "zh"
 podcast:
   - title: "Anthropic's $81B Revenue Pace vs $895B in Commitments"
     url: "https://open.spotify.com/episode/5Qpw3uWWkW4JVyQ3iyCPzB"
     lang: "en"
+  - title: "Anthropic將IPO：年營收810億，算力承諾卻達8950億"
+    url: "https://open.spotify.com/episode/2XKHPpJtthRolrgoWVy9ul"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
