@@ -8,8 +8,14 @@ notebook_id: "6b32faf1-14cb-4513-bfa2-25d2ba61d0ab"
 source_urls:
   - title: "Stan Druckenmiller on AI, Markets and the Next Ten Years | TomorrowX Summit."
     url: "https://www.youtube.com/watch?v=6r3D-CMJkuI"
-youtube: []
-podcast: []
+youtube:
+  - title: "德魯肯米勒50年沒有一年虧損，為何現在選擇不揮棒？"
+    url: "https://youtu.be/ZxQj_vCwR58"
+    lang: "zh"
+podcast:
+  - title: "德魯肯米勒50年沒有一年虧損，為何現在選擇不揮棒？｜投資大師心法"
+    url: "https://open.spotify.com/episode/76NsNGSmtVBH7TvhzGO5nH"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
