@@ -24,6 +24,9 @@ podcast:
   - title: "Druckenmiller Dumps Alphabet, Adds 180% to Seagate | Investor Playbook"
     url: "https://open.spotify.com/episode/29doWdJoLDl7AwvOEBHIwm"
     lang: "en"
+  - title: "德魯肯米勒砍台積電94%，為何溢價買進Seagate與Unity?｜投資大師心法"
+    url: "https://open.spotify.com/episode/0uQ8se0hX2IwsFFLqpRwD7"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
