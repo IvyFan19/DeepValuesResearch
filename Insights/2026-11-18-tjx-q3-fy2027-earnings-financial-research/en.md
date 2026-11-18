@@ -14,10 +14,16 @@ source_urls:
   - title: "tjx-20260801"
     url: "https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/tjx-20260801.htm"
 youtube:
+  - title: "TJX前9個月賺進33.2億美元自由現金流，折扣帝國的護城河還在變寬？"
+    url: "https://youtu.be/uSUbTh8kRks"
+    lang: "zh"
   - title: "TJX's $132M Tariff Refund Hides a Margin Squeeze"
     url: "https://youtu.be/js1B0v9bd6M"
     lang: "en"
 podcast:
+  - title: "TJX Companies（TJX）TJX前9個月賺進33.2億美元自由現金流…"
+    url: "https://open.spotify.com/episode/5lmw6o5OLrcq4i1xm77gzX"
+    lang: "zh"
   - title: "TJX Companies (TJX) — TJX's $132M Tariff Refund Hides a Margin Squeeze"
     url: "https://open.spotify.com/episode/058GzYYC3IXcntXnApKRlv"
     lang: "en"
