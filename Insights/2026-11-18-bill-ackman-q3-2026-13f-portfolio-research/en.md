@@ -15,8 +15,20 @@ source_urls:
     url: "https://research.deepvalues.ai/company/meta/"
   - title: "Microsoft (MSFT) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/msft/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Ackman Cuts Microsoft 35%, Trims Meta: Buffett DCF Check"
+    url: "https://youtu.be/YKZEjI4HM28"
+    lang: "en"
+  - title: "艾克曼大砍微軟35%，卻把三分之一資金押進自家PS"
+    url: "https://youtu.be/YeeCnBgsblw"
+    lang: "zh"
+podcast:
+  - title: "Ackman Cuts Microsoft 35%, Trims Meta: Buffett DCF Check"
+    url: "https://open.spotify.com/episode/4s4C4DbayioKNCKGS9qZg9"
+    lang: "en"
+  - title: "艾克曼大砍微軟35%，卻把三分之一資金押進自家PS｜投資大師心法"
+    url: "https://open.spotify.com/episode/7ds28URRKuP874OI81QhpB"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
