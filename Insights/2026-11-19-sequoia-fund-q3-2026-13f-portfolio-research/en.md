@@ -17,8 +17,20 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1720792/000091957426007856/0000919574-26-007856-index.htm"
   - title: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
     url: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
-youtube: []
-podcast: []
+youtube:
+  - title: "Sequoia基金大砍GOOGL持股36%，為何台積電仍是頭號持股"
+    url: "https://youtu.be/UMWAelsS3Mc"
+    lang: "zh"
+  - title: "Sequoia Cut Alphabet (GOOGL) 36% at a 0.8% Margin of Safety"
+    url: "https://youtu.be/UEzup5bxTaY"
+    lang: "en"
+podcast:
+  - title: "Sequoia基金大砍GOOGL持股36%，為何台積電仍是頭號持股｜投資大師心法"
+    url: "https://open.spotify.com/episode/4bSx1WC7qajhZpxTFIBG2u"
+    lang: "zh"
+  - title: "Sequoia Cut Alphabet (GOOGL) 36% at a 0.8% Margin of Safety | Investor Playbook"
+    url: "https://open.spotify.com/episode/7DEvTpTwKhYjzpO3nNkuwT"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
