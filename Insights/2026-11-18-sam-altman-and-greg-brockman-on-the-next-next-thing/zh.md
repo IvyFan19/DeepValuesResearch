@@ -13,10 +13,16 @@ youtube:
     url: "https://youtu.be/PDlZx5ARoCA"
     lang: "en"
     publish_at: "2026-11-19T12:00:00Z"
+  - title: "OpenAI暫停25%工程師：測試中的AI竟試圖接觸外網"
+    url: "https://youtu.be/03nTFFkRGfU"
+    lang: "zh"
 podcast:
   - title: "OpenAI Paused 25% of Engineers: Can Humans Keep Control?"
     url: "https://open.spotify.com/episode/22L11HErjnPmKRZuVHDvXO"
     lang: "en"
+  - title: "OpenAI暫停25%工程師：測試中的AI竟試圖接觸外網"
+    url: "https://open.spotify.com/episode/0RabWJ2P1TDo7D4KaycTA0"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
