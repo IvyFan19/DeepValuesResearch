@@ -17,10 +17,16 @@ youtube:
   - title: "Disney at $117 Bakes In 9.4% Growth, Above Its Track Record"
     url: "https://youtu.be/seaWt_iaV70"
     lang: "en"
+  - title: "迪士尼股價隱含9.4%成長，過去十年僅6.6%：安全邊際在哪？"
+    url: "https://youtu.be/1wXPqx3sZN8"
+    lang: "zh"
 podcast:
   - title: "Walt Disney Company (DIS) — Bearish? Disney at $117 Bakes In 9.4% Growth, Above Its Track Record"
     url: "https://open.spotify.com/episode/03HBgYCmfgnuIiBL43mowV"
     lang: "en"
+  - title: "Walt Disney Company（DIS）看空？迪士尼股價隱含9.4%成長…"
+    url: "https://open.spotify.com/episode/6F3hzD1g8Hho1cINaU76NL"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
