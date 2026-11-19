@@ -12,10 +12,16 @@ source_urls:
   - title: "From Aggregate Equity Value to Per Share Value: An Anthropic IPO update!"
     url: "https://www.youtube.com/watch?v=JpfTrtSE1j8"
 youtube:
+  - title: "Anthropic每股值77美元？Damodaran拆解1270億選擇權稀釋"
+    url: "https://youtu.be/OyKDyCcGSis"
+    lang: "zh"
   - title: "Anthropic IPO: Why Damodaran Says $77, Not $91, a Share"
     url: "https://youtu.be/PrfwoVVMLvQ"
     lang: "en"
 podcast:
+  - title: "Anthropic每股值77美元？Damodaran拆解1270億選擇權稀釋｜投資大師心法"
+    url: "https://open.spotify.com/episode/7b07nKVQh3N7UO1CwmfYeh"
+    lang: "zh"
   - title: "Anthropic IPO: Why Damodaran Says $77, Not $91, a Share | Investor Playbook"
     url: "https://open.spotify.com/episode/1axukb8RRq81JScOYLRZ6S"
     lang: "en"

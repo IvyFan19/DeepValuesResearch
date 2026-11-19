@@ -15,10 +15,16 @@ youtube:
   - title: "Steve Eisman: How a $10,000 Database Called the 2008 Crash"
     url: "https://youtu.be/2wrgJf9BQwg"
     lang: "en"
+  - title: "艾斯曼的年費1萬美元數據：他如何看穿次貸危機"
+    url: "https://youtu.be/JTMsVbFWr2w"
+    lang: "zh"
 podcast:
   - title: "Steve Eisman: How a $10,000 Database Called the 2008 Crash | Investor Playbook"
     url: "https://open.spotify.com/episode/1UZY2ePtm6kYvXUcUPGQyy"
     lang: "en"
+  - title: "艾斯曼的年費1萬美元數據：他如何看穿次貸危機｜投資大師心法"
+    url: "https://open.spotify.com/episode/1fw6wAnXgh8gzQFBg3ChsU"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
