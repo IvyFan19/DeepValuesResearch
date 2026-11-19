@@ -13,10 +13,16 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex992pressrelease_november.htm"
   - title: "https://www.youtube.com/watch?v=1rzB1SfRXcg"
 youtube:
+  - title: "Palo Alto非GAAP淨利8.81億美元，GAAP營業利益只剩9600萬"
+    url: "https://youtu.be/xOuof_U0rEI"
+    lang: "zh"
   - title: "Palo Alto Networks: Revenue Up 39%, but $622M Paid in Stock"
     url: "https://youtu.be/aKwYmk_WInw"
     lang: "en"
 podcast:
+  - title: "Palo Alto Networks（PANW）看空？Palo Alto非GAAP淨利8.81億美…"
+    url: "https://open.spotify.com/episode/0jY4NlAv593GZtDsAGijHq"
+    lang: "zh"
   - title: "Palo Alto Networks (PANW) — Bearish? Palo Alto Networks: Revenue Up 39%, but $622M Paid in Stock"
     url: "https://open.spotify.com/episode/46vMk2FbOEGUHHa5HTAhqy"
     lang: "en"

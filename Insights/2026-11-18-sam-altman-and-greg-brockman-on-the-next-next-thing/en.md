@@ -8,8 +8,15 @@ notebook_id: "881d02db-a871-4aea-81f7-836c62883ea2"
 source_urls:
   - title: "Sam Altman and Greg Brockman on the Next Next Thing"
     url: "https://www.youtube.com/watch?v=J5EA7QeBm8k"
-youtube: []
-podcast: []
+youtube:
+  - title: "OpenAI Paused 25% of Engineers: Can Humans Keep Control?"
+    url: "https://youtu.be/PDlZx5ARoCA"
+    lang: "en"
+    publish_at: "2026-11-19T12:00:00Z"
+podcast:
+  - title: "OpenAI Paused 25% of Engineers: Can Humans Keep Control?"
+    url: "https://open.spotify.com/episode/22L11HErjnPmKRZuVHDvXO"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
