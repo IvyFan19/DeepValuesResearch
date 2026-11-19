@@ -18,6 +18,9 @@ youtube:
     lang: "en"
     publish_at: "2026-11-17T14:00:00Z"
 podcast:
+  - title: "Anthropic執行長Amodei的治理風險：牽線3000萬美元讓妹夫進OpenAI董事會"
+    url: "https://open.spotify.com/episode/5NGjlJrWA8RYmWkWrW0zcq"
+    lang: "zh"
   - title: "Anthropic's CEO Counts Chickens: Why It's Uninvestable"
     url: "https://open.spotify.com/episode/3CFy44Ye6CIRJVGhpGl7Ph"
     lang: "en"

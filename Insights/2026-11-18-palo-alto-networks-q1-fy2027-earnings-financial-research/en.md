@@ -12,8 +12,14 @@ source_urls:
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex992pressrelease_november.htm"
   - title: "https://www.youtube.com/watch?v=1rzB1SfRXcg"
-youtube: []
-podcast: []
+youtube:
+  - title: "Palo Alto Networks: Revenue Up 39%, but $622M Paid in Stock"
+    url: "https://youtu.be/aKwYmk_WInw"
+    lang: "en"
+podcast:
+  - title: "Palo Alto Networks (PANW) — Bearish? Palo Alto Networks: Revenue Up 39%, but $622M Paid in Stock"
+    url: "https://open.spotify.com/episode/46vMk2FbOEGUHHa5HTAhqy"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
