@@ -11,8 +11,14 @@ source_urls:
     url: "https://www.youtube.com/watch?v=9vu9gfv2G4M"
   - title: "Steve Eisman - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Steve_Eisman"
-youtube: []
-podcast: []
+youtube:
+  - title: "Steve Eisman: How a $10,000 Database Called the 2008 Crash"
+    url: "https://youtu.be/2wrgJf9BQwg"
+    lang: "en"
+podcast:
+  - title: "Steve Eisman: How a $10,000 Database Called the 2008 Crash | Investor Playbook"
+    url: "https://open.spotify.com/episode/1UZY2ePtm6kYvXUcUPGQyy"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

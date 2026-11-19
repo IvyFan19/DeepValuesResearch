@@ -11,8 +11,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "From Aggregate Equity Value to Per Share Value: An Anthropic IPO update!"
     url: "https://www.youtube.com/watch?v=JpfTrtSE1j8"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic IPO: Why Damodaran Says $77, Not $91, a Share"
+    url: "https://youtu.be/PrfwoVVMLvQ"
+    lang: "en"
+podcast:
+  - title: "Anthropic IPO: Why Damodaran Says $77, Not $91, a Share | Investor Playbook"
+    url: "https://open.spotify.com/episode/1axukb8RRq81JScOYLRZ6S"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
