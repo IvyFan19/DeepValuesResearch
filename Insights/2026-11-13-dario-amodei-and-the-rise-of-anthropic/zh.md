@@ -9,6 +9,10 @@ source_urls:
   - title: "达利奥·阿莫代伊：从功利主义少年到Anthropic掌门人 | Dario Amodei | Anthropic | Claude | AI安全 | OpenAI | 奇点 | 末日论者 | 睾丸癌"
     url: "https://www.youtube.com/watch?v=88vhuI9i0V8"
 youtube:
+  - title: "Anthropic執行長Amodei的治理風險：牽線3000萬美元讓妹夫進OpenAI董事會"
+    url: "https://youtu.be/EWS4mNsiDkc"
+    lang: "zh"
+    publish_at: "2026-11-19T02:00:00Z"
   - title: "Anthropic's CEO Counts Chickens: Why It's Uninvestable"
     url: "https://youtu.be/jRT0kFEtHJQ"
     lang: "en"
