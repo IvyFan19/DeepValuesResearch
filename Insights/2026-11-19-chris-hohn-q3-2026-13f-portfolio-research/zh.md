@@ -11,8 +11,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1647251/000164725126000011/0001647251-26-000011-index.htm"
   - title: "https://en.wikipedia.org/wiki/Chris_Hohn"
     url: "https://en.wikipedia.org/wiki/Chris_Hohn"
-youtube: []
-podcast: []
+youtube:
+  - title: "Chris Hohn's 37% Martin Marietta Bet: $507 Price, $46 Value"
+    url: "https://youtu.be/2KjFgpHPOpY"
+    lang: "en"
+podcast:
+  - title: "Chris Hohn's 37% Martin Marietta Bet: $507 Price, $46 Value | Investor Playbook"
+    url: "https://open.spotify.com/episode/3gogYI1UjX74pCSvNROLaG"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
