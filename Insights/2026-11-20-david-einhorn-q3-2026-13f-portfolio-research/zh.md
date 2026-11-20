@@ -11,8 +11,17 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1489933/000117266126005372/0001172661-26-005372-index.htm"
   - title: "PayPal (PYPL) Stock Analysis & Intrinsic Value: Bearish"
     url: "https://research.deepvalues.ai/company/pypl/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
+    url: "https://youtu.be/xtHyq_VCa-E"
+    lang: "es"
+  - title: "Einhorn Dumps PayPal, Bets $81.7M on Century Aluminum"
+    url: "https://youtu.be/x4xu-KOn5og"
+    lang: "en"
+podcast:
+  - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
+    url: "https://open.spotify.com/episode/7q6JnGJ7DLIlNUlayegzSF"
+    lang: "es"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

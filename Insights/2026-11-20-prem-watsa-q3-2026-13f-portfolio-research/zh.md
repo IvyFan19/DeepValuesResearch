@@ -13,8 +13,14 @@ source_urls:
     url: "https://en.wikipedia.org/wiki/Prem_Watsa"
   - title: "Johnson & Johnson (JNJ) Stock Analysis: Neutral | DeepValues"
     url: "https://research.deepvalues.ai/company/jnj/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Prem Watsa Swaps Orla for Equinox Gold: 24.5% of Portfolio"
+    url: "https://youtu.be/pKz6joagOes"
+    lang: "en"
+podcast:
+  - title: "Prem Watsa Swaps Orla for Equinox Gold: 24.5% of Portfolio | Investor Playbook"
+    url: "https://open.spotify.com/episode/74sshddK5QVtjUfcqefxgR"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
