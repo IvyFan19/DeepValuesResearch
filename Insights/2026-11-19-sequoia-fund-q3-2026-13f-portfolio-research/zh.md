@@ -18,6 +18,9 @@ source_urls:
   - title: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
     url: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
 youtube:
+  - title: "Sequoia Fund、AlphabetのGOOGLを36%削減 純売り3.7億ドルの中身"
+    url: "https://youtu.be/uCwso-w0BIc"
+    lang: "ja"
   - title: "Sequoia基金大砍GOOGL持股36%，為何台積電仍是頭號持股"
     url: "https://youtu.be/UMWAelsS3Mc"
     lang: "zh"
@@ -25,6 +28,9 @@ youtube:
     url: "https://youtu.be/UEzup5bxTaY"
     lang: "en"
 podcast:
+  - title: "Sequoia Fund、AlphabetのGOOGLを36%削減 純売り3.7億ドルの中身"
+    url: "https://open.spotify.com/episode/35ERN8REybu4FTSdmzVpE5"
+    lang: "ja"
   - title: "Sequoia基金大砍GOOGL持股36%，為何台積電仍是頭號持股｜投資大師心法"
     url: "https://open.spotify.com/episode/4bSx1WC7qajhZpxTFIBG2u"
     lang: "zh"
