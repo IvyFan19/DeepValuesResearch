@@ -17,10 +17,16 @@ youtube:
   - title: "Prem Watsa Swaps Orla for Equinox Gold: 24.5% of Portfolio"
     url: "https://youtu.be/pKz6joagOes"
     lang: "en"
+  - title: "Prem Watsa清倉嬌生，卻把24.5%押在一檔新金礦股"
+    url: "https://youtu.be/gGpDDhqxXL0"
+    lang: "zh"
 podcast:
   - title: "Prem Watsa Swaps Orla for Equinox Gold: 24.5% of Portfolio | Investor Playbook"
     url: "https://open.spotify.com/episode/74sshddK5QVtjUfcqefxgR"
     lang: "en"
+  - title: "Prem Watsa清倉嬌生，卻把24.5%押在一檔新金礦股｜投資大師心法"
+    url: "https://open.spotify.com/episode/4CBE5r6nduVoiO2EPmXEmi"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

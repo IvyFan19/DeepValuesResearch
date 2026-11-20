@@ -18,10 +18,16 @@ youtube:
   - title: "Einhorn Dumps PayPal, Bets $81.7M on Century Aluminum"
     url: "https://youtu.be/x4xu-KOn5og"
     lang: "en"
+  - title: "Einhorn清倉PayPal，重倉世紀鋁業：安全邊際73%"
+    url: "https://youtu.be/Jo-Ro_FV3Nc"
+    lang: "zh"
 podcast:
   - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
     url: "https://open.spotify.com/episode/7q6JnGJ7DLIlNUlayegzSF"
     lang: "es"
+  - title: "Einhorn Dumps PayPal, Bets $81.7M on Century Aluminum | Investor Playbook"
+    url: "https://open.spotify.com/episode/0es3J4pVtXoVw4ZM9NTIYD"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
