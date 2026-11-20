@@ -10,10 +10,16 @@ source_urls:
   - title: "Revolut 怎么重做银行产品​ | 尼克·斯托隆斯基 | Nik Storonsky | 数字银行 | Stripe | 产品方法论 | 信用卡"
     url: "https://www.youtube.com/watch?v=ja1gh3du8oY"
 youtube:
+  - title: "Revolut執行長的冷酷資本配置：墊底25%專案直接砍掉"
+    url: "https://youtu.be/PDyO98ocf14"
+    lang: "zh"
   - title: "Revolut: $0 Marketing for 7 Years, 100,000 Users a Day"
     url: "https://youtu.be/BstFKMs1Puk"
     lang: "en"
 podcast:
+  - title: "Revolut執行長的冷酷資本配置：墊底25%專案直接砍掉｜投資大師心法"
+    url: "https://open.spotify.com/episode/4Bb1LkjDcm7eFRshmGcsj6"
+    lang: "zh"
   - title: "Revolut: $0 Marketing for 7 Years, 100,000 Users a Day | Investor Playbook"
     url: "https://open.spotify.com/episode/3A2zJcjByqwMd1uyhyGSt3"
     lang: "en"
