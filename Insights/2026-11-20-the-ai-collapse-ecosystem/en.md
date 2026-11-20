@@ -9,11 +9,11 @@ source_urls:
   - title: "AI Collapse Ecosystem"
   - title: "AI Market Dynamics"
 youtube:
-  - title: "Anthropic若破產：9000億美元算力承諾下，Google與Amazon誰是贏家"
+  - title: "當Anthropic和OpenAI破產之時，誰是最後贏家？"
     url: "https://youtu.be/xk_M2oOoMDU"
     lang: "zh"
     publish_at: "2026-11-21T00:00:00Z"
-  - title: "Anthropic's $900B Compute Bill: Who Wins If AI Labs Fail"
+  - title: "When Anthropic and OpenAI Go Bankrupt, Who Wins?"
     url: "https://youtu.be/0fUTegV5y-M"
     lang: "en"
 podcast:
