@@ -18,6 +18,9 @@ source_urls:
   - title: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
     url: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
 youtube:
+  - title: "Sequoia Fund는 왜 Alphabet A주 36%에 이어 ACN까지 줄였습니까"
+    url: "https://youtu.be/8vwFji3_tNY"
+    lang: "ko"
   - title: "Sequoia Fund、AlphabetのGOOGLを36%削減 純売り3.7億ドルの中身"
     url: "https://youtu.be/uCwso-w0BIc"
     lang: "ja"
@@ -28,6 +31,9 @@ youtube:
     url: "https://youtu.be/UEzup5bxTaY"
     lang: "en"
 podcast:
+  - title: "Sequoia Fund는 왜 Alphabet A주 36%에 이어 ACN까지 줄였습니까"
+    url: "https://open.spotify.com/episode/23i0y83OEDnxnz4a0aag4P"
+    lang: "ko"
   - title: "Sequoia Fund、AlphabetのGOOGLを36%削減 純売り3.7億ドルの中身"
     url: "https://open.spotify.com/episode/35ERN8REybu4FTSdmzVpE5"
     lang: "ja"
