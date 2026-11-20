@@ -8,8 +8,21 @@ notebook_id: "5ef9ba31-a33f-464d-9062-f4b36c601cb7"
 source_urls:
   - title: "AI Collapse Ecosystem"
   - title: "AI Market Dynamics"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic若破產：9000億美元算力承諾下，Google與Amazon誰是贏家"
+    url: "https://youtu.be/xk_M2oOoMDU"
+    lang: "zh"
+    publish_at: "2026-11-21T00:00:00Z"
+  - title: "Anthropic's $900B Compute Bill: Who Wins If AI Labs Fail"
+    url: "https://youtu.be/0fUTegV5y-M"
+    lang: "en"
+podcast:
+  - title: "Anthropic若破產：9000億美元算力承諾下，Google與Amazon誰是贏家｜美股市場"
+    url: "https://open.spotify.com/episode/0q4MnFZuiR7k0CRM9wXsWG"
+    lang: "zh"
+  - title: "Anthropic's $900B Compute Bill: Who Wins If AI Labs Fail | Stock Market"
+    url: "https://open.spotify.com/episode/5DrsWNhVSNoG4yDRa4PSuw"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
