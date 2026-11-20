@@ -9,8 +9,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "史上最大IPO，买不买？我从Anthropic账本中看到的AI泡沫"
     url: "https://www.youtube.com/watch?v=ewhiOouLlP4"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's IPO: $900B Committed, $13.8B Guaranteed"
+    url: "https://youtu.be/-Zc7fp0afE0"
+    lang: "en"
+podcast:
+  - title: "Anthropic's IPO: $900B Committed, $13.8B Guaranteed | Investor Playbook"
+    url: "https://open.spotify.com/episode/3OnckNkJXNpjzPrjsxzLgJ"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
