@@ -9,8 +9,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "Revolut 怎么重做银行产品​ | 尼克·斯托隆斯基 | Nik Storonsky | 数字银行 | Stripe | 产品方法论 | 信用卡"
     url: "https://www.youtube.com/watch?v=ja1gh3du8oY"
-youtube: []
-podcast: []
+youtube:
+  - title: "Revolut: $0 Marketing for 7 Years, 100,000 Users a Day"
+    url: "https://youtu.be/BstFKMs1Puk"
+    lang: "en"
+podcast:
+  - title: "Revolut: $0 Marketing for 7 Years, 100,000 Users a Day | Investor Playbook"
+    url: "https://open.spotify.com/episode/3A2zJcjByqwMd1uyhyGSt3"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

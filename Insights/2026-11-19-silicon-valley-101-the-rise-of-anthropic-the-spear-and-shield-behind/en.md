@@ -9,8 +9,14 @@ source_urls:
   - title: "Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子"
     url: "https://www.youtube.com/watch?v=sYdN4b14rHU"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $1.4T Valuation Rests on $360B Compute Deals"
+    url: "https://youtu.be/3ZSqNsWqYg4"
+    lang: "en"
+podcast:
+  - title: "Anthropic's $1.4T Valuation Rests on $360B Compute Deals | Investor Playbook"
+    url: "https://open.spotify.com/episode/6z2iciFmDTROc6hVzI1Yrc"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
