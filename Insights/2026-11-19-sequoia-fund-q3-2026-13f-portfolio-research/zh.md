@@ -18,6 +18,9 @@ source_urls:
   - title: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
     url: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
 youtube:
+  - title: "Sequoia kürzt GOOGL um 36 % – Alphabet bleibt Nummer eins"
+    url: "https://youtu.be/kJ8-ENf_3mE"
+    lang: "de"
   - title: "Sequoia Fund는 왜 Alphabet A주 36%에 이어 ACN까지 줄였습니까"
     url: "https://youtu.be/8vwFji3_tNY"
     lang: "ko"
@@ -31,6 +34,9 @@ youtube:
     url: "https://youtu.be/UEzup5bxTaY"
     lang: "en"
 podcast:
+  - title: "Sequoia kürzt GOOGL um 36 % – Alphabet bleibt Nummer eins"
+    url: "https://open.spotify.com/episode/2nOVstOsIFsrmMtqn1UnjL"
+    lang: "de"
   - title: "Sequoia Fund는 왜 Alphabet A주 36%에 이어 ACN까지 줄였습니까"
     url: "https://open.spotify.com/episode/23i0y83OEDnxnz4a0aag4P"
     lang: "ko"
