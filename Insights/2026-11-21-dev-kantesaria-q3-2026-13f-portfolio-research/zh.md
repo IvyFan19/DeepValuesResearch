@@ -15,8 +15,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/ma/"
   - title: "Moodys (MCO) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/mco/"
-youtube: []
-podcast: []
+youtube:
+  - title: "萬事達卡被砍84%持股、改買亞馬遜：價值派為何轉向AI"
+    url: "https://youtu.be/ESFutRQ2R4U"
+    lang: "zh"
+podcast:
+  - title: "萬事達卡被砍84%持股、改買亞馬遜：價值派為何轉向AI｜投資大師心法"
+    url: "https://open.spotify.com/episode/71oWpk90QEGzSPSy6JRkU8"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
