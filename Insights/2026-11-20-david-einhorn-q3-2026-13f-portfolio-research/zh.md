@@ -12,6 +12,12 @@ source_urls:
   - title: "PayPal (PYPL) Stock Analysis & Intrinsic Value: Bearish"
     url: "https://research.deepvalues.ai/company/pypl/"
 youtube:
+  - title: "Einhorn、PayPalを全売却しCENXへ 基準価値より73.1%安い新規"
+    url: "https://youtu.be/bLuwXAI2Uxo"
+    lang: "ja"
+  - title: "Einhorn은 왜 PYPL을 팔고 가치보다 73% 낮은 CENX를 샀을까요"
+    url: "https://youtu.be/9VMLnLIKwpY"
+    lang: "ko"
   - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
     url: "https://youtu.be/xtHyq_VCa-E"
     lang: "es"
