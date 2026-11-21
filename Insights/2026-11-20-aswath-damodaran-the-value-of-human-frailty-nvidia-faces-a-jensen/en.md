@@ -11,8 +11,20 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "The Value of Human Frailty: Nvidia faces a Jensen Test!"
     url: "https://www.youtube.com/watch?v=kldDGZ-C0MU"
-youtube: []
-podcast: []
+youtube:
+  - title: "NVIDIA's $1.5T Drop: What Is Jensen Huang Worth?"
+    url: "https://youtu.be/Yo4wnD5n1Ow"
+    lang: "en"
+  - title: "輝達少了黃仁勳值多少？市值蒸發1.5兆美元的估值拆解"
+    url: "https://youtu.be/jdR4crPQEfo"
+    lang: "zh"
+podcast:
+  - title: "NVIDIA's $1.5T Drop: What Is Jensen Huang Worth? | Investor Playbook"
+    url: "https://open.spotify.com/episode/01bjEK67bk8twPq0Lo6yRT"
+    lang: "en"
+  - title: "輝達少了黃仁勳值多少？市值蒸發1.5兆美元的估值拆解｜投資大師心法"
+    url: "https://open.spotify.com/episode/21jxEON7rfPKx8QzGzwGdW"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

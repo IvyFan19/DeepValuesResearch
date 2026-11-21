@@ -13,10 +13,16 @@ youtube:
   - title: "Isomorphic Labs: A $50B Bet on a $2.3B Market"
     url: "https://youtu.be/4QqcaqLE5r8"
     lang: "en"
+  - title: "Isomorphic Labs零臨床，憑什麼估值上看500億美元"
+    url: "https://youtu.be/E0Cap0s8vlM"
+    lang: "zh"
 podcast:
   - title: "Isomorphic Labs: A $50B Bet on a $2.3B Market | Investor Playbook"
     url: "https://open.spotify.com/episode/5eSzmztPkEx47ZwPCk58MK"
     lang: "en"
+  - title: "Isomorphic Labs零臨床，憑什麼估值上看500億美元｜投資大師心法"
+    url: "https://open.spotify.com/episode/0fjkbOzthMwOQhDqQ1LYck"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
