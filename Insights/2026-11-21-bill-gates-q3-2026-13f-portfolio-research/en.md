@@ -13,8 +13,20 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1166559/000110465926128337/0001104659-26-128337-index.htm"
   - title: "WM Stock Analysis & Intrinsic Value: Neutral 2.66/5"
     url: "https://research.deepvalues.ai/company/wm/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Gates Trust Trims Waste Management 23%, Opens Dollar Tree"
+    url: "https://youtu.be/HHgNLlYMGcc"
+    lang: "en"
+  - title: "比爾蓋茲為何重倉收垃圾，卻又大砍WM 23%持股？"
+    url: "https://youtu.be/ZM3Iy7Mrszo"
+    lang: "zh"
+podcast:
+  - title: "Gates Trust Trims Waste Management 23%, Opens Dollar Tree | Investor Playbook"
+    url: "https://open.spotify.com/episode/2yONBCQvfxOxHABIKQLSqB"
+    lang: "en"
+  - title: "比爾蓋茲為何重倉收垃圾，卻又大砍WM 23%持股？｜投資大師心法"
+    url: "https://open.spotify.com/episode/3YzMia6uCUN3o3qn8k19Qd"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
