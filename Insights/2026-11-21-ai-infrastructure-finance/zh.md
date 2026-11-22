@@ -8,11 +8,17 @@ notebook_id: "ce56cd52-8843-4a39-b62e-5afc5c03146c"
 source_urls:
   - title: "AI Infrastructure Finance"
 youtube:
+  - title: "亞馬遜營運賺進1683億美元，自由現金流卻是負424億：AI資本支出的黑洞"
+    url: "https://youtu.be/SU9PUYv0Bqw"
+    lang: "zh"
   - title: "Amazon's -$42.4B Free Cash Flow: Big Tech's AI Cash Crunch"
     url: "https://youtu.be/qJDjZQhNYCE"
     lang: "en"
     publish_at: "2026-11-22T12:00:00Z"
 podcast:
+  - title: "亞馬遜營運賺進1683億美元，自由現金流卻是負424億：AI資本支出的黑洞｜美股市場"
+    url: "https://open.spotify.com/episode/3lNyScQ9xMqBcIDFtk3HFz"
+    lang: "zh"
   - title: "Amazon's -$42.4B Free Cash Flow: Big Tech's AI Cash Crunch | Stock Market"
     url: "https://open.spotify.com/episode/6XQYYCVCvPTgvXNgJk5zxV"
     lang: "en"
