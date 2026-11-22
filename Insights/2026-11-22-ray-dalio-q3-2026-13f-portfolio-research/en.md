@@ -12,10 +12,16 @@ source_urls:
   - title: "Ray Dalio - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Ray_Dalio"
 youtube:
+  - title: "Bridgewater Pulls $1.46B From SPY, Adds Chip Stocks"
+    url: "https://youtu.be/PmVAlGzBzYw"
+    lang: "en"
   - title: "橋水減碼NVDA 30%，卻加碼SNDK 20,959%：總經機器在想什麼"
     url: "https://youtu.be/Kg_jyq2BxsQ"
     lang: "zh"
 podcast:
+  - title: "Bridgewater Pulls $1.46B From SPY, Adds Chip Stocks | Investor Playbook"
+    url: "https://open.spotify.com/episode/4HonEyfAXxJGfUqpAmNkOu"
+    lang: "en"
   - title: "橋水減碼NVDA 30%，卻加碼SNDK 20,959%：總經機器在想什麼｜投資大師心法"
     url: "https://open.spotify.com/episode/29adiBddRBduPVwt8g65oq"
     lang: "zh"

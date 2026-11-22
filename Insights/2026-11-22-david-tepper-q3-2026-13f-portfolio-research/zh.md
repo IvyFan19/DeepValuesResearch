@@ -18,10 +18,16 @@ source_urls:
   - title: "Oracle (ORCL) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/orcl/"
 youtube:
+  - title: "Tepper Cut Alphabet 46%, Added 1,626% to SpaceX"
+    url: "https://youtu.be/KB5LQnvcvx4"
+    lang: "en"
   - title: "泰普砍谷歌46%加碼美光：安全邊際69.4%對4.8%"
     url: "https://youtu.be/JDE7TZB-pYM"
     lang: "zh"
 podcast:
+  - title: "Tepper Cut Alphabet 46%, Added 1,626% to SpaceX | Investor Playbook"
+    url: "https://open.spotify.com/episode/5aIQN3SiecLHiIhS2MtqK9"
+    lang: "en"
   - title: "泰普砍谷歌46%加碼美光：安全邊際69.4%對4.8%｜投資大師心法"
     url: "https://open.spotify.com/episode/5igmcjwIvb21UQmAkJx7pi"
     lang: "zh"
