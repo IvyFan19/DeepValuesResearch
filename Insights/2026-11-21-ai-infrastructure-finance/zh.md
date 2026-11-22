@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "ce56cd52-8843-4a39-b62e-5afc5c03146c"
 source_urls:
   - title: "AI Infrastructure Finance"
-youtube: []
-podcast: []
+youtube:
+  - title: "Amazon's -$42.4B Free Cash Flow: Big Tech's AI Cash Crunch"
+    url: "https://youtu.be/qJDjZQhNYCE"
+    lang: "en"
+    publish_at: "2026-11-22T12:00:00Z"
+podcast:
+  - title: "Amazon's -$42.4B Free Cash Flow: Big Tech's AI Cash Crunch | Stock Market"
+    url: "https://open.spotify.com/episode/6XQYYCVCvPTgvXNgJk5zxV"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
