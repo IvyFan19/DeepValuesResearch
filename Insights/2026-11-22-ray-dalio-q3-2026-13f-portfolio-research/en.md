@@ -11,8 +11,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1350694/000135069426000004/0001350694-26-000004-index.htm"
   - title: "Ray Dalio - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Ray_Dalio"
-youtube: []
-podcast: []
+youtube:
+  - title: "橋水減碼NVDA 30%，卻加碼SNDK 20,959%：總經機器在想什麼"
+    url: "https://youtu.be/Kg_jyq2BxsQ"
+    lang: "zh"
+podcast:
+  - title: "橋水減碼NVDA 30%，卻加碼SNDK 20,959%：總經機器在想什麼｜投資大師心法"
+    url: "https://open.spotify.com/episode/29adiBddRBduPVwt8g65oq"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
