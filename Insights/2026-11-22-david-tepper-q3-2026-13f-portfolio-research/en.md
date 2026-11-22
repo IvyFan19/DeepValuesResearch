@@ -25,6 +25,9 @@ youtube:
     url: "https://youtu.be/JDE7TZB-pYM"
     lang: "zh"
 podcast:
+  - title: "David Tepper, SPCX 주식 수 1626% 늘리고 GOOG는 46% 줄였습니다"
+    url: "https://open.spotify.com/episode/3G2F64pLckpVnUg4zEJgcf"
+    lang: "ko"
   - title: "Tepper Cut Alphabet 46%, Added 1,626% to SpaceX | Investor Playbook"
     url: "https://open.spotify.com/episode/5aIQN3SiecLHiIhS2MtqK9"
     lang: "en"
