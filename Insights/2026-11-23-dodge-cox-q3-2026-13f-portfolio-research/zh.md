@@ -21,7 +21,16 @@ youtube:
   - title: "Dodge & Cox Sells $4.89B Net, Yet Buys Danaher and Amazon"
     url: "https://youtu.be/ajUFfrYFtYQ"
     lang: "en"
-podcast: []
+  - title: "Dodge & Cox大買輝達：股價隱含18.3%成長，價值派為何買單"
+    url: "https://youtu.be/Th8ooPgiXoI"
+    lang: "zh"
+podcast:
+  - title: "Dodge & Cox Sells $4.89B Net, Yet Buys Danaher and Amazon | Investor Playbook"
+    url: "https://open.spotify.com/episode/1zx8sPVtCNxdizMkAHnnwK"
+    lang: "en"
+  - title: "Dodge & Cox大買輝達：股價隱含18.3%成長，價值派為何買單｜投資大師心法"
+    url: "https://open.spotify.com/episode/4CTqsrecJppuvHp86tqduU"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

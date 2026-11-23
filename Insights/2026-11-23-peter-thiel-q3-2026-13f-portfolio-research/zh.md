@@ -15,8 +15,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/msft/"
   - title: "Peter Thiel - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Peter_Thiel"
-youtube: []
-podcast: []
+youtube:
+  - title: "Peter Thiel Cuts to 5 Holdings, Bets $161M on SOXX"
+    url: "https://youtu.be/6mjQ5UQnMVI"
+    lang: "en"
+podcast:
+  - title: "Peter Thiel Cuts to 5 Holdings, Bets $161M on SOXX | Investor Playbook"
+    url: "https://open.spotify.com/episode/1uCDoevR0An51xjTQQbO9h"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
