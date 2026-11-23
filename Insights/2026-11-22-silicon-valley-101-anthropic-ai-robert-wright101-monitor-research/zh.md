@@ -13,10 +13,16 @@ youtube:
   - title: "Anthropic IPO: The 20% Drop If an AI Model Deceives"
     url: "https://youtu.be/pZr2gJRRPrk"
     lang: "en"
+  - title: "Anthropic上市：執行長警告AI滅絕三年後，為何反而加速"
+    url: "https://youtu.be/Gbb0FudCeGA"
+    lang: "zh"
 podcast:
   - title: "Anthropic IPO: The 20% Drop If an AI Model Deceives | Investor Playbook"
     url: "https://open.spotify.com/episode/6yz9JeRQ5GSHgG2CAKmXE1"
     lang: "en"
+  - title: "Anthropic上市：執行長警告AI滅絕三年後，為何反而加速｜投資大師心法"
+    url: "https://open.spotify.com/episode/65vpTKarNszzPg4cMOxOiI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

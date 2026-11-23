@@ -18,6 +18,9 @@ source_urls:
   - title: "Oracle (ORCL) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/orcl/"
 youtube:
+  - title: "David Tepper, SPCX 주식 수 1626% 늘리고 GOOG는 46% 줄였습니다"
+    url: "https://youtu.be/RaL84J4u2Dw"
+    lang: "ko"
   - title: "Tepper Cut Alphabet 46%, Added 1,626% to SpaceX"
     url: "https://youtu.be/KB5LQnvcvx4"
     lang: "en"
