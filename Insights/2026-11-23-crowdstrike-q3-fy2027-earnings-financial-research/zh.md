@@ -15,8 +15,20 @@ source_urls:
   - title: "DeepValues valuation worksheet: CRWD, prepared 20…"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "CrowdStrike's $43.9B Zscaler Deal: Moat or Dilution?"
+    url: "https://youtu.be/l1njEh4yCbY"
+    lang: "en"
+  - title: "CrowdStrike全股票併購Zscaler:439億美元換來15.9%股權稀釋"
+    url: "https://youtu.be/bIQOh6_TiJw"
+    lang: "zh"
+podcast:
+  - title: "CrowdStrike (CRWD) — Bearish? CrowdStrike's $43.9B Zscaler Deal: Moat or Dilution?"
+    url: "https://open.spotify.com/episode/3KmUTdzvqS4gRgGNB1byFP"
+    lang: "en"
+  - title: "CrowdStrike（CRWD）看空？CrowdStrike全股票併購Zscaler:439億美…"
+    url: "https://open.spotify.com/episode/6Y6TThwMpUgHI8iOBoyXFO"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
