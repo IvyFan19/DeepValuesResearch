@@ -9,8 +9,14 @@ source_urls:
   - title: "【分享】付鹏：为什么每次市场崩盘，大多数人都跑不掉？"
     url: "https://www.youtube.com/watch?v=5VId1hm6vFc"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Fu Peng: Why 10x Hidden Leverage Traps Investors in a Crash"
+    url: "https://youtu.be/VFw5fWrdIxs"
+    lang: "en"
+podcast:
+  - title: "Fu Peng: Why 10x Hidden Leverage Traps Investors in a Crash"
+    url: "https://open.spotify.com/episode/1K9dyHUm7IVaPNhrN9wfqz"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
