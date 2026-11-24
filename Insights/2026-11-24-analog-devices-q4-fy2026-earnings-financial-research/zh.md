@@ -13,8 +13,14 @@ source_urls:
   - title: "DeepValues valuation worksheet: ADI, prepared 202…"
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/adiq426exhibit991.htm"
-youtube: []
-podcast: []
+youtube:
+  - title: "Analog Devices: $5.45B Real Cash Behind the Adjusted EPS"
+    url: "https://youtu.be/Meiq25CCI4E"
+    lang: "en"
+podcast:
+  - title: "Analog Devices (ADI) — Analog Devices: $5.45B Real Cash Behind the Adjusted EPS"
+    url: "https://open.spotify.com/episode/3mqxZPsEGdgBNEM5x7imQt"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

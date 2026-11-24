@@ -15,8 +15,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1613103/000162828026060473/mdt-20260731.htm"
   - title: "Medtronic (MDT) Stock Earnings Call Q2 FY2027 | CRM +8%, CAS +58%"
     url: "https://www.youtube.com/watch?v=DPPy7JpJU_0"
-youtube: []
-podcast: []
+youtube:
+  - title: "Medtronic: $2B MiniMed Gain vs $2.6B Free Cash Flow"
+    url: "https://youtu.be/EHwBw7u1KEo"
+    lang: "en"
+podcast:
+  - title: "Medtronic (MDT) — Medtronic: $2B MiniMed Gain vs $2.6B Free Cash Flow"
+    url: "https://open.spotify.com/episode/5isRQSkRNUsaM5FcwMoj6E"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
