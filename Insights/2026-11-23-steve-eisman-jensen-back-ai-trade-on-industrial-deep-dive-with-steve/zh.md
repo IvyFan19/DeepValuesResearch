@@ -11,8 +11,20 @@ source_urls:
     url: "https://www.youtube.com/watch?v=cTZ_eF8GkjY"
   - title: "Steve Eisman - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Steve_Eisman"
-youtube: []
-podcast: []
+youtube:
+  - title: "Vertiv與電線桿瓶頸：全美450GW排隊，估值透支了嗎"
+    url: "https://youtu.be/X6vq4z_IPAw"
+    lang: "zh"
+  - title: "Vertiv, Eaton and AI's 450 GW Power Grid Bottleneck"
+    url: "https://youtu.be/-2tMlgY_Jfk"
+    lang: "en"
+podcast:
+  - title: "Vertiv與電線桿瓶頸：全美450GW排隊，估值透支了嗎｜投資大師心法"
+    url: "https://open.spotify.com/episode/0qG5kfsiKf5VIE7Np9r2CO"
+    lang: "zh"
+  - title: "Vertiv, Eaton and AI's 450 GW Power Grid Bottleneck | Investor Playbook"
+    url: "https://open.spotify.com/episode/4LskDowP2hw5hT33hNzg85"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
