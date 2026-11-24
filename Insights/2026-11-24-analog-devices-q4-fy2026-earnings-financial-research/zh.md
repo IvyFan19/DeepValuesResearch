@@ -14,10 +14,16 @@ source_urls:
   - title: "Document"
     url: "https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/adiq426exhibit991.htm"
 youtube:
+  - title: "ADI年賺50億美元真實股東盈餘，應收帳款卻暴增80%"
+    url: "https://youtu.be/LXgyOrYhT5s"
+    lang: "zh"
   - title: "Analog Devices: $5.45B Real Cash Behind the Adjusted EPS"
     url: "https://youtu.be/Meiq25CCI4E"
     lang: "en"
 podcast:
+  - title: "Analog Devices（ADI）ADI年賺50億美元真實股東盈餘，應收帳款卻暴增80%"
+    url: "https://open.spotify.com/episode/3L4jwvzC9jkkxhbuLXpaJ3"
+    lang: "zh"
   - title: "Analog Devices (ADI) — Analog Devices: $5.45B Real Cash Behind the Adjusted EPS"
     url: "https://open.spotify.com/episode/3mqxZPsEGdgBNEM5x7imQt"
     lang: "en"

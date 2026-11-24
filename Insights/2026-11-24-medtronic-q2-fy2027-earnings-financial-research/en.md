@@ -19,10 +19,16 @@ youtube:
   - title: "Medtronic: $2B MiniMed Gain vs $2.6B Free Cash Flow"
     url: "https://youtu.be/EHwBw7u1KEo"
     lang: "en"
+  - title: "美敦力賣糖尿病部門入帳20億美元，真實獲利剩多少？"
+    url: "https://youtu.be/Edj2-PR-gZU"
+    lang: "zh"
 podcast:
   - title: "Medtronic (MDT) — Medtronic: $2B MiniMed Gain vs $2.6B Free Cash Flow"
     url: "https://open.spotify.com/episode/5isRQSkRNUsaM5FcwMoj6E"
     lang: "en"
+  - title: "Medtronic（MDT）美敦力賣糖尿病部門入帳20億美元，真實獲利剩多少？"
+    url: "https://open.spotify.com/episode/56HjFDWZLbqwsJ26MkwF1Q"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
