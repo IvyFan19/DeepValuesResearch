@@ -13,10 +13,16 @@ youtube:
   - title: "Fu Peng: Why 10x Hidden Leverage Traps Investors in a Crash"
     url: "https://youtu.be/VFw5fWrdIxs"
     lang: "en"
+  - title: "輝達財報超預期卻下跌：股價領先8個月，崩盤為何逃不掉"
+    url: "https://youtu.be/oHqUEm107e4"
+    lang: "zh"
 podcast:
   - title: "Fu Peng: Why 10x Hidden Leverage Traps Investors in a Crash"
     url: "https://open.spotify.com/episode/1K9dyHUm7IVaPNhrN9wfqz"
     lang: "en"
+  - title: "輝達財報超預期卻下跌：股價領先8個月，崩盤為何逃不掉｜投資大師心法"
+    url: "https://open.spotify.com/episode/3OnjnN3rV15MEEaivepeWN"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -10,10 +10,16 @@ source_urls:
   - title: "每个拥抱金融泡沫的人，都坚信自己能全身而退​ | 爱德华·钱塞勒 | 金融泡沫 | AI泡沫 | 金融投机史 | 金融狂热 | 互联网泡沫 | 道德风险 | 动量投资 | 被动投资 | 迷因股"
     url: "https://www.youtube.com/watch?v=PlnT4uQQZlg"
 youtube:
+  - title: "AI投資估達15兆美元：連寫泡沫守則的人都賠光"
+    url: "https://youtu.be/tl-utxlLQUQ"
+    lang: "zh"
   - title: "Edward Chancellor: $15 Trillion in AI and the Exit Myth"
     url: "https://youtu.be/lPHiUr2y9PU"
     lang: "en"
 podcast:
+  - title: "AI投資估達15兆美元：連寫泡沫守則的人都賠光｜投資大師心法"
+    url: "https://open.spotify.com/episode/6NcfgDdyMgVNkSI44nWPJI"
+    lang: "zh"
   - title: "Edward Chancellor: $15 Trillion in AI and the Exit Myth | Investor Playbook"
     url: "https://open.spotify.com/episode/1jpNzoGLsVI9slX3lqjCS6"
     lang: "en"
