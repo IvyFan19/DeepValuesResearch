@@ -25,6 +25,9 @@ youtube:
   - title: "Ron Baron、32.9億ドル純売りでも上位10銘柄に61.2%集中"
     url: "https://youtu.be/uXStOpS6FDg"
     lang: "ja"
+  - title: "羅恩巴倫為何減碼亞馬遜36%？市場竟隱含22.1%成長"
+    url: "https://youtu.be/bqgglnfYNn0"
+    lang: "zh"
 podcast:
   - title: "Ron Baron Trims Amazon 36% and Verisk 22% at Rich Prices | Investor Playbook"
     url: "https://open.spotify.com/episode/1vcXJvfkTN2E7nH9VzLWYa"
@@ -35,6 +38,9 @@ podcast:
   - title: "Ron Baron、32.9億ドル純売りでも上位10銘柄に61.2%集中"
     url: "https://open.spotify.com/episode/6i8nTYua3uOySOc9T5nN3i"
     lang: "ja"
+  - title: "羅恩巴倫為何減碼亞馬遜36%？市場竟隱含22.1%成長｜投資大師心法"
+    url: "https://open.spotify.com/episode/5jVGDWdqZaCCQ6afx4GsPx"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
