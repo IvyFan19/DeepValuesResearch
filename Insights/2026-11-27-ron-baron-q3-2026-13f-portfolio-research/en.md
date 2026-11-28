@@ -23,6 +23,9 @@ youtube:
     url: "https://youtu.be/uXStOpS6FDg"
     lang: "ja"
 podcast:
+  - title: "Ron Baron Trims Amazon 36% and Verisk 22% at Rich Prices | Investor Playbook"
+    url: "https://open.spotify.com/episode/1vcXJvfkTN2E7nH9VzLWYa"
+    lang: "en"
   - title: "Ron Baron recorta 36% de Amazon y 22% de Verisk"
     url: "https://open.spotify.com/episode/6E6SjGggAqFpLC8SnCn5yV"
     lang: "es"
