@@ -9,8 +9,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈"
     url: "https://www.youtube.com/watch?v=TYo20zW3MCo"
-youtube: []
-podcast: []
+youtube:
+  - title: "NVIDIA's $2B Bet on Light: Why AI Is Ditching Copper"
+    url: "https://youtu.be/s2xXnDQFtjk"
+    lang: "en"
+podcast:
+  - title: "NVIDIA's $2B Bet on Light: Why AI Is Ditching Copper | Investor Playbook"
+    url: "https://open.spotify.com/episode/1anw4TOLc7CQ8ObNnjZS4Y"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
