@@ -16,6 +16,9 @@ source_urls:
   - title: "Salesforce (CRM) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/crm/"
 youtube:
+  - title: "Coatue砸18.4億美元建倉CRM、加碼微軟：哪筆買得便宜？"
+    url: "https://youtu.be/J7eu-CDffuM"
+    lang: "zh"
   - title: "Coatue's $1.84B Salesforce Bet, Priced for Just 6% Growth"
     url: "https://youtu.be/rwlgtiuPKms"
     lang: "en"
@@ -32,6 +35,9 @@ youtube:
     url: "https://youtu.be/NyzsFutnK4Y"
     lang: "ko"
 podcast:
+  - title: "Coatue砸18.4億美元建倉CRM、加碼微軟：哪筆買得便宜？｜投資大師心法"
+    url: "https://open.spotify.com/episode/2FhVLzXqsjVs62YvjGZNvO"
+    lang: "zh"
   - title: "Coatue's $1.84B Salesforce Bet, Priced for Just 6% Growth | Investor Playbook"
     url: "https://open.spotify.com/episode/6wVjPcPNXUaG9eENaf4efZ"
     lang: "en"

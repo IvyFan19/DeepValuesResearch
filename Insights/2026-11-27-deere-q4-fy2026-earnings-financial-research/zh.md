@@ -21,10 +21,16 @@ youtube:
   - title: "John Deere's Profit Fell Just 3%. Is It Fairly Valued?"
     url: "https://youtu.be/6jhaXOkbVWQ"
     lang: "en"
+  - title: "強鹿營收增4%淨利卻減3%：週期谷底的護城河還在變寬嗎"
+    url: "https://youtu.be/zrwp3wAzkJs"
+    lang: "zh"
 podcast:
   - title: "Deere & Company (DE) — John Deere's Profit Fell Just 3%. Is It Fairly Valued?"
     url: "https://open.spotify.com/episode/3JHwWvtsn0InQLULz5wgcc"
     lang: "en"
+  - title: "Deere & Company（DE）：強鹿營收增4%淨利卻減3%：週期谷底的護城河還在變寬嗎"
+    url: "https://open.spotify.com/episode/3514luyuEAdyTZfFxShPfZ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -14,6 +14,9 @@ youtube:
     url: "https://youtu.be/nhQA4PPr6KQ"
     lang: "en"
 podcast:
+  - title: "Anthropic研究員：1.3年後超人類AI到來，人類將永久失業｜投資大師心法"
+    url: "https://open.spotify.com/episode/4ueU2rdZJEUQ8yAFqwVLCH"
+    lang: "zh"
   - title: "Anthropic Insider: Superhuman AI in 1.3 Years, Moats at Risk | Investor Playbook"
     url: "https://open.spotify.com/episode/5Dz9ODtBrxWVrNDr64JOhn"
     lang: "en"
