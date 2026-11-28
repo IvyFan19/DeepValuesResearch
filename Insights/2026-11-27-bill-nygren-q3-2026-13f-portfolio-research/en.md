@@ -27,6 +27,9 @@ youtube:
     url: "https://youtu.be/UPxYUxR8z-I"
     lang: "ko"
 podcast:
+  - title: "Nygren Buys Meta, Cuts Merck 62%: Which Is Cheaper? | Investor Playbook"
+    url: "https://open.spotify.com/episode/6Bg8F9gWdrc8TZL1pgyZzg"
+    lang: "en"
   - title: "Nygren Q3 2026 13F:Metaを最大の買い、MRKは株数62%減"
     url: "https://open.spotify.com/episode/5tAggEJZtalmNzDtyAfT2Y"
     lang: "ja"

@@ -14,6 +14,9 @@ youtube:
     url: "https://youtu.be/s2xXnDQFtjk"
     lang: "en"
 podcast:
+  - title: "輝達押注光通訊：市場預估暴增74%，股價為何跳水｜投資大師心法"
+    url: "https://open.spotify.com/episode/1k3LPQwrc6RIGLL6Gu9lrj"
+    lang: "zh"
   - title: "NVIDIA's $2B Bet on Light: Why AI Is Ditching Copper | Investor Playbook"
     url: "https://open.spotify.com/episode/1anw4TOLc7CQ8ObNnjZS4Y"
     lang: "en"
