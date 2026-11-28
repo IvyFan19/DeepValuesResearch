@@ -12,10 +12,16 @@ source_urls:
   - title: "https://research.socialcapital.com/p/will-bitcoin-inevitably-go-to-zero"
     url: "https://research.socialcapital.com/p/will-bitcoin-inevitably-go-to-zero"
 youtube:
+  - title: "Chamath問比特幣會歸零嗎？AI破解縮減版AES快達800倍"
+    url: "https://youtu.be/Rtn0hjoOAqo"
+    lang: "zh"
   - title: "Will Bitcoin Go to Zero? Chamath on AI's 800x Faster Attack"
     url: "https://youtu.be/qSigf95wbSE"
     lang: "en"
 podcast:
+  - title: "Chamath問比特幣會歸零嗎？AI破解縮減版AES快達800倍｜投資大師心法"
+    url: "https://open.spotify.com/episode/4UpPVptCviqzT9QYvcZEID"
+    lang: "zh"
   - title: "Will Bitcoin Go to Zero? Chamath on AI's 800x Faster Attack | Investor Playbook"
     url: "https://open.spotify.com/episode/5eoSlaJBps4Pin5aufpp57"
     lang: "en"

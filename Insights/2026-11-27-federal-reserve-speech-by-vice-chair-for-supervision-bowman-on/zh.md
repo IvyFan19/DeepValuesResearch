@@ -11,8 +11,20 @@ source_urls:
     url: "https://en.wikipedia.org/wiki/Federal_Reserve"
   - title: "Speech by Vice Chair for Supervision Bowman on modernizing banking supervision, November 25, 2026"
     url: "https://www.youtube.com/watch?v=oDEFXA31YSU"
-youtube: []
-podcast: []
+youtube:
+  - title: "矽谷銀行收到54次警告仍倒閉：監管機構漏了什麼"
+    url: "https://youtu.be/XaZhFVMK1qU"
+    lang: "zh"
+  - title: "The Fed Flagged SVB 54 Times but Never Forced the Fix"
+    url: "https://youtu.be/NNQ0z3p0pn8"
+    lang: "en"
+podcast:
+  - title: "矽谷銀行收到54次警告仍倒閉：監管機構漏了什麼｜投資大師心法"
+    url: "https://open.spotify.com/episode/2EZ7GFh0wrFoNbdaYIWCu7"
+    lang: "zh"
+  - title: "The Fed Flagged SVB 54 Times but Never Forced the Fix | Investor Playbook"
+    url: "https://open.spotify.com/episode/5Ul2UX0ldJpvqWbyCmiB8y"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
