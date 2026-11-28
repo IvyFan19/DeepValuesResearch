@@ -14,6 +14,9 @@ source_urls:
   - title: "Meta Platforms (META) Stock Analysis: Bearish | DeepValues"
     url: "https://research.deepvalues.ai/company/meta/"
 youtube:
+  - title: "Nygren Buys Meta, Cuts Merck 62%: Which Is Cheaper?"
+    url: "https://youtu.be/rEItp7HWh38"
+    lang: "en"
   - title: "Nygren Q3 2026 13F:Metaを最大の買い、MRKは株数62%減"
     url: "https://youtu.be/X_PIpBmP6q4"
     lang: "ja"

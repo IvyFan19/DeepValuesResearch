@@ -10,6 +10,9 @@ source_urls:
     url: "https://www.youtube.com/watch?v=iIeQROirzLg"
   - title: "DEEPVALUES MONITOR BRIEF"
 youtube:
+  - title: "Anthropic研究員：1.3年後超人類AI到來，人類將永久失業"
+    url: "https://youtu.be/TdlSVqW0Z8E"
+    lang: "zh"
   - title: "Anthropic Insider: Superhuman AI in 1.3 Years, Moats at Risk"
     url: "https://youtu.be/nhQA4PPr6KQ"
     lang: "en"

@@ -13,10 +13,16 @@ youtube:
   - title: "Druckenmiller: 50 Years, No Down Year, Never This Unsure"
     url: "https://youtu.be/1zxGqYZcoKk"
     lang: "en"
+  - title: "德魯肯米勒幾乎清空部位：六大訊號反轉五個，50年來最看不清"
+    url: "https://youtu.be/OYTyPTH1SLw"
+    lang: "zh"
 podcast:
   - title: "Druckenmiller: 50 Years, No Down Year, Never This Unsure | Investor Playbook"
     url: "https://open.spotify.com/episode/31EDZxa3hSRbGFmNvWEuW0"
     lang: "en"
+  - title: "德魯肯米勒幾乎清空部位：六大訊號反轉五個，50年來最看不清｜投資大師心法"
+    url: "https://open.spotify.com/episode/067mxS2addbQdTDkC6PXDE"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

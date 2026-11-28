@@ -16,6 +16,9 @@ source_urls:
   - title: "Verisk Analytics (VRSK) Stock Analysis: Neutral | DeepValues"
     url: "https://research.deepvalues.ai/company/vrsk/"
 youtube:
+  - title: "Ron Baron Trims Amazon 36% and Verisk 22% at Rich Prices"
+    url: "https://youtu.be/y3jA1jceU0w"
+    lang: "en"
   - title: "Ron Baron recorta 36% de Amazon y 22% de Verisk"
     url: "https://youtu.be/7bTqC5Kynik"
     lang: "es"
