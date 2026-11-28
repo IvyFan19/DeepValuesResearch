@@ -9,8 +9,20 @@ source_urls:
   - title: "段永平关注AI"
   - title: "段永平投资AI战略"
   - title: "段永平投资字节跳动澄清"
-youtube: []
-podcast: []
+youtube:
+  - title: "ByteDance at $600B: Why Duan Yongping Still Passes"
+    url: "https://youtu.be/POTlt0y_nUI"
+    lang: "en"
+  - title: "段永平拒絕6000億美元估值的字節跳動：蘋果騰訊AI為何相反"
+    url: "https://youtu.be/aRKekwh2Wos"
+    lang: "zh"
+podcast:
+  - title: "ByteDance at $600B: Why Duan Yongping Still Passes | Investor Playbook"
+    url: "https://open.spotify.com/episode/1vQsIQqj8PNDRWju2JNIf4"
+    lang: "en"
+  - title: "段永平拒絕6000億美元估值的字節跳動：蘋果騰訊AI為何相反｜投資大師心法"
+    url: "https://open.spotify.com/episode/3kGDP25TCgOhvlhpuhFshj"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
