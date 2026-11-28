@@ -11,8 +11,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "https://research.socialcapital.com/p/will-bitcoin-inevitably-go-to-zero"
     url: "https://research.socialcapital.com/p/will-bitcoin-inevitably-go-to-zero"
-youtube: []
-podcast: []
+youtube:
+  - title: "Will Bitcoin Go to Zero? Chamath on AI's 800x Faster Attack"
+    url: "https://youtu.be/qSigf95wbSE"
+    lang: "en"
+podcast:
+  - title: "Will Bitcoin Go to Zero? Chamath on AI's 800x Faster Attack | Investor Playbook"
+    url: "https://open.spotify.com/episode/5eoSlaJBps4Pin5aufpp57"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
