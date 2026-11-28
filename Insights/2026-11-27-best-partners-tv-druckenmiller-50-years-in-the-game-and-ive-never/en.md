@@ -9,8 +9,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "德鲁肯米勒：干了50年，从没像现在这样看不清​ | 德鲁肯米勒 | Druckenmiller | AI泡沫 | 卖任务不卖token | 量子基金 | 太空数据中心 | TomorrowX峰会"
     url: "https://www.youtube.com/watch?v=IKHwGLILcnU"
-youtube: []
-podcast: []
+youtube:
+  - title: "Druckenmiller: 50 Years, No Down Year, Never This Unsure"
+    url: "https://youtu.be/1zxGqYZcoKk"
+    lang: "en"
+podcast:
+  - title: "Druckenmiller: 50 Years, No Down Year, Never This Unsure | Investor Playbook"
+    url: "https://open.spotify.com/episode/31EDZxa3hSRbGFmNvWEuW0"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

@@ -11,8 +11,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "https://research.socialcapital.com/p/physical-ai"
     url: "https://research.socialcapital.com/p/physical-ai"
-youtube: []
-podcast: []
+youtube:
+  - title: "Chamath's Robot Math: $33B In, Cheaper for 0.3% of Work"
+    url: "https://youtu.be/hfqTZCz8bpw"
+    lang: "en"
+podcast:
+  - title: "Chamath's Robot Math: $33B In, Cheaper for 0.3% of Work | Investor Playbook"
+    url: "https://open.spotify.com/episode/1RganlsnR9ULzaOff5ea38"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
