@@ -9,8 +9,14 @@ source_urls:
   - title: "1.3年后超人类 AI 到来，人类将永久失业​ | 超人类AI | Anthropic | AI安全 | 永久失业 | AI接管 | AI风险 | Claude | OpenAI | 减速发展"
     url: "https://www.youtube.com/watch?v=iIeQROirzLg"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic Insider: Superhuman AI in 1.3 Years, Moats at Risk"
+    url: "https://youtu.be/nhQA4PPr6KQ"
+    lang: "en"
+podcast:
+  - title: "Anthropic Insider: Superhuman AI in 1.3 Years, Moats at Risk | Investor Playbook"
+    url: "https://open.spotify.com/episode/5Dz9ODtBrxWVrNDr64JOhn"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

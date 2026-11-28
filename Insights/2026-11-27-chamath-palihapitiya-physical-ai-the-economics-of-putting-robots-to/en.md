@@ -15,10 +15,16 @@ youtube:
   - title: "Chamath's Robot Math: $33B In, Cheaper for 0.3% of Work"
     url: "https://youtu.be/hfqTZCz8bpw"
     lang: "en"
+  - title: "Chamath拆解機器人經濟學：技術能做34%，划算只有0.3%"
+    url: "https://youtu.be/12L7zOHwprU"
+    lang: "zh"
 podcast:
   - title: "Chamath's Robot Math: $33B In, Cheaper for 0.3% of Work | Investor Playbook"
     url: "https://open.spotify.com/episode/1RganlsnR9ULzaOff5ea38"
     lang: "en"
+  - title: "Chamath拆解機器人經濟學：技術能做34%，划算只有0.3%｜投資大師心法"
+    url: "https://open.spotify.com/episode/0KYqno2NpsV84Z04TMQR6e"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

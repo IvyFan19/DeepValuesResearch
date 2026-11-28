@@ -16,6 +16,9 @@ source_urls:
   - title: "Salesforce (CRM) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/crm/"
 youtube:
+  - title: "Coatue's $1.84B Salesforce Bet, Priced for Just 6% Growth"
+    url: "https://youtu.be/rwlgtiuPKms"
+    lang: "en"
   - title: "Coatue kauft netto 9,42 Mrd. $ – CRM 42,5 % unter Basiswert"
     url: "https://youtu.be/47sbgE8dCS0"
     lang: "de"
@@ -29,6 +32,9 @@ youtube:
     url: "https://youtu.be/NyzsFutnK4Y"
     lang: "ko"
 podcast:
+  - title: "Coatue's $1.84B Salesforce Bet, Priced for Just 6% Growth | Investor Playbook"
+    url: "https://open.spotify.com/episode/6wVjPcPNXUaG9eENaf4efZ"
+    lang: "en"
   - title: "Coatue kauft netto 9,42 Mrd. $ – CRM 42,5 % unter Basiswert"
     url: "https://open.spotify.com/episode/3Cz8FrUAJHOdMiPIkv25Ag"
     lang: "de"
